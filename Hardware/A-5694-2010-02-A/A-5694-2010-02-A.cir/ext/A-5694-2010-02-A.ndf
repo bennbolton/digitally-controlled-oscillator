@@ -1,0 +1,1044 @@
+"SIGN00162"    :       : "P-CP14-0130"      : "CAP-2PIN"        : "C1"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp517"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00160"    :       : "P-CP14-0130"      : "CAP-2PIN"        : "C1"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp517"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00144"    :       : "P-CP14-0130"      : "CAP-2PIN"        : "C2"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp518"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00164"    :       : "P-CP14-0130"      : "CAP-2PIN"        : "C2"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp518"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00193"    :       : "P-CP14-0130"      : "CAP-2PIN"        : "C3"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp519"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00162"    :       : "P-CP14-0130"      : "CAP-2PIN"        : "C3"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp519"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00144"    :       : "P-CP14-0172"      : "CAP-2PIN"        : "C4"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp512"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0015"     :       : "P-CP14-0172"      : "CAP-2PIN"        : "C4"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp512"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0172"      : "CAP-2PIN"        : "C5"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp514"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00162"    :       : "P-CP14-0172"      : "CAP-2PIN"        : "C5"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp514"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00154"    :       : "P-CP22-22P1"      : "CAP-2PIN"        : "C6"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp359"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"DIGI_3A"      :       : "P-CP22-22P1"      : "CAP-2PIN"        : "C6"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp359"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00162"    :       : "P-CP14-0172"      : "CAP-2PIN"        : "C7"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp515"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0014"     :       : "P-CP14-0172"      : "CAP-2PIN"        : "C7"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp515"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0174"      : "CAP-2PIN"        : "C8"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp367"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00111"    :       : "P-CP14-0174"      : "CAP-2PIN"        : "C8"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp367"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00146"    :       : "P-CP22-22P1"      : "CAP-2PIN"        : "C9"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp454"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"PWM"          :       : "P-CP22-22P1"      : "CAP-2PIN"        : "C9"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp454"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C10"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp292"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C10"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp292"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C11"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp218"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C11"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp218"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00182"    :       : "P-CP14-0167"      : "CAP-2PIN"        : "C12"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp307"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00139"    :       : "P-CP14-0167"      : "CAP-2PIN"        : "C12"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp307"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0167"      : "CAP-2PIN"        : "C13"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp84"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0022"     :       : "P-CP14-0167"      : "CAP-2PIN"        : "C13"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp84"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0167"      : "CAP-2PIN"        : "C14"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp86"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0021"     :       : "P-CP14-0167"      : "CAP-2PIN"        : "C14"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp86"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0167"      : "CAP-2PIN"        : "C15"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp85"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0023"     :       : "P-CP14-0167"      : "CAP-2PIN"        : "C15"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp85"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0167"      : "CAP-2PIN"        : "C16"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp139"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0029"     :       : "P-CP14-0167"      : "CAP-2PIN"        : "C16"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp139"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0167"      : "CAP-2PIN"        : "C17"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp174"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00213"    :       : "P-CP14-0167"      : "CAP-2PIN"        : "C17"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp174"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-10N0"      : "CAP-2PIN"        : "C18"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp116"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"ENC_B"        :       : "P-CP22-10N0"      : "CAP-2PIN"        : "C18"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp116"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-10N0"      : "CAP-2PIN"        : "C19"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp117"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"ENC_A"        :       : "P-CP22-10N0"      : "CAP-2PIN"        : "C19"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp117"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-10N0"      : "CAP-2PIN"        : "C20"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp361"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"ENC_SW"       :       : "P-CP22-10N0"      : "CAP-2PIN"        : "C20"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp361"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C21"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp101"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C21"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp101"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C22"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp81"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C22"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp81"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C23"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp161"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C23"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp161"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C24"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp106"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C24"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp106"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C25"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp92"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C25"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp92"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C26"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp111"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C26"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp111"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C27"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp166"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C27"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp166"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C31"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp90"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C31"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp90"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C32"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp123"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C32"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp123"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C33"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp124"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C33"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp124"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C34"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp85"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C34"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp85"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C35"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp60"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"16-24V"       :       : "P-CP22-0003"      : "CAP-2PIN"        : "C35"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp60"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C36"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp71"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"16-24V"       :       : "P-CP22-0003"      : "CAP-2PIN"        : "C36"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp71"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"16-24V"       :       : "P-CP22-0003"      : "CAP-2PIN"        : "C37"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp65"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C37"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp65"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C38"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp122"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C38"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp122"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C39"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp121"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C39"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp121"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C40"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp135"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C40"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp135"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C41"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp127"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C41"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp127"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C42"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp156"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C42"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp156"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C43"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp140"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C43"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp140"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0109"      : "CAP-2PIN"        : "C44"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp62"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP14-0109"      : "CAP-2PIN"        : "C44"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp62"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP14-0109"      : "CAP-2PIN"        : "C45"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp64"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0109"      : "CAP-2PIN"        : "C45"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp64"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0109"      : "CAP-2PIN"        : "C46"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp75"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0037"     :       : "P-CP14-0109"      : "CAP-2PIN"        : "C46"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp75"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C47"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp152"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C47"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp152"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0109"      : "CAP-2PIN"        : "C48"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp56"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP14-0109"      : "CAP-2PIN"        : "C48"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp56"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP14-0109"      : "CAP-2PIN"        : "C49"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp70"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0109"      : "CAP-2PIN"        : "C49"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp70"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP14-0109"      : "CAP-2PIN"        : "C50"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp72"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0037"     :       : "P-CP14-0109"      : "CAP-2PIN"        : "C50"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp72"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C51"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp144"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C51"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp144"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C52"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp98"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C52"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp98"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C53"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp97"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C53"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp97"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C54"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp120"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C54"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp120"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C55"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp165"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C55"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp165"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C56"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp175"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C56"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp175"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C57"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp150"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C57"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp150"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C58"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp130"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C58"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp130"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C59"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp176"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C59"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp176"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C60"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp129"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C60"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp129"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C61"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp153"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C61"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp153"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C62"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp155"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C62"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp155"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CP22-0003"      : "CAP-2PIN"        : "C63"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp219"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+5V"          : POWER : "P-CP22-0003"      : "CAP-2PIN"        : "C63"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp219"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"16-24V"       :       : "P-NM16-0200"      : "CAP-2PIN-POL"    : "C64"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp226"
+: "+"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-NM16-0200"      : "CAP-2PIN-POL"    : "C64"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp226"
+: "-"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00111"    :       : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D1"                                                                        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp311"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"DIGI_3A"      :       : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D1"                                                                        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp311"
+: "K1/A2"                                                                                                                      : PACKAGESYMBOL;
+"DIGI_3A"      :       : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D1"                                                                        : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp311"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D2"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp466"
+: "K1"                                                                                                                         : PACKAGESYMBOL;
+"SIGN00199"    :       : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D2"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp466"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"SIGN00199"    :       : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D2"        : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp466"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D2"        : "4"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp466"
+: "A2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D3"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp461"
+: "K1"                                                                                                                         : PACKAGESYMBOL;
+"SIGN00197"    :       : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D3"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp461"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"SIGN00197"    :       : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D3"        : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp461"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D3"        : "4"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp461"
+: "A2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D4"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp261"
+: "K1"                                                                                                                         : PACKAGESYMBOL;
+"SIGN00173"    :       : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D4"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp261"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"SIGN00173"    :       : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D4"        : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp261"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D4"        : "4"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp261"
+: "A2"                                                                                                                         : PACKAGESYMBOL;
+"SIGN00233"    :       : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D5"        : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp331"
+: "K1"                                                                                                                         : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D5"        : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp331"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"SIGN00234"    :       : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D5"        : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp331"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D5"        : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp331"
+: "A2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D6"                                                                        : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp312"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"F_PWM"        :       : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D6"                                                                        : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp312"
+: "K1/A2"                                                                                                                      : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D6"                                                                        : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp312"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D7"                                                                        : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp324"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"F_SIN"        :       : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D7"                                                                        : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp324"
+: "K1/A2"                                                                                                                      : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D7"                                                                        : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp324"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D8"                                                                        : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp354"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"ENC_A"        :       : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D8"                                                                        : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp354"
+: "K1/A2"                                                                                                                      : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D8"                                                                        : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp354"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D9"                                                                        : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp351"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"ENC_SW"       :       : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D9"                                                                        : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp351"
+: "K1/A2"                                                                                                                      : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D9"                                                                        : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp351"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"SIGN0035"     :       : "P-DD01-0314"      : "DIODE-AK"        : "D10"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp231"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"16-24V"       :       : "P-DD01-0314"      : "DIODE-AK"        : "D10"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp231"
+: "K"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D12"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp179"
+: "K1"                                                                                                                         : PACKAGESYMBOL;
+"SIGN0033"     :       : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D12"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp179"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"SIGN0034"     :       : "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D12"       : "3"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp179"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-VT01-0017"      : "LEDX2-RED-GRN"   : "D12"       : "4"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp179"
+: "A2"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D13"                                                                       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp420"
+: "A1"                                                                                                                         : PACKAGESYMBOL;
+"ENC_B"        :       : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D13"                                                                       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp420"
+: "K1/A2"                                                                                                                      : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-DD08-0040"      : "DUAL_STKY_DIO-A-KA-K"
+: "D13"                                                                       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp420"
+: "K2"                                                                                                                         : PACKAGESYMBOL;
+"SIGN0037"     :       : "P-DD08-0028"      : "STKY-DIO"        : "D14"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp217"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+5V"          : POWER : "P-DD08-0028"      : "STKY-DIO"        : "D14"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp217"
+: "K"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "HOLE-3m0-3m8PAD"  : "HOLE_TERM"       : "FIX1"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp213"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "HOLE-3m0-3m8PAD"  : "HOLE_TERM"       : "FIX2"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp215"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "HOLE-3m0-3m8PAD"  : "HOLE_TERM"       : "FIX3"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp216"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "HOLE-3m0-3m8PAD"  : "HOLE_TERM"       : "FIX4"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp214"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIN_CAP_SEL"  :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp394"
+: "IN"                                                                                                                         :              ;
+"SIGN00160"    :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp394"
+: "S"                                                                                                                          :              ;
+"SIGN0014"     :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp394"
+: "D"                                                                                                                          :              ;
+"-12V"         : POWER : "P-ML10-0011"      :                : "IC1"          : "4"  :           :                      :      :              ;
+"GND"          : GROUND: "P-ML10-0011"      :                : "IC1"          : "5"  :           :                      :      :              ;
+"SIGN00164"    :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "6"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp395"
+: "D"                                                                                                                          :              ;
+"SIGN0015"     :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "7"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp395"
+: "S"                                                                                                                          :              ;
+"TRI_CAP_SEL"  :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "8"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp395"
+: "IN"                                                                                                                         :              ;
+"SPARE_SW"     :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "9"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp564"
+: "IN"                                                                                                                         :              ;
+"SIGN001111"   :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "10" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp564"
+: "S"                                                                                                                          :              ;
+"SIGN001112"   :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "11" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp564"
+: "D"                                                                                                                          :              ;
+"+3V3"         : POWER : "P-ML10-0011"      :                : "IC1"          : "12" :           :                      :      :              ;
+"+12V"         : POWER : "P-ML10-0011"      :                : "IC1"          : "13" :           :                      :      :              ;
+"GND"          : GROUND: "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "14" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp557"
+: "D"                                                                                                                          :              ;
+"SIGN00193"    :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "15" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp557"
+: "S"                                                                                                                          :              ;
+"SIN_CAP_SEL"  :       : "P-ML10-0011"      : "SPST_OFF_1"      : "IC1"       : "16" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp557"
+: "IN"                                                                                                                         :              ;
+"SIN"          :       : "P-ML01-1073"      : "OPAMP_1"         : "IC2"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp520"
+: "O/P"                                                                                                                        :              ;
+"SIGN0016"     :       : "P-ML01-1073"      : "OPAMP_1"         : "IC2"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp520"
+: "-"                                                                                                                          :              ;
+"GND"          : GROUND: "P-ML01-1073"      : "OPAMP_1"         : "IC2"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp520"
+: "+"                                                                                                                          :              ;
+"-12V"         : POWER : "P-ML01-1073"      :                : "IC2"          : "4"  :           :                      :      :              ;
+"SIGN00162"    :       : "P-ML01-1073"      : "OPAMP_1"         : "IC2"       : "5"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp543"
+: "+"                                                                                                                          :              ;
+"SIGN00154"    :       : "P-ML01-1073"      : "OPAMP_1"         : "IC2"       : "6"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp543"
+: "-"                                                                                                                          :              ;
+"DIGI_3A"      :       : "P-ML01-1073"      : "OPAMP_1"         : "IC2"       : "7"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp543"
+: "O/P"                                                                                                                        :              ;
+"+12V"         : POWER : "P-ML01-1073"      :                : "IC2"          : "8"  :           :                      :      :              ;
+"DIGI_1W"      :       : "P-ML01-1073"      : "OPAMP_1"         : "IC3"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp558"
+: "O/P"                                                                                                                        :              ;
+"GND"          : GROUND: "P-ML01-1073"      : "OPAMP_1"         : "IC3"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp558"
+: "-"                                                                                                                          :              ;
+"SIGN0019"     :       : "P-ML01-1073"      : "OPAMP_1"         : "IC3"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp558"
+: "+"                                                                                                                          :              ;
+"-12V"         : POWER : "P-ML01-1073"      :                : "IC3"          : "4"  :           :                      :      :              ;
+"GND"          : GROUND: "P-ML01-1073"      : "OPAMP_1"         : "IC3"       : "5"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp559"
+: "+"                                                                                                                          :              ;
+"SIGN00144"    :       : "P-ML01-1073"      : "OPAMP_1"         : "IC3"       : "6"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp559"
+: "-"                                                                                                                          :              ;
+"SIGN0015"     :       : "P-ML01-1073"      : "OPAMP_1"         : "IC3"       : "7"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp559"
+: "O/P"                                                                                                                        :              ;
+"+12V"         : POWER : "P-ML01-1073"      :                : "IC3"          : "8"  :           :                      :      :              ;
+"SIGN00145"    :       : "P-ML01-1073"      : "OPAMP_1"         : "IC4"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp556"
+: "O/P"                                                                                                                        :              ;
+"SIGN0015"     :       : "P-ML01-1073"      : "OPAMP_1"         : "IC4"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp556"
+: "-"                                                                                                                          :              ;
+"DIGI_4W"      :       : "P-ML01-1073"      : "OPAMP_1"         : "IC4"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp556"
+: "+"                                                                                                                          :              ;
+"-12V"         : POWER : "P-ML01-1073"      :                : "IC4"          : "4"  :           :                      :      :              ;
+"SIGN0015"     :       : "P-ML01-1073"      : "OPAMP_1"         : "IC4"       : "5"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp546"
+: "+"                                                                                                                          :              ;
+"TRI"          :       : "P-ML01-1073"      : "OPAMP_1"         : "IC4"       : "6"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp546"
+: "-"                                                                                                                          :              ;
+"TRI"          :       : "P-ML01-1073"      : "OPAMP_1"         : "IC4"       : "7"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp546"
+: "O/P"                                                                                                                        :              ;
+"+12V"         : POWER : "P-ML01-1073"      :                : "IC4"          : "8"  :           :                      :      :              ;
+"PWM_LED"      :       : "P-ML01-1073"      : "OPAMP_1"         : "IC5"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp536"
+: "O/P"                                                                                                                        :              ;
+"PWM_LED"      :       : "P-ML01-1073"      : "OPAMP_1"         : "IC5"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp536"
+: "-"                                                                                                                          :              ;
+"PWM"          :       : "P-ML01-1073"      : "OPAMP_1"         : "IC5"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp536"
+: "+"                                                                                                                          :              ;
+"-12V"         : POWER : "P-ML01-1073"      :                : "IC5"          : "4"  :           :                      :      :              ;
+"GND"          : GROUND: "P-ML01-1073"      : "OPAMP_1"         : "IC5"       : "5"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp523"
+: "+"                                                                                                                          :              ;
+"SIGN00146"    :       : "P-ML01-1073"      : "OPAMP_1"         : "IC5"       : "6"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp523"
+: "-"                                                                                                                          :              ;
+"PWM"          :       : "P-ML01-1073"      : "OPAMP_1"         : "IC5"       : "7"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp523"
+: "O/P"                                                                                                                        :              ;
+"+12V"         : POWER : "P-ML01-1073"      :                : "IC5"          : "8"  :           :                      :      :              ;
+"TRI_LED"      :       : "P-ML01-1073"      : "OPAMP_1"         : "IC6"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp531"
+: "O/P"                                                                                                                        :              ;
+"TRI_LED"      :       : "P-ML01-1073"      : "OPAMP_1"         : "IC6"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp531"
+: "-"                                                                                                                          :              ;
+"TRI"          :       : "P-ML01-1073"      : "OPAMP_1"         : "IC6"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp531"
+: "+"                                                                                                                          :              ;
+"-12V"         : POWER : "P-ML01-1073"      :                : "IC6"          : "4"  :           :                      :      :              ;
+"SIGN001108"   :       : "P-ML01-1073"      : "OPAMP_1"         : "IC6"       : "5"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp535"
+: "+"                                                                                                                          :              ;
+"SIGN001114"   :       : "P-ML01-1073"      : "OPAMP_1"         : "IC6"       : "6"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp535"
+: "-"                                                                                                                          :              ;
+"SIGN001109"   :       : "P-ML01-1073"      : "OPAMP_1"         : "IC6"       : "7"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp535"
+: "O/P"                                                                                                                        :              ;
+"+12V"         : POWER : "P-ML01-1073"      :                : "IC6"          : "8"  :           :                      :      :              ;
+"SIN_LED"      :       : "P-ML01-1073"      : "OPAMP_1"         : "IC7"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp547"
+: "O/P"                                                                                                                        :              ;
+"SIN_LED"      :       : "P-ML01-1073"      : "OPAMP_1"         : "IC7"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp547"
+: "-"                                                                                                                          :              ;
+"SIN"          :       : "P-ML01-1073"      : "OPAMP_1"         : "IC7"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp547"
+: "+"                                                                                                                          :              ;
+"-12V"         : POWER : "P-ML01-1073"      :                : "IC7"          : "4"  :           :                      :      :              ;
+"GND"          : GROUND: "P-ML01-1073"      : "OPAMP_1"         : "IC7"       : "5"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp537"
+: "+"                                                                                                                          :              ;
+"SIGN001104"   :       : "P-ML01-1073"      : "OPAMP_1"         : "IC7"       : "6"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp537"
+: "-"                                                                                                                          :              ;
+"SIGN00182"    :       : "P-ML01-1073"      : "OPAMP_1"         : "IC7"       : "7"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp537"
+: "O/P"                                                                                                                        :              ;
+"+12V"         : POWER : "P-ML01-1073"      :                : "IC7"          : "8"  :           :                      :      :              ;
+"MUX_SEL0"     :       : "P-ML10-0059"      : "DG408"           : "IC8"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "A0"                                                                                                                         :              ;
+"+12V"         : POWER : "P-ML10-0059"      : "DG408"           : "IC8"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "EN"                                                                                                                         :              ;
+"-12V"         : POWER : "P-ML10-0059"      : "DG408"           : "IC8"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "V-"                                                                                                                         :              ;
+"PWM"          :       : "P-ML10-0059"      : "DG408"           : "IC8"       : "4"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "S1"                                                                                                                         :              ;
+"TRI"          :       : "P-ML10-0059"      : "DG408"           : "IC8"       : "5"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "S2"                                                                                                                         :              ;
+"SIN"          :       : "P-ML10-0059"      : "DG408"           : "IC8"       : "6"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "S3"                                                                                                                         :              ;
+"GND"          : GROUND: "P-ML10-0059"      : "DG408"           : "IC8"       : "7"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "S4"                                                                                                                         :              ;
+"MUX_OUT"      :       : "P-ML10-0059"      : "DG408"           : "IC8"       : "8"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "D"                                                                                                                          :              ;
+"GND"          : GROUND: "P-ML10-0059"      : "DG408"           : "IC8"       : "9"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "S8"                                                                                                                         :              ;
+"GND"          : GROUND: "P-ML10-0059"      : "DG408"           : "IC8"       : "10" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "S7"                                                                                                                         :              ;
+"GND"          : GROUND: "P-ML10-0059"      : "DG408"           : "IC8"       : "11" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "S6"                                                                                                                         :              ;
+"GND"          : GROUND: "P-ML10-0059"      : "DG408"           : "IC8"       : "12" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "S5"                                                                                                                         :              ;
+"+12V"         : POWER : "P-ML10-0059"      : "DG408"           : "IC8"       : "13" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "V+"                                                                                                                         :              ;
+"GND"          : GROUND: "P-ML10-0059"      : "DG408"           : "IC8"       : "14" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "GND"                                                                                                                        :              ;
+"SIGN00178"    :       : "P-ML10-0059"      : "DG408"           : "IC8"       : "15" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "A2"                                                                                                                         :              ;
+"MUX_SEL1"     :       : "P-ML10-0059"      : "DG408"           : "IC8"       : "16" : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"
+: "A1"                                                                                                                         :              ;
+"16-24V"       :       : "P-EA03-0083"      : "SR10S05"         : "IC9"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp55"
+: "+VIN"                                                                                                                       :              ;
+"GND"          : GROUND: "P-EA03-0083"      : "SR10S05"         : "IC9"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp55"
+: "GND"                                                                                                                        :              ;
+"+12V"         : POWER : "P-EA03-0083"      : "SR10S05"         : "IC9"       : "3"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp55"
+: "+VOUT"                                                                                                                      :              ;
+"16-24V"       :       : "P-EA03-0083"      : "SR10S05"         : "IC10"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp63"
+: "+VIN"                                                                                                                       :              ;
+"-12V"         : POWER : "P-EA03-0083"      : "SR10S05"         : "IC10"      : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp63"
+: "GND"                                                                                                                        :              ;
+"GND"          : GROUND: "P-EA03-0083"      : "SR10S05"         : "IC10"      : "3"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp63"
+: "+VOUT"                                                                                                                      :              ;
+"16-24V"       :       : "P-EA03-0083"      : "SR10S05"         : "IC11"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp77"
+: "+VIN"                                                                                                                       :              ;
+"GND"          : GROUND: "P-EA03-0083"      : "SR10S05"         : "IC11"      : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp77"
+: "GND"                                                                                                                        :              ;
+"SIGN0037"     :       : "P-EA03-0083"      : "SR10S05"         : "IC11"      : "3"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp77"
+: "+VOUT"                                                                                                                      :              ;
+"SIGN001113"   :       : "WIRE-TERM_1m0"    : "WIRE_TERM"       : "MIS1"      : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp552"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001108"   :       : "WIRE-TERM_1m0"    : "WIRE_TERM"       : "MIS2"      : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp566"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001111"   :       : "WIRE-TERM_1m0"    : "WIRE_TERM"       : "MIS3"      : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp563"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001112"   :       : "WIRE-TERM_1m0"    : "WIRE_TERM"       : "MIS4"      : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp562"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001109"   :       : "WIRE-TERM_1m0"    : "WIRE_TERM"       : "MIS5"      : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp553"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"DIGI_1A"      :       : "P-RF35-06K8"      : "RES-FIX"         : "R1"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp510"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00144"    :       : "P-RF35-06K8"      : "RES-FIX"         : "R1"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp510"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"DIGI_2A"      :       : "P-RF35-0007"      : "RES-FIX"         : "R2"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp441"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00162"    :       : "P-RF35-0007"      : "RES-FIX"         : "R2"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp441"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-RF35-010K"      : "RES-FIX"         : "R3"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp109"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00167"    :       : "P-RF35-010K"      : "RES-FIX"         : "R3"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp109"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00154"    :       : "P-RF35-04K7"      : "RES-FIX"         : "R4"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp96"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"DIGI_5A"      :       : "P-RF35-04K7"      : "RES-FIX"         : "R4"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp96"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0015"     :       : "P-RF35-36K0"      : "RES-FIX"         : "R5"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp45"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0019"     :       : "P-RF35-36K0"      : "RES-FIX"         : "R5"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp45"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0014"     :       : "P-RF35-0007"      : "RES-FIX"         : "R6"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp73"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"DIGI_3W"      :       : "P-RF35-0007"      : "RES-FIX"         : "R6"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp73"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-RF35-100K"      : "RES-FIX"         : "R7"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp440"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00111"    :       : "P-RF35-100K"      : "RES-FIX"         : "R7"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp440"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0019"     :       : "P-RF35-39K0"      : "RES-FIX"         : "R8"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp48"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"DIGI_1W"      :       : "P-RF35-39K0"      : "RES-FIX"         : "R8"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp48"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"DIGI_3A"      :       : "P-RF35-010K"      : "RES-FIX"         : "R9"        : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp95"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0016"     :       : "P-RF35-010K"      : "RES-FIX"         : "R9"        : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp95"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"DIGI_4W"      :       : "P-RF35-01M0"      : "RES-FIX"         : "R10"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp282"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00145"    :       : "P-RF35-01M0"      : "RES-FIX"         : "R10"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp282"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00145"    :       : "P-RF35-43K0"      : "RES-FIX"         : "R11"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp181"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00146"    :       : "P-RF35-43K0"      : "RES-FIX"         : "R11"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp181"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0016"     :       : "P-RF35-20K0"      : "RES-FIX"         : "R12"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp41"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIN"          :       : "P-RF35-20K0"      : "RES-FIX"         : "R12"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp41"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00146"    :       : "P-RF35-36K0"      : "RES-FIX"         : "R13"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp182"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"PWM"          :       : "P-RF35-36K0"      : "RES-FIX"         : "R13"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp182"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-RF35-010K"      : "RES-FIX"         : "R14"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp439"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00178"    :       : "P-RF35-010K"      : "RES-FIX"         : "R14"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp439"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"TRI_LED"      :       : "P-RF35-0019"      : "RES-FIX"         : "R15"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp462"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00199"    :       : "P-RF35-0019"      : "RES-FIX"         : "R15"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp462"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"PWM_LED"      :       : "P-RF35-0019"      : "RES-FIX"         : "R16"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp457"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00197"    :       : "P-RF35-0019"      : "RES-FIX"         : "R16"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp457"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIN_LED"      :       : "P-RF35-0019"      : "RES-FIX"         : "R17"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp269"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00173"    :       : "P-RF35-0019"      : "RES-FIX"         : "R17"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp269"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-RF35-22K0"      : "RES-FIX"         : "R18"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp298"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00185"    :       : "P-RF35-22K0"      : "RES-FIX"         : "R18"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp298"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00185"    :       : "P-RF35-150K"      : "RES-FIX"         : "R19"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp299"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001104"   :       : "P-RF35-150K"      : "RES-FIX"         : "R19"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp299"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-RF35-000R"      : "RES-FIX"         : "R20"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp550"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001108"   :       : "P-RF35-000R"      : "RES-FIX"         : "R20"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp550"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001104"   :       : "P-RF35-22K0"      : "RES-FIX"         : "R21"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp438"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00182"    :       : "P-RF35-22K0"      : "RES-FIX"         : "R21"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp438"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001113"   :       : "P-RF35-000R"      : "RES-FIX"         : "R22"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp549"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001114"   :       : "P-RF35-000R"      : "RES-FIX"         : "R22"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp549"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00182"    :       : "P-RF35-000R"      : "RES-FIX"         : "R23"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp308"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00139"    :       : "P-RF35-000R"      : "RES-FIX"         : "R23"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp308"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001114"   :       : "P-RF35-000R"      : "RES-FIX"         : "R24"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp548"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN001109"   :       : "P-RF35-000R"      : "RES-FIX"         : "R24"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp548"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-RF35-02K2"      : "RES-FIX"         : "R25"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp362"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00139"    :       : "P-RF35-02K2"      : "RES-FIX"         : "R25"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp362"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-RF35-02K2"      : "RES-FIX"         : "R26"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp97"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0026"     :       : "P-RF35-02K2"      : "RES-FIX"         : "R26"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp97"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-RF35-02K2"      : "RES-FIX"         : "R27"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp131"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00214"    :       : "P-RF35-02K2"      : "RES-FIX"         : "R27"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp131"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-RF35-02K2"      : "RES-FIX"         : "R28"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp167"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00210"    :       : "P-RF35-02K2"      : "RES-FIX"         : "R28"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp167"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-RF35-02K2"      : "RES-FIX"         : "R29"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp171"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00211"    :       : "P-RF35-02K2"      : "RES-FIX"         : "R29"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp171"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00221"    :       : "P-RF35-22K0"      : "RES-FIX"         : "R30"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp227"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-RF35-22K0"      : "RES-FIX"         : "R30"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp227"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-RF35-22K0"      : "RES-FIX"         : "R31"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp226"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00222"    :       : "P-RF35-22K0"      : "RES-FIX"         : "R31"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp226"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0028"     :       : "P-RF35-010K"      : "RES-FIX"         : "R32"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp219"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-RF35-010K"      : "RES-FIX"         : "R32"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp219"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0027"     :       : "P-RF35-010K"      : "RES-FIX"         : "R33"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp218"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-RF35-010K"      : "RES-FIX"         : "R33"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp218"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0027"     :       : "P-RF35-010K"      : "RES-FIX"         : "R34"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp216"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"ENC_A"        :       : "P-RF35-010K"      : "RES-FIX"         : "R34"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp216"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"ENC_B"        :       : "P-RF35-010K"      : "RES-FIX"         : "R35"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp217"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0028"     :       : "P-RF35-010K"      : "RES-FIX"         : "R35"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp217"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00231"    :       : "P-RF35-010K"      : "RES-FIX"         : "R36"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp364"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-RF35-010K"      : "RES-FIX"         : "R36"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp364"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"ENC_SW"       :       : "P-RF35-01K0"      : "RES-FIX"         : "R37"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp362"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00231"    :       : "P-RF35-01K0"      : "RES-FIX"         : "R37"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp362"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00234"    :       : "P-RF35-120R"      : "RES-FIX"         : "R38"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp371"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"DBUG_2"       :       : "P-RF35-120R"      : "RES-FIX"         : "R38"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp371"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00233"    :       : "P-RF35-120R"      : "RES-FIX"         : "R39"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp372"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"DBUG_1"       :       : "P-RF35-120R"      : "RES-FIX"         : "R39"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp372"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"PWM"          :       : "P-RF35-047K"      : "RES-FIX"         : "R40"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp357"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"F_PWM"        :       : "P-RF35-047K"      : "RES-FIX"         : "R40"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp357"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIN"          :       : "P-RF35-047K"      : "RES-FIX"         : "R41"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp358"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"F_SIN"        :       : "P-RF35-047K"      : "RES-FIX"         : "R41"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp358"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-RF35-02K2"      : "RES-FIX"         : "R42"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp258"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"RDY"          :       : "P-RF35-02K2"      : "RES-FIX"         : "R42"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp258"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-RF35-0019"      : "RES-FIX"         : "R43"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp49"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0033"     :       : "P-RF35-0019"      : "RES-FIX"         : "R43"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp49"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-RF35-0019"      : "RES-FIX"         : "R44"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp40"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0034"     :       : "P-RF35-0019"      : "RES-FIX"         : "R44"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp40"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"DG_RST"       :       : "P-RF35-010K"      : "RES-FIX"         : "R45"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp424"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-RF35-010K"      : "RES-FIX"         : "R45"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp424"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-RF35-010K"      : "RES-FIX"         : "R46"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp437"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"TRI_CAP_SEL"  :       : "P-RF35-010K"      : "RES-FIX"         : "R46"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp437"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-RF35-010K"      : "RES-FIX"         : "R47"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp438"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"SIN_CAP_SEL"  :       : "P-RF35-010K"      : "RES-FIX"         : "R47"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp438"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-NM21-0043"      : "RES-VAR"         : "RV1"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp296"
+: "CCW"                                                                                                                        : PACKAGESYMBOL;
+"SIGN00185"    :       : "P-NM21-0043"      : "RES-VAR"         : "RV1"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp296"
+: "W"                                                                                                                          : PACKAGESYMBOL;
+"MUX_OUT"      :       : "P-NM21-0043"      : "RES-VAR"         : "RV1"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp296"
+: "CW"                                                                                                                         : PACKAGESYMBOL;
+"DG_RST"       :       : "P-RV05-0008"      : "AD5293"          : "RV2"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"
+: "%RESET%"                                                                                                                    :              ;
+"-12V"         : POWER : "P-RV05-0008"      : "AD5293_pwr"      : "RV2"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp96"
+: "VSS"                                                                                                                        :              ;
+"DIGI_5A"      :       : "P-RV05-0008"      : "AD5293"          : "RV2"       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"
+: "A"                                                                                                                          :              ;
+"DIGI_3A"      :       : "P-RV05-0008"      : "AD5293"          : "RV2"       : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"
+: "W"                                                                                                                          :              ;
+"DIGI_3A"      :       : "P-RV05-0008"      : "AD5293"          : "RV2"       : "5"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"
+: "B"                                                                                                                          :              ;
+"+12V"         : POWER : "P-RV05-0008"      : "AD5293_pwr"      : "RV2"       : "6"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp96"
+: "VDD"                                                                                                                        :              ;
+"SIGN0022"     :       : "P-RV05-0008"      : "AD5293"          : "RV2"       : "7"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"
+: "EXT_CAP"                                                                                                                    :              ;
+"+3V3"         : POWER : "P-RV05-0008"      : "AD5293_pwr"      : "RV2"       : "8"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp96"
+: "VLOGIC"                                                                                                                     :              ;
+"GND"          : GROUND: "P-RV05-0008"      : "AD5293_pwr"      : "RV2"       : "9"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp96"
+: "GND"                                                                                                                        :              ;
+"MOSI"         :       : "P-RV05-0008"      : "AD5293"          : "RV2"       : "10" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"
+: "DIN"                                                                                                                        :              ;
+"SCLK"         :       : "P-RV05-0008"      : "AD5293"          : "RV2"       : "11" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"
+: "SCLK"                                                                                                                       :              ;
+"SS"           :       : "P-RV05-0008"      : "AD5293"          : "RV2"       : "12" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"
+: "%SYNC%"                                                                                                                     :              ;
+"SIGN0026"     :       : "P-RV05-0008"      : "AD5293"          : "RV2"       : "13" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"
+: "SDO"                                                                                                                        :              ;
+"RDY"          :       : "P-RV05-0008"      : "AD5293"          : "RV2"       : "14" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"
+: "RDY"                                                                                                                        :              ;
+"DG_RST"       :       : "P-RV05-0014"      : "AD5293"          : "RV3"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"
+: "%RESET%"                                                                                                                    :              ;
+"-12V"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV3"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp102"
+: "VSS"                                                                                                                        :              ;
+"DIGI_3A"      :       : "P-RV05-0014"      : "AD5293"          : "RV3"       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"
+: "A"                                                                                                                          :              ;
+"DIGI_3W"      :       : "P-RV05-0014"      : "AD5293"          : "RV3"       : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"
+: "W"                                                                                                                          :              ;
+"DIGI_3W"      :       : "P-RV05-0014"      : "AD5293"          : "RV3"       : "5"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"
+: "B"                                                                                                                          :              ;
+"+12V"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV3"       : "6"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp102"
+: "VDD"                                                                                                                        :              ;
+"SIGN0021"     :       : "P-RV05-0014"      : "AD5293"          : "RV3"       : "7"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"
+: "EXT_CAP"                                                                                                                    :              ;
+"+3V3"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV3"       : "8"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp102"
+: "VLOGIC"                                                                                                                     :              ;
+"GND"          : GROUND: "P-RV05-0014"      : "AD5293_pwr"      : "RV3"       : "9"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp102"
+: "GND"                                                                                                                        :              ;
+"SIGN0026"     :       : "P-RV05-0014"      : "AD5293"          : "RV3"       : "10" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"
+: "DIN"                                                                                                                        :              ;
+"SCLK"         :       : "P-RV05-0014"      : "AD5293"          : "RV3"       : "11" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"
+: "SCLK"                                                                                                                       :              ;
+"SS"           :       : "P-RV05-0014"      : "AD5293"          : "RV3"       : "12" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"
+: "%SYNC%"                                                                                                                     :              ;
+"SIGN00214"    :       : "P-RV05-0014"      : "AD5293"          : "RV3"       : "13" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"
+: "SDO"                                                                                                                        :              ;
+"RDY"          :       : "P-RV05-0014"      : "AD5293"          : "RV3"       : "14" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"
+: "RDY"                                                                                                                        :              ;
+"DG_RST"       :       : "P-RV05-0014"      : "AD5293"          : "RV4"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"
+: "%RESET%"                                                                                                                    :              ;
+"-12V"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV4"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp133"
+: "VSS"                                                                                                                        :              ;
+"DIGI_2A"      :       : "P-RV05-0014"      : "AD5293"          : "RV4"       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"
+: "A"                                                                                                                          :              ;
+"GND"          : GROUND: "P-RV05-0014"      : "AD5293"          : "RV4"       : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"
+: "W"                                                                                                                          :              ;
+"GND"          : GROUND: "P-RV05-0014"      : "AD5293"          : "RV4"       : "5"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"
+: "B"                                                                                                                          :              ;
+"+12V"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV4"       : "6"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp133"
+: "VDD"                                                                                                                        :              ;
+"SIGN0023"     :       : "P-RV05-0014"      : "AD5293"          : "RV4"       : "7"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"
+: "EXT_CAP"                                                                                                                    :              ;
+"+3V3"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV4"       : "8"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp133"
+: "VLOGIC"                                                                                                                     :              ;
+"GND"          : GROUND: "P-RV05-0014"      : "AD5293_pwr"      : "RV4"       : "9"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp133"
+: "GND"                                                                                                                        :              ;
+"SIGN00214"    :       : "P-RV05-0014"      : "AD5293"          : "RV4"       : "10" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"
+: "DIN"                                                                                                                        :              ;
+"SCLK"         :       : "P-RV05-0014"      : "AD5293"          : "RV4"       : "11" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"
+: "SCLK"                                                                                                                       :              ;
+"SS"           :       : "P-RV05-0014"      : "AD5293"          : "RV4"       : "12" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"
+: "%SYNC%"                                                                                                                     :              ;
+"SIGN00210"    :       : "P-RV05-0014"      : "AD5293"          : "RV4"       : "13" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"
+: "SDO"                                                                                                                        :              ;
+"RDY"          :       : "P-RV05-0014"      : "AD5293"          : "RV4"       : "14" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"
+: "RDY"                                                                                                                        :              ;
+"DG_RST"       :       : "P-RV05-0014"      : "AD5293"          : "RV5"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"
+: "%RESET%"                                                                                                                    :              ;
+"-12V"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV5"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp151"
+: "VSS"                                                                                                                        :              ;
+"DIGI_1A"      :       : "P-RV05-0014"      : "AD5293"          : "RV5"       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"
+: "A"                                                                                                                          :              ;
+"DIGI_1W"      :       : "P-RV05-0014"      : "AD5293"          : "RV5"       : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"
+: "W"                                                                                                                          :              ;
+"DIGI_1W"      :       : "P-RV05-0014"      : "AD5293"          : "RV5"       : "5"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"
+: "B"                                                                                                                          :              ;
+"+12V"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV5"       : "6"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp151"
+: "VDD"                                                                                                                        :              ;
+"SIGN0029"     :       : "P-RV05-0014"      : "AD5293"          : "RV5"       : "7"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"
+: "EXT_CAP"                                                                                                                    :              ;
+"+3V3"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV5"       : "8"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp151"
+: "VLOGIC"                                                                                                                     :              ;
+"GND"          : GROUND: "P-RV05-0014"      : "AD5293_pwr"      : "RV5"       : "9"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp151"
+: "GND"                                                                                                                        :              ;
+"SIGN00210"    :       : "P-RV05-0014"      : "AD5293"          : "RV5"       : "10" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"
+: "DIN"                                                                                                                        :              ;
+"SCLK"         :       : "P-RV05-0014"      : "AD5293"          : "RV5"       : "11" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"
+: "SCLK"                                                                                                                       :              ;
+"SS"           :       : "P-RV05-0014"      : "AD5293"          : "RV5"       : "12" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"
+: "%SYNC%"                                                                                                                     :              ;
+"SIGN00211"    :       : "P-RV05-0014"      : "AD5293"          : "RV5"       : "13" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"
+: "SDO"                                                                                                                        :              ;
+"RDY"          :       : "P-RV05-0014"      : "AD5293"          : "RV5"       : "14" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"
+: "RDY"                                                                                                                        :              ;
+"DG_RST"       :       : "P-RV05-0014"      : "AD5293"          : "RV6"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"
+: "%RESET%"                                                                                                                    :              ;
+"-12V"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV6"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp115"
+: "VSS"                                                                                                                        :              ;
+"SIGN00221"    :       : "P-RV05-0014"      : "AD5293"          : "RV6"       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"
+: "A"                                                                                                                          :              ;
+"DIGI_4W"      :       : "P-RV05-0014"      : "AD5293"          : "RV6"       : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"
+: "W"                                                                                                                          :              ;
+"SIGN00222"    :       : "P-RV05-0014"      : "AD5293"          : "RV6"       : "5"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"
+: "B"                                                                                                                          :              ;
+"+12V"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV6"       : "6"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp115"
+: "VDD"                                                                                                                        :              ;
+"SIGN00213"    :       : "P-RV05-0014"      : "AD5293"          : "RV6"       : "7"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"
+: "EXT_CAP"                                                                                                                    :              ;
+"+3V3"         : POWER : "P-RV05-0014"      : "AD5293_pwr"      : "RV6"       : "8"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp115"
+: "VLOGIC"                                                                                                                     :              ;
+"GND"          : GROUND: "P-RV05-0014"      : "AD5293_pwr"      : "RV6"       : "9"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp115"
+: "GND"                                                                                                                        :              ;
+"SIGN00211"    :       : "P-RV05-0014"      : "AD5293"          : "RV6"       : "10" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"
+: "DIN"                                                                                                                        :              ;
+"SCLK"         :       : "P-RV05-0014"      : "AD5293"          : "RV6"       : "11" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"
+: "SCLK"                                                                                                                       :              ;
+"SS"           :       : "P-RV05-0014"      : "AD5293"          : "RV6"       : "12" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"
+: "%SYNC%"                                                                                                                     :              ;
+"MISO"         :       : "P-RV05-0014"      : "AD5293"          : "RV6"       : "13" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"
+: "SDO"                                                                                                                        :              ;
+"RDY"          :       : "P-RV05-0014"      : "AD5293"          : "RV6"       : "14" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"
+: "RDY"                                                                                                                        :              ;
+"TRI"          :       : "P-CN15-0015"      : "ISO-BNC"         : "SK1"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp482"
+: "S1"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CN15-0015"      : "ISO-BNC"         : "SK1"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp482"
+: "G1"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN15-0015"      : "ISO-BNC"         : "SK1"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp482"
+: "NC1"                                                                                                                        : PACKAGESYMBOL;
+               :       : "P-CN15-0015"      : "ISO-BNC"         : "SK1"       : "4"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp482"
+: "NC2"                                                                                                                        : PACKAGESYMBOL;
+"PWM"          :       : "P-CN15-0015"      : "ISO-BNC"         : "SK2"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp480"
+: "S1"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CN15-0015"      : "ISO-BNC"         : "SK2"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp480"
+: "G1"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN15-0015"      : "ISO-BNC"         : "SK2"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp480"
+: "NC1"                                                                                                                        : PACKAGESYMBOL;
+               :       : "P-CN15-0015"      : "ISO-BNC"         : "SK2"       : "4"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp480"
+: "NC2"                                                                                                                        : PACKAGESYMBOL;
+"SIN"          :       : "P-CN15-0015"      : "ISO-BNC"         : "SK3"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp477"
+: "S1"                                                                                                                         : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CN15-0015"      : "ISO-BNC"         : "SK3"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp477"
+: "G1"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN15-0015"      : "ISO-BNC"         : "SK3"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp477"
+: "NC1"                                                                                                                        : PACKAGESYMBOL;
+               :       : "P-CN15-0015"      : "ISO-BNC"         : "SK3"       : "4"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp477"
+: "NC2"                                                                                                                        : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CN13-0036"      : "JACK-SKT-4P"     : "SK4"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp150"
+: "S"                                                                                                                          :              ;
+"SIGN00139"    :       : "P-CN13-0036"      : "JACK-SKT-4P"     : "SK4"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp150"
+: "R"                                                                                                                          :              ;
+"SIGN00139"    :       : "P-CN13-0036"      : "JACK-SKT-4P"     : "SK4"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp150"
+: "T"                                                                                                                          :              ;
+               :       : "P-CN13-0036"      : "JACK-SKT-4P"     : "SK4"       : "6"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp150"
+: "SR"                                                                                                                         :              ;
+"GND"          : GROUND: "P-CN28-010W"      : "10WAY-SKT"       : "SK5"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"
+: "1A"                                                                                                                         : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-CN28-010W"      : "10WAY-SKT"       : "SK5"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"
+: "2A"                                                                                                                         : PACKAGESYMBOL;
+"RDY"          :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK5"       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"
+: "3A"                                                                                                                         : PACKAGESYMBOL;
+"DBUG_2"       :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK5"       : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"
+: "4A"                                                                                                                         : PACKAGESYMBOL;
+"DG_RST"       :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK5"       : "5"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"
+: "5A"                                                                                                                         : PACKAGESYMBOL;
+"DBUG_1"       :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK5"       : "6"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"
+: "6A"                                                                                                                         : PACKAGESYMBOL;
+"MISO"         :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK5"       : "7"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"
+: "7A"                                                                                                                         : PACKAGESYMBOL;
+"MOSI"         :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK5"       : "8"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"
+: "8A"                                                                                                                         : PACKAGESYMBOL;
+"SS"           :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK5"       : "9"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"
+: "9A"                                                                                                                         : PACKAGESYMBOL;
+"SCLK"         :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK5"       : "10" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"
+: "10A"                                                                                                                        : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CN28-010W"      : "10WAY-SKT"       : "SK6"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"
+: "1A"                                                                                                                         : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-CN28-010W"      : "10WAY-SKT"       : "SK6"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"
+: "2A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK6"       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"
+: "3A"                                                                                                                         : PACKAGESYMBOL;
+"F_PWM"        :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK6"       : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"
+: "4A"                                                                                                                         : PACKAGESYMBOL;
+"TRI_CAP_SEL"  :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK6"       : "5"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"
+: "5A"                                                                                                                         : PACKAGESYMBOL;
+"SPARE_SW"     :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK6"       : "6"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"
+: "6A"                                                                                                                         : PACKAGESYMBOL;
+"SIN_CAP_SEL"  :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK6"       : "7"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"
+: "7A"                                                                                                                         : PACKAGESYMBOL;
+"MUX_SEL0"     :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK6"       : "8"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"
+: "8A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK6"       : "9"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"
+: "9A"                                                                                                                         : PACKAGESYMBOL;
+"MUX_SEL1"     :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK6"       : "10" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"
+: "10A"                                                                                                                        : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CN28-010W"      : "10WAY-SKT"       : "SK7"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"
+: "1A"                                                                                                                         : PACKAGESYMBOL;
+"+5V"          : POWER : "P-CN28-010W"      : "10WAY-SKT"       : "SK7"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"
+: "2A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK7"       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"
+: "3A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK7"       : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"
+: "4A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK7"       : "5"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"
+: "5A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK7"       : "6"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"
+: "6A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK7"       : "7"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"
+: "7A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK7"       : "8"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"
+: "8A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK7"       : "9"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"
+: "9A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK7"       : "10" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"
+: "10A"                                                                                                                        : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CN28-010W"      : "10WAY-SKT"       : "SK8"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"
+: "1A"                                                                                                                         : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-CN28-010W"      : "10WAY-SKT"       : "SK8"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"
+: "2A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK8"       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"
+: "3A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK8"       : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"
+: "4A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK8"       : "5"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"
+: "5A"                                                                                                                         : PACKAGESYMBOL;
+               :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK8"       : "6"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"
+: "6A"                                                                                                                         : PACKAGESYMBOL;
+"ENC_SW"       :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK8"       : "7"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"
+: "7A"                                                                                                                         : PACKAGESYMBOL;
+"ENC_B"        :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK8"       : "8"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"
+: "8A"                                                                                                                         : PACKAGESYMBOL;
+"F_SIN"        :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK8"       : "9"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"
+: "9A"                                                                                                                         : PACKAGESYMBOL;
+"ENC_A"        :       : "P-CN28-010W"      : "10WAY-SKT"       : "SK8"       : "10" : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"
+: "10A"                                                                                                                        : PACKAGESYMBOL;
+"INPUT_VOLTAGE":       : "P-NM22-0021"      : "DC-SKT"          : "SK9"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp51"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+               :       : "P-NM22-0021"      : "DC-SKT"          : "SK9"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp51"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-NM22-0021"      : "DC-SKT"          : "SK9"       : "3"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp51"
+: "C"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CN47-0122"      : "2WAY-SKT"        : "SK10"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp207"
+: "1"                                                                                                                          : PACKAGESYMBOL;
+"INPUT_VOLTAGE":       : "P-CN47-0122"      : "2WAY-SKT"        : "SK10"      : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp207"
+: "2"                                                                                                                          : PACKAGESYMBOL;
+"SIGN0035"     :       : "P-SW02-0054"      : "SW-SPDT"         : "SW1"       : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp232"
+: "NCL"                                                                                                                        :              ;
+"SIGN0035"     :       : "P-SW02-0054"      : "SW-SPDT"         : "SW1"       : "2"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp232"
+: "COM"                                                                                                                        :              ;
+"INPUT_VOLTAGE":       : "P-SW02-0054"      : "SW-SPDT"         : "SW1"       : "3"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp232"
+: "NO"                                                                                                                         :              ;
+"MUX_OUT"      :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP1"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp375"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00182"    :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP2"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp508"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00139"    :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP3"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp385"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"ENC_A"        :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP4"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp433"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"ENC_B"        :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP5"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp434"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+3V3"         : POWER : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP6"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp427"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SS"           :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP7"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp412"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SCLK"         :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP8"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp414"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"MOSI"         :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP9"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp413"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"MISO"         :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP10"      : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp436"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"DBUG_1"       :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP11"      : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp338"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"DBUG_2"       :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP12"      : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp339"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"16-24V"       :       : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP13"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp180"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CD12-2136"      : "TERMINAL_PIN"    : "TP14"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp184"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"-12V"         : POWER : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP15"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp183"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+12V"         : POWER : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP16"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp181"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"+5V"          : POWER : "P-CD12-2136"      : "TERMINAL_PIN"    : "TP17"      : "1"  : UNFIXED   : "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp182"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-CD12-2136"      : "TERMINAL_PIN"    : "TP18"      : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp439"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00154"    :       : "P-TR03-1052"      : "N-JFET"          : "TR1"       : "1"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp108"
+: "D"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00111"    :       : "P-TR03-1052"      : "N-JFET"          : "TR1"       : "2"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp108"
+: "G"                                                                                                                          : PACKAGESYMBOL;
+"SIGN00167"    :       : "P-TR03-1052"      : "N-JFET"          : "TR1"       : "3"  : UNFIXED   : "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp108"
+: "S"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-ML19-0035"      : "P-ML19-0035"     : "TR2"       : "1"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"
+: "SW1"                                                                                                                        : PACKAGESYMBOL;
+"SIGN00231"    :       : "P-ML19-0035"      : "P-ML19-0035"     : "TR2"       : "2"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"
+: "SW2"                                                                                                                        : PACKAGESYMBOL;
+"SIGN0027"     :       : "P-ML19-0035"      : "P-ML19-0035"     : "TR2"       : "3"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"
+: "A"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-ML19-0035"      : "P-ML19-0035"     : "TR2"       : "4"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"
+: "COM1"                                                                                                                       : PACKAGESYMBOL;
+"SIGN0028"     :       : "P-ML19-0035"      : "P-ML19-0035"     : "TR2"       : "5"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"
+: "B"                                                                                                                          : PACKAGESYMBOL;
+"GND"          : GROUND: "P-ML19-0035"      : "P-ML19-0035"     : "TR2"       : "6"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"
+: "SHIELD1"                                                                                                                    : PACKAGESYMBOL;
+"GND"          : GROUND: "P-ML19-0035"      : "P-ML19-0035"     : "TR2"       : "7"  : UNFIXED   : "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"
+: "SHIELD2"                                                                                                                    : PACKAGESYMBOL;

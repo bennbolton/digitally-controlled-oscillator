@@ -1,0 +1,2111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<photo autosave="yes" version="2.0">
+
+  <unit type="mm"/>
+
+  <basicSettings>
+    <targetFile path="C:\Projects\5694\A-5694-2010-02-A\df\A-5694-2010-02-A.dsgn"/>
+    <outputSettings>
+      <outputFolder path="C:\projects\5694\A-5694-2010-02-A\manufacturingDf\gerbers"/>
+      <dataFile>
+        <suffix enable="on" string="fph"/>
+        <noOutputEmptyData mode="off"/>
+      </dataFile>
+      <listFile language="eng"/>
+    </outputSettings>
+    <messageSettings>
+      <errorFile output="off"/>
+      <warningFile output="off"/>
+    </messageSettings>
+    <mspecSettings>
+      <ncfFile path="Q:\CR8000_Design_Data\Parameter_Files\Gerber_parameter_files\gerberx.ncf"/>
+      <assignCode mode="auto">
+        <classify type="specificLines" valid="off"/>
+      </assignCode>
+    </mspecSettings>
+    <coordinateSettings>
+      <clipArea clip="off">
+        <clipAreaStart x="0.00000" y="0.00000"/>
+        <clipAreaEnd x="0.00000" y="0.00000"/>
+      </clipArea>
+      <origin x="0.00000" y="0.00000"/>
+      <rotate value="0"/>
+      <scale value="1.00000"/>
+      <layout mode="offset" x="0.00000" y="0.00000"/>
+    </coordinateSettings>
+  </basicSettings>
+
+  <optionalSettings>
+    <boardOutlineAttribute mode="areafill">
+      <outline width="0.05000"/>
+    </boardOutlineAttribute>
+  </optionalSettings>
+
+  <filmSettings>
+    <film name="NO_MARK_LAYER" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="on" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="PROFILE" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="on" type="data"/>
+        <layer name="Profile_Outline" output="on" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="PROFILE_V-SCORE" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="on" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="on" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="TOP_SILK" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="on" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="on" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="TOP_PASTE_1-1" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="on" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="TOP_RESIST" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="on" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="TOP_COPPER" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="on" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="LAYER_2_COPPER" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="on" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="LAYER_3_COPPER" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="on" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="BOTTOM_COPPER" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="on" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="BOTTOM_RESIST" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="on" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="off" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+    <film name="BOTTOM_PASTE_1-1" output="on">
+      <layerAttribute>
+        <layer name="BOARD" output="off" type="data"/>
+        <layer name="BOARD" output="off" type="doc"/>
+        <layer name="LAYOUT" output="off" type="data"/>
+        <layer name="HOLE" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="data"/>
+        <layer name="AssySMD-A" output="off" type="doc"/>
+        <layer name="AssyPTH-A" output="off" type="data"/>
+        <layer name="AssyPTH-A" output="off" type="doc"/>
+        <layer name="MetalMask-A" output="off" type="data"/>
+        <layer name="MetalMask-A" output="off" type="doc"/>
+        <layer name="PeelResist-A" output="off" type="data"/>
+        <layer name="PeelResist-A" output="off" type="doc"/>
+        <layer name="Resist-A" output="off" type="data"/>
+        <layer name="Resist-A" output="off" type="doc"/>
+        <layer name="WIR1" output="off" type="data"/>
+        <layer name="WIR1" output="off" type="doc"/>
+        <layer name="WIR2" output="off" type="data"/>
+        <layer name="WIR2" output="off" type="doc"/>
+        <layer name="WIR3" output="off" type="data"/>
+        <layer name="WIR3" output="off" type="doc"/>
+        <layer name="WIR4" output="off" type="data"/>
+        <layer name="WIR4" output="off" type="doc"/>
+        <layer name="Resist-B" output="off" type="data"/>
+        <layer name="Resist-B" output="off" type="doc"/>
+        <layer name="PeelResist-B" output="off" type="data"/>
+        <layer name="PeelResist-B" output="off" type="doc"/>
+        <layer name="MetalMask-B" output="on" type="data"/>
+        <layer name="MetalMask-B" output="off" type="doc"/>
+        <layer name="AssyPTH-B" output="off" type="data"/>
+        <layer name="AssyPTH-B" output="off" type="doc"/>
+        <layer name="AssySMD-B" output="off" type="data"/>
+        <layer name="AssySMD-B" output="off" type="doc"/>
+        <layer name="PhotoTool-Title" output="on" type="data"/>
+        <layer name="PhotoTool-Title" output="off" type="doc"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="data"/>
+        <layer name="Profile_DePanelling_Cutlines" output="off" type="doc"/>
+        <layer name="Profile_Outline" output="off" type="data"/>
+        <layer name="Profile_Outline" output="off" type="doc"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="data"/>
+        <layer name="Profile_Outline_Vscore" output="off" type="doc"/>
+        <layer name="Profile_Outline_Rout" output="off" type="data"/>
+        <layer name="Profile_Outline_Rout" output="off" type="doc"/>
+        <layer name="No_Mark_Layer" output="off" type="data"/>
+        <layer name="No_Mark_Layer" output="off" type="doc"/>
+        <layer name="Layout_Guide_Layer" output="off" type="data"/>
+        <layer name="Layout_Guide_Layer" output="off" type="doc"/>
+        <layer name="READ-ME_NOTES" output="off" type="data"/>
+        <layer name="READ-ME_NOTES" output="off" type="doc"/>
+        <layer name="BorderAssyDrg" output="off" type="data"/>
+        <layer name="BorderAssyDrg" output="off" type="doc"/>
+        <layer name="Assydrawing-1" output="off" type="data"/>
+        <layer name="Assydrawing-1" output="off" type="doc"/>
+        <layer name="Assydrawing-2" output="off" type="data"/>
+        <layer name="Assydrawing-2" output="off" type="doc"/>
+        <layer name="Assydrawing-3" output="off" type="data"/>
+        <layer name="Assydrawing-3" output="off" type="doc"/>
+        <layer name="Assydrawing-4" output="off" type="data"/>
+        <layer name="Assydrawing-4" output="off" type="doc"/>
+        <layer name="Assydrawing-5" output="off" type="data"/>
+        <layer name="Assydrawing-5" output="off" type="doc"/>
+        <layer name="Assydrawing-6" output="off" type="data"/>
+        <layer name="Assydrawing-6" output="off" type="doc"/>
+        <layer name="Assydrawing-7" output="off" type="data"/>
+        <layer name="Assydrawing-7" output="off" type="doc"/>
+        <layer name="Assydrawing-8" output="off" type="data"/>
+        <layer name="Assydrawing-8" output="off" type="doc"/>
+        <layer name="Assydrawing-9" output="off" type="data"/>
+        <layer name="Assydrawing-9" output="off" type="doc"/>
+        <layer name="Drilldrawing-1" output="off" type="data"/>
+        <layer name="Drilldrawing-1" output="off" type="doc"/>
+        <layer name="BorderDrill1" output="off" type="data"/>
+        <layer name="BorderDrill1" output="off" type="doc"/>
+        <layer name="Drilldrawing-2" output="off" type="data"/>
+        <layer name="Drilldrawing-2" output="off" type="doc"/>
+        <layer name="BorderDrill2" output="off" type="data"/>
+        <layer name="BorderDrill2" output="off" type="doc"/>
+        <layer name="Drilldrawing-3" output="off" type="data"/>
+        <layer name="Drilldrawing-3" output="off" type="doc"/>
+        <layer name="BorderDrill3" output="off" type="data"/>
+        <layer name="BorderDrill3" output="off" type="doc"/>
+        <layer name="Template_Layer" output="off" type="data"/>
+        <layer name="Template_Layer" output="off" type="doc"/>
+        <layer name="Template_Layer2" output="off" type="data"/>
+        <layer name="Template_Layer2" output="off" type="doc"/>
+        <layer name="Template_Layer3" output="off" type="data"/>
+        <layer name="Template_Layer3" output="off" type="doc"/>
+        <layer name="Template_Layer4" output="off" type="data"/>
+        <layer name="Template_Layer4" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-A" output="off" type="data"/>
+        <layer name="Inhibit(plc)-A" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-A" output="off" type="data"/>
+        <layer name="Inhibit(wir)-A" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-B" output="off" type="data"/>
+        <layer name="Inhibit(plc)-B" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-B" output="off" type="data"/>
+        <layer name="Inhibit(wir)-B" output="off" type="doc"/>
+        <layer name="Inhibit(via)-C" output="off" type="data"/>
+        <layer name="Inhibit(via)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-C" output="off" type="data"/>
+        <layer name="Inhibit(wir)-C" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-C" output="off" type="data"/>
+        <layer name="Inhibit(plc)-C" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="data"/>
+        <layer name="Inhibit(wir)-inner" output="off" type="doc"/>
+        <layer name="SubConductive-1" output="off" type="data"/>
+        <layer name="SubConductive-1" output="off" type="doc"/>
+        <layer name="SubConductive-2" output="off" type="data"/>
+        <layer name="SubConductive-2" output="off" type="doc"/>
+        <layer name="SubConductive-3" output="off" type="data"/>
+        <layer name="SubConductive-3" output="off" type="doc"/>
+        <layer name="SubConductive-4" output="off" type="data"/>
+        <layer name="SubConductive-4" output="off" type="doc"/>
+        <layer name="Symbol-A" output="off" type="data"/>
+        <layer name="Symbol-A" output="off" type="doc"/>
+        <layer name="VisualPlace-A" output="off" type="data"/>
+        <layer name="VisualPlace-A" output="off" type="doc"/>
+        <layer name="CompHeight-A" output="off" type="data"/>
+        <layer name="CompHeight-A" output="off" type="doc"/>
+        <layer name="Symbol-B" output="off" type="data"/>
+        <layer name="Symbol-B" output="off" type="doc"/>
+        <layer name="VisualPlace-B" output="off" type="data"/>
+        <layer name="VisualPlace-B" output="off" type="doc"/>
+        <layer name="CompHeight-B" output="off" type="data"/>
+        <layer name="CompHeight-B" output="off" type="doc"/>
+        <layer name="Testdrawing-1" output="off" type="data"/>
+        <layer name="Testdrawing-1" output="off" type="doc"/>
+        <layer name="Testdrawing-2" output="off" type="data"/>
+        <layer name="Testdrawing-2" output="off" type="doc"/>
+        <layer name="hs_trunk_layer" output="off" type="data"/>
+        <layer name="hs_trunk_layer" output="off" type="doc"/>
+        <layer name="Inhibit(plc)-All" output="off" type="data"/>
+        <layer name="Inhibit(plc)-All" output="off" type="doc"/>
+        <layer name="Inhibit(via)-All" output="off" type="data"/>
+        <layer name="Inhibit(via)-All" output="off" type="doc"/>
+        <layer name="Inhibit(wir)-All" output="off" type="data"/>
+        <layer name="Inhibit(wir)-All" output="off" type="doc"/>
+        <layer name="DXF_Layer" output="off" type="data"/>
+        <layer name="DXF_Layer" output="off" type="doc"/>
+        <layer name="Other_Outline_1" output="off" type="data"/>
+        <layer name="Other_Outline_1" output="off" type="doc"/>
+        <layer name="Other_Outline_2" output="off" type="data"/>
+        <layer name="Other_Outline_2" output="off" type="doc"/>
+        <layer name="Other_Outline_3" output="off" type="data"/>
+        <layer name="Other_Outline_3" output="off" type="doc"/>
+        <layer name="Other_Outline_4" output="off" type="data"/>
+        <layer name="Other_Outline_4" output="off" type="doc"/>
+      </layerAttribute>
+      <negaAreaFill offset="0.00000" outlineLayer="BOARD" width="0.05000"/>
+      <objectAttribute>
+        <object output="on" type="line"/>
+        <object output="on" type="padstkpad"/>
+        <object output="on" type="pad"/>
+        <object output="on" type="areafill"/>
+        <object output="on" type="meshplane"/>
+        <object output="on" type="text"/>
+        <object output="on" type="sym"/>
+        <object output="on" type="dim"/>
+        <object output="on" type="label"/>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <fromtoAttribute target="all"/>
+      <outputTarget target="all"/>
+      <mirror mode="off"/>
+      <unconnectedLand internalLayer="include"/>
+    </film>
+  </filmSettings>
+
+</photo>

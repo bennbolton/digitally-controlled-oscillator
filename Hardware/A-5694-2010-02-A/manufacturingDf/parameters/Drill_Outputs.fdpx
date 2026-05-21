@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<drill version="2.0">
+
+  <unit type="mm"/>
+
+  <basicSettings>
+    <targetFile path="C:\Projects\5694\A-5694-2010-02-A\df\A-5694-2010-02-A.dsgn"/>
+    <outputSettings>
+      <outputFolder path="C:\projects\5694\A-5694-2010-02-A\ManufacturingDF\Gerbers"/>
+      <dataFile>
+        <suffix enable="on" string="fdr"/>
+        <noOutputEmptyData mode="off"/>
+      </dataFile>
+      <listFile language="eng"/>
+    </outputSettings>
+    <messageSettings>
+      <errorFile output="off"/>
+      <warningFile output="off"/>
+    </messageSettings>
+    <mspecSettings>
+      <ncfFile path="Q:\CR8000_Design_Data\Parameter_Files\Gerber_parameter_files\EXCELLON.ncf"/>
+      <assignCode mode="auto">
+        <classify type="holeType" valid="on"/>
+        <classify type="slotType" valid="on"/>
+        <classify type="plating" valid="on"/>
+        <classify type="embeddedvia" valid="on"/>
+      </assignCode>
+    </mspecSettings>
+    <coordinateSettings>
+      <clipArea clip="off">
+        <clipAreaStart x="0.00000" y="0.00000"/>
+        <clipAreaEnd x="0.00000" y="0.00000"/>
+      </clipArea>
+      <origin x="0.00000" y="0.00000"/>
+      <rotate value="0"/>
+      <scale value="1.00000"/>
+      <layout mode="offset" x="0.00000" y="0.00000"/>
+    </coordinateSettings>
+  </basicSettings>
+
+  <optionalSettings>
+    <toolpathsortingAttribute sort="n">
+      <bandWidth value="25.40000"/>
+    </toolpathsortingAttribute>
+    <testCoupon count="1" timing="0"/>
+  </optionalSettings>
+
+  <stepSettings>
+    <step name="PLATED" output="on">
+      <fromtoAttribute target="through"/>
+      <objectAttribute>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <slotHoleAttribute mode="alternate">
+        <movingRatio value="0.50000"/>
+        <oddDrillHits valid="off"/>
+        <limitCount count="20000"/>
+      </slotHoleAttribute>
+      <rectHoleAttribute mode="alternate">
+        <movingRatio value="0.50000"/>
+        <oddDrillHits valid="off"/>
+        <limitCount count="20000"/>
+      </rectHoleAttribute>
+      <platingAttribute type="plated"/>
+      <diameterAttribute target="all"/>
+      <embeddedviaAttribute output="without" type="both"/>
+      <mirror mode="off"/>
+    </step>
+    <step name="NON_PLATED" output="on">
+      <fromtoAttribute target="through"/>
+      <objectAttribute>
+        <object output="on" type="roundhole"/>
+        <object output="on" type="recthole"/>
+        <object output="on" type="slothole"/>
+        <object output="on" type="padstkroundhole"/>
+        <object output="on" type="padstkrecthole"/>
+        <object output="on" type="padstkslothole"/>
+      </objectAttribute>
+      <slotHoleAttribute mode="alternate">
+        <movingRatio value="0.50000"/>
+        <oddDrillHits valid="off"/>
+        <limitCount count="20000"/>
+      </slotHoleAttribute>
+      <rectHoleAttribute mode="alternate">
+        <movingRatio value="0.50000"/>
+        <oddDrillHits valid="off"/>
+        <limitCount count="20000"/>
+      </rectHoleAttribute>
+      <platingAttribute type="nonplated"/>
+      <diameterAttribute target="all"/>
+      <embeddedviaAttribute output="without" type="both"/>
+      <mirror mode="off"/>
+    </step>
+  </stepSettings>
+
+</drill>

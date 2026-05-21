@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<ManualPartsList>
+  <CSVLine>
+    <PartNumber>PD-6022-9001-01</PartNumber>
+    <Description>LEAD FREE CONSUMABLE LIST</Description>
+    <Quantity>REF</Quantity>
+    <ReferenceList>REF</ReferenceList>
+    <A-5694-2010-01-A>true</A-5694-2010-01-A>
+  </CSVLine>
+  <CSVLine>
+    <PartNumber>M-5694-2010-01</PartNumber>
+    <Description>Board Name</Description>
+    <Quantity>1</Quantity>
+    <ReferenceList>REF</ReferenceList>
+    <A-5694-2010-01-A>true</A-5694-2010-01-A>
+  </CSVLine>
+  <CSVLine>
+    <PartNumber>T-XXXXXX-XX</PartNumber>
+    <Description>Paste Tool Name</Description>
+    <Quantity>REF</Quantity>
+    <ReferenceList>REF</ReferenceList>
+    <A-5694-2010-01-A>true</A-5694-2010-01-A>
+  </CSVLine>
+  <CSVLine>
+    <PartNumber>C-5694-2010-01</PartNumber>
+    <Description>Schematic Name</Description>
+    <Quantity>REF</Quantity>
+    <ReferenceList>REF</ReferenceList>
+    <A-5694-2010-01-A>true</A-5694-2010-01-A>
+  </CSVLine>
+</ManualPartsList>

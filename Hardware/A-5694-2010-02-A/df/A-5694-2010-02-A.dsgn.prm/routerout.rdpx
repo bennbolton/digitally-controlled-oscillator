@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<router version="1.0">
+
+  <unit type="mm"/>
+
+  <basicSettings>
+    <targetFile path="C:\Projects\5694\A-5694-2010-02-A\df\A-5694-2010-02-A.dsgn"/>
+    <outputSettings>
+      <dataFile>
+        <suffix enable="on" string="fdr"/>
+      </dataFile>
+      <listFile>
+        <list output="on"/>
+      </listFile>
+    </outputSettings>
+    <messageSettings>
+      <errorFile output="off"/>
+      <warningFile output="off"/>
+    </messageSettings>
+    <mspecSettings>
+      <assignCode mode="auto">
+        <classify type="machining" valid="on"/>
+      </assignCode>
+    </mspecSettings>
+    <coordinateSettings>
+      <origin x="0.00000" y="0.00000"/>
+      <layout mode="offset" x="0.00000" y="0.00000"/>
+    </coordinateSettings>
+  </basicSettings>
+
+  <optionalSettings>
+    <toolSizeForOutline penWidth="off"/>
+  </optionalSettings>
+
+  <stepSettings/>
+
+</router>

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<mechanical>
+
+  <dxfif>
+    <common>
+      <param name="unit" value="mm"/>
+    </common>
+    <import>
+      <param name="DivideTolerance" value="0.00200"/>
+      <param name="Scale" value="0.50000"/>
+      <param name="CircleToSurface" value="false"/>
+      <param name="PolylineToSurface" value="false"/>
+      <param name="PolylineTolerance" value="0.00000"/>
+    </import>
+    <export>
+      <param name="DxfVersion" value="AC1014"/>
+      <param name="Precision" value="6"/>
+      <param name="Scale" value="1.00000"/>
+      <param name="Text" value="true"/>
+      <param name="FontName1" value="txt"/>
+      <param name="FontName2" value="EXTFONT"/>
+      <param name="ReferenceLayer" value="false"/>
+      <referencelayer>
+        <row>
+          <col name="Side" value="Top"/>
+          <col name="Export" value="true"/>
+          <col name="DxfLayer" value="referenceLayer"/>
+          <col name="FontSize" value="6.00000"/>
+          <col name="Angle" value="0.00000"/>
+          <col name="Mirror" value="None"/>
+        </row>
+        <row>
+          <col name="Side" value="Bottom"/>
+          <col name="Export" value="true"/>
+          <col name="DxfLayer" value="referenceLayer"/>
+          <col name="FontSize" value="6.00000"/>
+          <col name="Angle" value="0.00000"/>
+          <col name="Mirror" value="None"/>
+        </row>
+      </referencelayer>
+      <param name="WbpNoLayer" value="false"/>
+      <wbpnumberlayer>
+        <row>
+          <col name="DxfLayerPrefix" value="wbpNumberLayer"/>
+          <col name="FontSize" value="0.02000"/>
+          <col name="Angle" value="0.00000"/>
+          <col name="Mirror" value="None"/>
+        </row>
+      </wbpnumberlayer>
+      <param name="PinNoLayer" value="false"/>
+      <pinnumberlayer>
+        <row>
+          <col name="DxfLayerPrefix" value="pinNumberLayer"/>
+          <col name="Position" value="Die"/>
+          <col name="FontSize" value="0.01500"/>
+          <col name="Angle" value="0.00000"/>
+          <col name="Mirror" value="None"/>
+        </row>
+      </pinnumberlayer>
+      <param name="BlockMode" value="false"/>
+      <param name="PadstkNameAsBlock" value="false"/>
+      <param name="ConvertMode" value="Line"/>
+      <param name="ConvertPolyline" value="Centerline"/>
+      <param name="MirrorBaseX" value="0.00000"/>
+      <param name="MirrorBaseY" value="0.00000"/>
+      <param name="HatchPolyline" value="false"/>
+      <param name="HatchPatternPolyline" value="Diagonal"/>
+      <param name="HatchPitchPolyline" value="1.00000"/>
+      <param name="HatchPolygon" value="false"/>
+      <param name="HatchPatternPolygon" value="Diagonal"/>
+      <param name="HatchPitchPolygon" value="1.00000"/>
+      <param name="Comp" value="true"/>
+      <param name="Target" value="All"/>
+      <param name="TargetHole" value="from-to"/>
+      <specified>
+        <row>
+          <col name="Ref" value="C1"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C2"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C3"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C4"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C5"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C6"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C7"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C8"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C9"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C10"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C11"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C12"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C13"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C14"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C15"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C16"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C17"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C18"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C19"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C20"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C21"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C22"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C23"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="C24"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="D1"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="D2"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="D3"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="D4"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="D5"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="D6"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="D7"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="IC1"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="IC2"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="IC3"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="IC4"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="IC5"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="MIS1"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="MIS2"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="PL1"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="PL2"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="PL3"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="PL4"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R1"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R2"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R3"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R4"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R5"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R6"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R7"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R8"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R9"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R10"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R11"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R12"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R13"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R14"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R15"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R16"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R17"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R18"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R19"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R20"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R21"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R22"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R23"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R24"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R25"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R26"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R27"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R28"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R29"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R30"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="R31"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="RV1"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="RV2"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="SK1"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="SK2"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="SK3"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="SK4"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="SK5"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="SW1"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="SW2"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="TP1"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="TP2"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="TP3"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="TP4"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="TP5"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="TP6"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="TP7"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="TP8"/>
+          <col name="Output" value="0"/>
+        </row>
+        <row>
+          <col name="Ref" value="TR1"/>
+          <col name="Output" value="0"/>
+        </row>
+      </specified>
+      <wirebondlayer/>
+    </export>
+    <layermappings>
+      <row>
+        <col name="dxf" value="Drawing_Border"/>
+        <col name="layer" value="BorderAssyDrg"/>
+        <col name="mirror" value="None"/>
+        <col name="drawing" value="false"/>
+      </row>
+    </layermappings>
+    <layermappings_stock/>
+  </dxfif>
+
+</mechanical>

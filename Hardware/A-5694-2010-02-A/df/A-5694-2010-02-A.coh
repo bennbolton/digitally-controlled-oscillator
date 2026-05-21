@@ -1,0 +1,4787 @@
+#**************************************************
+# Date     : Wed Dec 10 14:13:11 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	SK10 (P-CN01-0002)
+	IC1 (P-ML01-0215)
+	RV1 (P-NM06-0289)
+	SK7 (P-CN01-0002)
+	SK8 (P-CN01-0002)
+	SK9 (P-CN01-0002)
+
+# Deleted Component
+	RV4 (21.000000 , 109.500000 ; 0.000 ; A)
+	RV5 (116.704600 , 158.900000 ; 0.000 ; A)
+	RV2 (90.804600 , 158.900000 ; 0.000 ; A)
+	RV3 (103.754600 , 158.900000 ; 0.000 ; A)
+
+# Ref-Des-changed Component
+	IC4 -> IC5
+	SK5 -> SK6
+	SK1 -> SK2
+	IC5 -> IC6
+	IC1 -> IC2
+	SK6 -> SK1
+	SK2 -> SK3
+	IC2 -> IC3
+	SK3 -> SK5
+	IC3 -> IC4
+
+# Added Net
+	SIGN00151
+	SIGN00153
+	SIGN00154
+	SIGN00155
+	SIGN00156
+	SIGN00157
+	SIGN00158
+	SIGN00159
+
+# Deleted Net
+	SIGN0018
+	SIGN00119
+	SIGN00136
+	SIGN00143
+	SIGN00123
+	SIGN00147
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 11 10:32:19 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	C11 (P-CP22-10P0)
+
+# Part-changed Component
+	IC2 (P-ML10-0001 -> P-ML10-0031)
+
+# Ref-Des-changed Component
+	IC4 -> IC6
+	IC5 -> IC4
+	IC6 -> IC5
+
+# Deleted Net
+	+5V
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 11 11:31:20 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Net
+	SIGN00160
+	SIGN00161
+	SIGN00162
+	SIGN00163
+	SIGN00164
+	SIGN00165
+
+# Deleted Net
+	SIGN00110
+	SIGN00120
+	SIGN00131
+	SIGN00149
+	SIGN0012
+	SIGN00153
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 11 13:57:26 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 11 13:58:57 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	R18 (P-RF27-47K0 -> P-RF35-047K)
+	R15 (P-RF41-0312 -> P-RF35-012K)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 11 14:09:33 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	R20 (P-RF27-47K0 -> P-RF35-047K)
+	R10 (P-RF32-0060 -> P-RF35-02K2)
+	R8 (P-RF32-10K0 -> P-RF35-010K)
+	R4 (P-RF41-68K0 -> P-RF35-68K0)
+	R5 (P-RF32-0060 -> P-RF35-02K2)
+	R16 (P-RF32-0060 -> P-RF35-02K2)
+	R12 (P-RF32-0060 -> P-RF35-02K2)
+	R6 (P-RF32-0060 -> P-RF35-02K2)
+	R13 (P-RF42-0008 -> P-RF35-100K)
+	R7 (P-RF27-47K0 -> P-RF35-047K)
+
+# Ref-Des-changed Component
+	C4 -> C6
+	C5 -> C3
+	C6 -> C7
+	C7 -> C5
+	C3 -> C4
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 11 14:18:36 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Net
+	SIGN00166
+	SIGN00167
+	SIGN00168
+	SIGN00169
+
+# Deleted Net
+	SIGN00148
+	SIGN00155
+	SIGN00151
+	SIGN00127
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 11 14:19:53 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Ref-Des-changed Component
+	R18 -> R16
+	R14 -> R11
+	R10 -> R14
+	R8 -> R17
+	R4 -> R2
+	C10 -> C11
+	C8 -> C9
+	C11 -> C7
+	IC5 -> IC6
+	SK5 -> SK6
+	R11 -> R13
+	R9 -> R7
+	C9 -> C8
+	IC6 -> IC5
+	SK6 -> SK5
+	R16 -> R9
+	R12 -> R8
+	R2 -> R3
+	C7 -> C10
+	R17 -> R12
+	R13 -> R18
+	R7 -> R10
+	R3 -> R4
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 11 15:27:10 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	PL1 (P-CN02-2102)
+	PL2 (P-CN02-2102)
+	PL3 (P-CN02-2102)
+	PL4 (P-CN02-2102)
+
+# Deleted Component
+	SK8 (105.500000 , 55.000000 ; 0.000 ; A)
+	SK10 (74.500000 , 59.000000 ; 90.000 ; A)
+	SK9 (78.500000 , 59.000000 ; 90.000 ; A)
+	SK7 (30.900000 , 134.420000 ; 0.000 ; A)
+
+# Added Net
+	SIGN00170
+
+# Deleted Net
+	SIGN0011
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 11 16:12:22 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 11 16:14:37 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 08:39:38 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 08:45:13 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 08:46:35 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 08:48:05 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 12:14:48 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 13:29:08 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 14:37:56 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 15:32:05 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	RV2 (P-NM06-0289)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 15:51:50 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 16:28:41 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Dec 15 16:30:02 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Dec 16 08:59:19 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	C12 (P-CP22-0003)
+	C13 (P-CP22-0003)
+	C14 (P-CP22-0003)
+	C15 (P-CP22-0003)
+	C16 (P-CP22-0003)
+	C17 (P-CP22-0003)
+	C18 (P-CP22-0003)
+	C19 (P-CP22-0003)
+	C20 (P-CP22-0003)
+
+# Added Net
+	SIGN00171
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Dec 16 09:04:33 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Deleted Net
+	SIGN00171
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Dec 16 11:01:38 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	C21 (P-CP22-0003)
+	C22 (P-CP22-0003)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Dec 16 13:28:40 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Dec 16 13:46:52 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Dec 17 15:42:03 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Dec 17 16:31:23 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 18 13:33:06 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	R21 (P-RF35-01K0)
+	R22 (P-RF35-01K0)
+	R23 (P-RF35-01K0)
+	R24 (P-RF35-01K0)
+	R25 (P-RF35-01K0)
+	R26 (P-RF35-01K0)
+	D2 (P-VT01-0022)
+	D3 (P-VT01-0022)
+	D4 (P-VT01-0022)
+	D5 (P-VT01-0022)
+	D6 (P-VT01-0022)
+
+# Part-changed Component
+	IC4 (P-ML01-1073 -> P-ML04-0003)
+	IC5 (P-ML01-1073 -> P-ML04-0003)
+	IC6 (P-ML01-1073 -> P-ML04-0003)
+	IC3 (P-ML01-1073 -> P-ML04-0003)
+
+# Ref-Des-changed Component
+	C20 -> C12
+	C18 -> C7
+	C14 -> C2
+	R10 -> R7
+	R18 -> R13
+	C10 -> C18
+	R8 -> R10
+	C8 -> C20
+	R14 -> R12
+	C4 -> C17
+	SK4 -> SK3
+	C21 -> C4
+	C19 -> C13
+	C15 -> C6
+	PL1 -> PL2
+	R9 -> R14
+	C9 -> C19
+	C11 -> C21
+	R11 -> R15
+	C5 -> C15
+	SK1 -> SK4
+	R19 -> R17
+	R15 -> R16
+	C1 -> C9
+	C22 -> C11
+	C16 -> C5
+	C12 -> C1
+	PL2 -> PL3
+	R12 -> R18
+	R16 -> R19
+	C6 -> C16
+	SK2 -> SK1
+	C2 -> C10
+	C17 -> C8
+	C13 -> C3
+	PL3 -> PL1
+	R7 -> R11
+	R13 -> R9
+	C7 -> C22
+	R17 -> R8
+	C3 -> C14
+	SK3 -> SK2
+
+# Added Net
+	SIGN00172
+	SIGN00173
+	SIGN00174
+	SIGN00175
+	SIGN00176
+	SIGN00177
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 18 13:45:27 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	R10 (P-RF35-010K)
+	C10 (P-CP15-0004)
+	R11 (P-RF35-02K2)
+	C11 (P-CP22-0003)
+	R12 (P-RF35-02K2)
+	C12 (P-CP22-0003)
+	R13 (P-RF35-047K)
+	C13 (P-CP22-0003)
+	R14 (P-RF35-010K)
+	C14 (P-CP14-0218)
+	R15 (P-RF35-15K0)
+	C15 (P-CP14-0218)
+	R16 (P-RF35-02K2)
+	C16 (P-CP14-0116)
+	R17 (P-RF41-0097)
+	C17 (P-CP14-0116)
+	R18 (P-RF35-02K2)
+	C18 (P-CP14-0218)
+	R19 (P-RF35-100K)
+	C19 (P-CP14-0116)
+	R20 (P-RF35-02K2)
+	C20 (P-CP22-22P1)
+	TR1 (P-TR03-1052)
+	R21 (P-RF41-0218)
+	R1 (P-RF35-01K0)
+	C21 (P-CP15-0007)
+	R22 (P-RF35-012K)
+	R2 (P-RF35-01K0)
+	C22 (P-CP22-10P0)
+	R23 (P-RF41-0097)
+	R3 (P-RF35-01K0)
+	R24 (P-RF35-04K7)
+	R4 (P-RF35-01K0)
+	R25 (P-RF35-047K)
+	R5 (P-RF35-01K0)
+	R26 (P-RF35-047K)
+	R6 (P-RF35-01K0)
+	R7 (P-RF35-010K)
+	R8 (P-RF35-68K0)
+	R9 (P-RF35-010K)
+	IC1 (P-ML01-0215)
+	C1 (P-CP22-0003)
+	IC2 (P-ML10-0031)
+	C2 (P-CP22-0003)
+	IC3 (P-ML04-0003)
+	C3 (P-CP22-0003)
+	IC4 (P-ML04-0003)
+	C4 (P-CP22-0003)
+	IC5 (P-ML04-0003)
+	C5 (P-CP22-0003)
+	IC6 (P-ML04-0003)
+	C6 (P-CP22-0003)
+	C7 (P-CP22-0003)
+	C8 (P-CP22-0003)
+	C9 (P-CP15-0004)
+	D1 (P-VT01-0022)
+	D2 (P-VT01-0022)
+	D3 (P-VT01-0022)
+	D4 (P-VT01-0022)
+	D5 (P-VT01-0022)
+	D6 (P-DD02-0003)
+	RV1 (P-NM06-0289)
+	RV2 (P-NM06-0289)
+	SW1 (P-SW03-0020)
+	SW2 (P-SW03-0021)
+	SK1 (P-CN15-0015)
+	SK2 (P-CN15-0015)
+	SK3 (P-CN15-0015)
+	SK4 (P-CN47-0102)
+	SK5 (P-CN15-0015)
+	SK6 (P-CN13-0036)
+	PL1 (P-CN02-2102)
+	PL2 (P-CN02-2102)
+	PL3 (P-CN02-2102)
+	PL4 (P-CN02-2102)
+
+# Added Net
+	GND
+	SIGN0013
+	SIGN0014
+	SIGN0015
+	SIGN0016
+	SIGN0019
+	SIGN00160
+	SIGN00161
+	SIGN00162
+	SIGN00163
+	SIGN00164
+	SIGN00165
+	SIGN00166
+	SIGN00167
+	SIGN00168
+	SIGN00169
+	SIGN00154
+	SIGN00156
+	SIGN00157
+	SIGN00158
+	SIGN00159
+	SQUARE
+	SIGN00170
+	SIGN00172
+	SIGN00173
+	SIGN00174
+	SIGN00175
+	SIGN00176
+	-12V
+	+12V
+	SIGN00177
+	SIGN00124
+	SIGN00111
+	SIGN00112
+	TRIANGLE
+	SIGN00116
+	SIGN00117
+	SIGN00118
+	SIGN00140
+	SIGN00141
+	SIGN00142
+	SIGN00144
+	SIGN00145
+	SIGN00146
+	SIGN00139
+	PWM
+	SIN
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Dec 18 15:56:26 2025
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	R11 (P-RF35-010K)
+	R12 (P-RF35-010K)
+	R13 (P-RF35-010K)
+	R22 (P-RF35-010K)
+	R26 (P-RF35-01M0)
+	D6 (P-DD08-0040)
+	D7 (P-DD08-0040)
+
+# Ref-Des-changed Component
+	R8 -> R9
+	R24 -> R29
+	R20 -> R24
+	R18 -> R20
+	R14 -> R17
+	R9 -> R8
+	R25 -> R30
+	R21 -> R25
+	R19 -> R23
+	R15 -> R18
+	R11 -> R14
+	D6 -> D8
+	R26 -> R31
+	R22 -> R27
+	R16 -> R19
+	R12 -> R15
+	R23 -> R28
+	R17 -> R21
+	R13 -> R16
+
+# Added Net
+	SIGN00180
+	SIGN00181
+	SIGN00178
+	SIGN00179
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan  5 13:05:27 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	C23 (P-CP22-0003)
+	R33 (P-RF35-20K0)
+	R34 (P-RF41-0408)
+	R35 (P-RF35-010K)
+	IC7 (P-ML10-0059)
+	RV3 (P-NM21-0043)
+	RV4 (P-NM21-0043)
+
+# Deleted Component
+	C4 (30.600000 , 213.360000 ; 0.000 ; A)
+	R25 (137.250000 , 213.210000 ; 0.000 ; A)
+	R29 (127.800000 , 213.360000 ; 0.000 ; A)
+	R9 (92.700000 , 213.360000 ; 0.000 ; A)
+	RV1 (8.200000 , 190.600000 ; 0.000 ; A)
+	IC1 (113.040000 , 204.310000 ; 0.000 ; A)
+	C11 (44.100000 , 213.360000 ; 0.000 ; A)
+	RV2 (31.600000 , 190.600000 ; 0.000 ; A)
+	D2 (12.225000 , 213.785000 ; 0.000 ; A)
+	IC2 (97.770000 , 205.335000 ; 0.000 ; A)
+	C22 (71.100000 , 213.360000 ; 0.000 ; A)
+	R3 (79.200000 , 213.360000 ; 0.000 ; A)
+
+# Part-changed Component
+	R24 (P-RF35-02K2 -> P-RF35-22K0)
+	R19 (P-RF35-02K2 -> P-RF35-22K0)
+
+# Added Net
+	SIGN00182
+	SIGN00184
+	SIGN00185
+	MUX_OUT
+
+# Deleted Net
+	SIGN00158
+	SIGN00168
+	SIGN00159
+	SIGN00169
+	SIGN00112
+	SIGN00172
+	SIGN00157
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan  5 13:11:47 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Ref-Des-changed Component
+	RV4 -> RV1
+	R34 -> R11
+	D8 -> D7
+	R14 -> R15
+	R18 -> R19
+	R30 -> R29
+	R8 -> R2
+	R20 -> R21
+	R24 -> R25
+	SK4 -> SK5
+	D4 -> D2
+	C20 -> C19
+	C18 -> C17
+	C14 -> C13
+	R10 -> R3
+	R35 -> R14
+	R11 -> R5
+	R21 -> R22
+	R15 -> R16
+	R19 -> R20
+	R31 -> R30
+	SK5 -> SK4
+	D5 -> D3
+	D1 -> D4
+	R5 -> R8
+	C21 -> C20
+	R1 -> R12
+	C19 -> C18
+	C15 -> C14
+	D6 -> D5
+	R22 -> R23
+	R12 -> R6
+	R16 -> R17
+	IC6 -> IC2
+	C2 -> C3
+	R6 -> R9
+	R2 -> R13
+	C16 -> C15
+	C12 -> C11
+	RV3 -> RV2
+	IC7 -> IC1
+	R33 -> R10
+	C23 -> C2
+	D7 -> D6
+	R13 -> R7
+	R23 -> R24
+	R17 -> R18
+	D3 -> D1
+	C3 -> C4
+	R7 -> R1
+	C17 -> C16
+	C13 -> C12
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan  5 13:21:05 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Ref-Des-changed Component
+	C4 -> C3
+	R18 -> R27
+	R24 -> R28
+	R10 -> R12
+	C18 -> C17
+	R30 -> R29
+	R20 -> R17
+	R28 -> R21
+	R4 -> R7
+	C10 -> C6
+	C11 -> C15
+	C15 -> C16
+	R5 -> R4
+	R25 -> R19
+	R21 -> R25
+	R29 -> R30
+	R19 -> R24
+	R11 -> R13
+	C9 -> C5
+	C5 -> C9
+	C12 -> C13
+	C16 -> C12
+	R6 -> R5
+	R12 -> R10
+	R22 -> R23
+	R26 -> R20
+	C6 -> C7
+	R7 -> R6
+	R13 -> R11
+	C3 -> C4
+	R17 -> R22
+	R23 -> R18
+	C13 -> C11
+	C17 -> C18
+	R27 -> R26
+	C7 -> C10
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan  5 13:51:56 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan  5 16:07:38 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	R15 (P-RF35-000R)
+	R16 (P-RF35-02K0)
+
+# Deleted Component
+	SK3 (86.443500 , 167.455000 ; 0.000 ; A)
+	C6 (141.254600 , 170.750000 ; 0.000 ; A)
+
+# Part-changed Component
+	R14 (P-RF35-010K -> P-RF35-20K0)
+	C5 (P-CP15-0004 -> P-CP22-0006)
+	R13 (P-RF41-0408 -> P-RF35-150K)
+	D7 (P-DD02-0003 -> P-DD08-0040)
+
+# Ref-Des-changed Component
+	C10 -> C9
+	C18 -> C17
+	R18 -> R20
+	R20 -> R22
+	R24 -> R26
+	R30 -> R32
+	R28 -> R30
+	C14 -> C13
+	C20 -> C19
+	SK4 -> SK3
+	C8 -> C7
+	C11 -> C10
+	C9 -> C8
+	R25 -> R27
+	R19 -> R21
+	C15 -> C14
+	R21 -> R23
+	R29 -> R31
+	C19 -> C18
+	SK5 -> SK4
+	R15 -> R17
+	R26 -> R28
+	R22 -> R24
+	C12 -> C11
+	C16 -> C15
+	R16 -> R18
+	SK6 -> SK5
+	C7 -> C6
+	R23 -> R25
+	C13 -> C12
+	R17 -> R19
+	C17 -> C16
+	R27 -> R29
+
+# Deleted Net
+	SIGN00124
+	SQUARE
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Jan  6 16:26:56 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan  7 10:08:31 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	IC6 (P-ML10-0026)
+	IC7 (P-ML10-0026)
+
+# Added Net
+	SIGN00186
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan  7 10:15:48 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Deleted Component
+	IC6 (-36.700000 , 77.100000 ; 90.000 ; A)
+	IC7 (-31.600000 , 77.100000 ; 90.000 ; A)
+
+# Deleted Net
+	SIGN00186
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan  7 11:05:48 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	R33 (P-RF35-010K)
+
+# Added Net
+	SIGN00187
+	SIGN00188
+
+# Deleted Net
+	SIGN00142
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan  7 11:12:09 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	SW2 (P-SW03-0020)
+
+# Deleted Component
+	R1 (-6.700000 , 68.600000 ; 0.000 ; A)
+	SW1 (97.900000 , 77.400000 ; 0.000 ; A)
+	R33 (-4.300000 , 65.300000 ; 180.000 ; A)
+
+# Ref-Des-changed Component
+	R18 -> R17
+	R24 -> R23
+	R28 -> R27
+	R30 -> R29
+	R20 -> R19
+	R10 -> R9
+	R4 -> R3
+	R8 -> R7
+	R14 -> R13
+	R15 -> R14
+	R29 -> R28
+	R19 -> R18
+	R25 -> R24
+	R31 -> R30
+	R21 -> R20
+	R11 -> R10
+	R5 -> R4
+	R9 -> R8
+	C1 -> C2
+	R16 -> R15
+	R32 -> R31
+	R26 -> R25
+	R22 -> R21
+	R6 -> R5
+	R12 -> R11
+	C2 -> C1
+	R2 -> R1
+	SW2 -> SW1
+	R17 -> R16
+	R23 -> R22
+	R27 -> R26
+	R13 -> R12
+	R7 -> R6
+	R3 -> R2
+
+# Deleted Net
+	SIGN00188
+	SIGN00187
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan  7 11:21:17 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan  7 11:25:36 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan  7 11:55:23 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	D4 (P-VT01-0022 -> P-VT01-0017)
+	D1 (P-VT01-0022 -> P-VT01-0017)
+	D2 (P-VT01-0022 -> P-VT01-0017)
+	D3 (P-VT01-0022 -> P-VT01-0017)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan  7 13:00:17 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	R8 (P-RF35-01K0 -> P-RF35-0019)
+	R10 (P-RF35-01K0 -> P-RF35-0019)
+	R9 (P-RF35-01K0 -> P-RF35-0019)
+	R6 (P-RF35-01K0 -> P-RF35-0019)
+	R7 (P-RF35-01K0 -> P-RF35-0019)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Jan  8 08:27:33 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Net
+	SIGN00190
+	SIGN00189
+
+# Deleted Net
+	SIGN00176
+	SIGN00177
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Jan  8 14:54:02 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	C11 (P-CP14-0218)
+	C12 (P-CP14-0218)
+	C18 (P-CP14-0218)
+	C9 (P-CP14-0218)
+
+# Ref-Des-changed Component
+	C18 -> C22
+	C14 -> C17
+	C10 -> C13
+	C15 -> C19
+	C11 -> C14
+	C19 -> C23
+	C9 -> C10
+	C16 -> C20
+	C12 -> C15
+	C13 -> C16
+	C17 -> C21
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Fri Jan  9 11:40:05 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan 12 08:31:37 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	C18 (P-CP14-0218 -> P-CP22-0003)
+	C9 (P-CP14-0218 -> P-CP22-0003)
+	C11 (P-CP14-0218 -> P-CP22-0003)
+	C12 (P-CP14-0218 -> P-CP22-0003)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan 12 11:27:47 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	C18 (P-CP22-0003 -> P-CP14-0218)
+	C9 (P-CP22-0003 -> P-CP14-0218)
+	C11 (P-CP22-0003 -> P-CP14-0218)
+	C12 (P-CP22-0003 -> P-CP14-0218)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan 12 11:58:31 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	MIS1 (1025-1600WT1m3_3m0)
+	MIS2 (1025-1600WT1m3_3m0)
+
+# Added Net
+	SIGN00191
+	SIGN00192
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan 12 13:08:16 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	MIS1 (1025-1600WT1m3_3m0 -> WIRE-TERM_SM0m3_0m4)
+	MIS2 (1025-1600WT1m3_3m0 -> WIRE-TERM_SM0m3_0m4)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan 12 13:10:14 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	MIS1 (WIRE-TERM_SM0m3_0m4 -> WIRE-TERM_1m3_2m5)
+	MIS2 (WIRE-TERM_SM0m3_0m4 -> WIRE-TERM_1m3_2m5)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan 12 13:32:49 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	R30 (P-RF35-047K -> P-RF35-36K0)
+	R24 (P-RF41-0097 -> P-RF35-39K0)
+	R22 (P-RF41-0097 -> P-RF35-39K0)
+	R23 (P-RF35-047K -> P-RF35-36K0)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Jan 13 10:11:24 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	C24 (P-CP22-22P1)
+	C25 (P-CP22-22P1)
+
+# Deleted Component
+	C22 (75.800000 , 18.700000 ; 0.000 ; A)
+
+# Part-changed Component
+	C18 (P-CP14-0218 -> P-CP22-0003)
+	C9 (P-CP14-0218 -> P-CP22-0003)
+	C11 (P-CP14-0218 -> P-CP22-0003)
+	C21 (P-CP14-0218 -> P-CP22-0003)
+	R31 (P-RF35-047K -> P-RF35-62K0)
+	R15 (P-RF35-02K0 -> P-RF35-02K2)
+	C12 (P-CP14-0218 -> P-CP22-0003)
+	C16 (P-CP14-0218 -> P-CP22-0003)
+	R22 (P-RF35-39K0 -> P-RF35-43K0)
+	C13 (P-CP14-0218 -> P-CP22-0003)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Jan 13 10:14:05 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Ref-Des-changed Component
+	C24 -> C22
+	C25 -> C24
+	MIS1 -> MIS2
+	MIS2 -> MIS1
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Jan 13 12:57:15 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	C20 (P-CP14-0116 -> P-CP22-10N0)
+	C14 (P-CP14-0116 -> P-CP22-10N0)
+	C19 (P-CP14-0116 -> P-CP22-10N0)
+	C23 (P-CP15-0007 -> P-CP14-0174)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan 14 08:39:58 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	SK6 (P-CN03-0801)
+
+# Part-changed Component
+	R11 (P-RF35-20K0 -> P-RF35-22K0)
+	R13 (P-RF35-20K0 -> P-RF35-22K0)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan 14 09:43:19 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Deleted Component
+	SK6 (1.770000 , 62.270000 ; 0.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan 14 10:46:08 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Deleted Component
+	SK6 (1.770000 , 62.270000 ; 0.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan 14 14:54:35 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	MIS1 (WIRE-TERM_1m3_2m5 -> P-CD12-2136)
+	MIS2 (WIRE-TERM_1m3_2m5 -> P-CD12-2136)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Jan 15 09:13:50 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	R26 (P-RF35-02K2 -> P-RF35-04K7)
+	R16 (P-RF35-02K2 -> P-RF35-07K5)
+	R17 (P-RF35-02K2 -> P-RF35-04K7)
+
+# Ref-Des-changed Component
+	MIS1 -> TP1
+	MIS2 -> TP2
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Jan 15 12:57:46 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Jan 15 12:58:33 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP3 (SM-TP-RD1m0)
+	TP4 (SM-TP-RD1m0)
+	TP5 (SM-TP-RD1m0)
+	TP6 (SM-TP-RD1m0)
+	MIS1 (WIRE-TERM_1m0)
+	MIS2 (WIRE-TERM_1m0)
+
+# Part-changed Component
+	TP1 (P-CD12-2136 -> SM-TP-RD1m0)
+	TP2 (P-CD12-2136 -> SM-TP-RD1m0)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Jan 15 13:23:31 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP4 (SM-TP-RD1m0)
+
+# Ref-Des-changed Component
+	TP4 -> TP5
+	TP5 -> TP6
+	TP6 -> TP7
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Jan 15 13:41:14 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP8 (SM-TP-RD1m0)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Jan 15 13:47:21 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Ref-Des-changed Component
+	TP8 -> TP4
+	TP4 -> TP5
+	TP5 -> TP6
+	TP6 -> TP7
+	TP7 -> TP8
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Jan 20 13:50:19 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Jan 20 15:12:00 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Jan 20 16:29:28 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan 21 15:52:11 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	C25 (P-CP22-0003)
+	C26 (P-CP22-0003)
+	C27 (P-CP22-0003)
+	C28 (P-CP22-0003)
+	C29 (P-CP14-0167)
+	C30 (P-CP14-0167)
+	C31 (P-CP22-0003)
+	C32 (P-CP22-0003)
+	C33 (P-CP22-0003)
+	C34 (P-CP22-0003)
+	C35 (P-CP22-0003)
+	IC6 (P-ML10-0011)
+	C36 (P-CP22-0003)
+	C37 (P-CP22-0003)
+	C38 (P-CP22-0003)
+	C39 (P-CP14-0167)
+	C40 (P-CP22-0003)
+	C41 (P-CP22-0003)
+	C42 (P-CP22-0003)
+	C43 (P-CP22-0003)
+	RV3 (P-RV05-0014)
+	RV4 (P-RV05-0014)
+	RV5 (P-RV05-0014)
+	SK6 (P-CN28-010W)
+
+# Deleted Component
+	PL1 (106.815590 , 79.452880 ; 0.000 ; A)
+	C18 (117.154740 , 94.228360 ; 270.000 ; A)
+	C10 (14.652440 , 98.835470 ; 90.000 ; A)
+	C8 (113.017480 , 98.035470 ; 180.000 ; A)
+	C4 (65.049410 , 98.869120 ; 180.000 ; A)
+	PL4 (106.815590 , 75.177950 ; 0.000 ; A)
+	C9 (26.480740 , 98.835470 ; 90.000 ; A)
+	C11 (4.882710 , 98.835470 ; 270.000 ; A)
+	C15 (62.349410 , 98.035470 ; 0.000 ; A)
+	C12 (21.242070 , 98.835470 ; 90.000 ; A)
+	SW2 (68.937280 , 81.264500 ; 0.000 ; A)
+	C6 (1.952670 , 102.482080 ; 90.000 ; A)
+	PL2 (106.815590 , 83.712740 ; 0.000 ; A)
+	C17 (19.435200 , 98.835470 ; 90.000 ; A)
+	C7 (52.087760 , 98.035470 ; 180.000 ; A)
+	C3 (28.869660 , 98.835470 ; 90.000 ; A)
+
+# Ref-Des-changed Component
+	C24 -> C55
+	C20 -> C51
+	C14 -> C48
+	SK4 -> SK10
+	C21 -> C50
+	C19 -> C52
+	C1 -> C44
+	SK5 -> SK11
+	C5 -> C46
+	RV1 -> RV6
+	SK1 -> SK7
+	C22 -> C53
+	C16 -> C49
+	C2 -> C45
+	RV2 -> RV7
+	SK2 -> SK8
+	C23 -> C54
+	C13 -> C47
+	SK3 -> SK9
+	PL3 -> PL1
+
+# Added Net
+	DIGI_1A
+	SIGN00193
+	DIGI_2A
+	SIGN0021
+	SIGN0022
+	SIGN0023
+	DIGI_1W
+	DIGI_3A
+	+5V
+	DIGI_3W
+	PIN_XX
+
+# Deleted Net
+	SIGN00170
+	SIGN00165
+	SIGN00161
+	SIGN00156
+	SIGN00163
+	SIGN0013
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Jan 21 16:05:56 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	SK12 (P-CN28-010W)
+	SK13 (P-CN28-010W)
+	SK14 (P-CN28-010W)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Jan 26 16:01:36 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TR2 (P-ML19-0035)
+	R32 (P-RF35-02K2)
+	R33 (P-RF35-010K)
+	R34 (P-RF35-010K)
+	R35 (P-RF35-010K)
+	R36 (P-RF35-010K)
+	R37 (P-RF35-02K2)
+	R38 (P-RF35-02K2)
+	R39 (P-RF35-02K2)
+	C56 (P-CP22-0003)
+	C57 (P-CP22-10N0)
+	C58 (P-CP22-10N0)
+	C59 (P-CP22-0003)
+	C60 (P-CP22-0003)
+	C61 (P-CP22-0003)
+	C62 (P-CP22-0003)
+	C63 (P-CP22-0003)
+	C64 (P-CP14-0167)
+	C65 (P-CP22-0003)
+	C66 (P-CP22-0003)
+	C67 (P-CP22-0003)
+	RV8 (P-RV05-0014)
+	C68 (P-CP22-0003)
+	RV9 (P-RV05-0008)
+	C69 (P-CP22-0003)
+	C70 (P-CP22-0003)
+	C71 (P-CP22-0003)
+	C72 (P-CP22-0003)
+	C73 (P-CP22-0003)
+	C74 (P-CP22-0003)
+	C75 (P-CP22-0003)
+	C76 (P-CP22-0003)
+	C77 (P-CP22-0003)
+	C78 (P-CP22-0003)
+	C79 (P-CP22-0003)
+	C80 (P-CP22-0003)
+	C81 (P-CP14-0167)
+
+# Deleted Component
+	C34 (70.900000 , 59.350000 ; 0.000 ; A)
+	C28 (54.700000 , 59.350000 ; 0.000 ; A)
+	R4 (10.205320 , 98.835470 ; 90.000 ; A)
+	C31 (62.800000 , 59.350000 ; 0.000 ; A)
+	C25 (46.600000 , 59.350000 ; 0.000 ; A)
+	PL1 (106.815590 , 87.908770 ; 0.000 ; A)
+	SW1 (108.305590 , 67.009170 ; 0.000 ; A)
+	R1 (16.482820 , 98.835470 ; 90.000 ; A)
+	R19 (104.917480 , 98.820180 ; 0.000 ; A)
+	C32 (65.500000 , 59.350000 ; 0.000 ; A)
+	C26 (49.300000 , 59.350000 ; 0.000 ; A)
+	R2 (91.417480 , 98.841450 ; 180.000 ; A)
+	C33 (68.200000 , 59.350000 ; 0.000 ; A)
+	C27 (52.000000 , 59.350000 ; 0.000 ; A)
+	RV7 (56.547200 , 74.392160 ; 180.000 ; A)
+	R3 (22.744670 , 98.835470 ; 90.000 ; A)
+
+# Part-changed Component
+	R25 (P-RF35-15K0 -> P-RF35-04K7)
+
+# Added Net
+	SCLK
+	SIGN0026
+	SIGN0027
+	SIGN0028
+	SIGN0029
+	FREQ_A
+	FREQ_B
+	SDA
+	SS
+	ENC_SW
+	SIGN00210
+	SIGN00211
+	SIGN00212
+	SIGN00213
+	SIGN00214
+	RDY
+	DIGI_4A
+	DIGI_4B
+	MUX_SEL0
+	DIGI_5A
+	MUX_SEL1
+	DIGI_4W
+	DIGI_5W
+
+# Deleted Net
+	SIGN00180
+	SIGN00140
+	SIGN00118
+	SIGN00179
+	SIGN00181
+	SIGN00141
+	SIGN00116
+	SIGN00166
+	SIGN00117
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Feb 10 15:52:38 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP9 (SM-TP-RD1m0)
+	IC7 (P-MV11-0014)
+	R40 (P-RF35-010K)
+	R41 (P-RF35-03K0)
+	R42 (P-RF35-20K0)
+	R43 (P-RF35-20K0)
+	R44 (P-RF35-010K)
+	R45 (P-RF35-010K)
+	R46 (P-RF35-010K)
+	R47 (P-RF35-010K)
+	R48 (P-RF35-010K)
+	D8 (P-DD08-0040)
+	R49 (P-RF35-010K)
+	D9 (P-DD08-0040)
+	R50 (P-RF35-22K0)
+	R51 (P-RF35-22K0)
+	R52 (P-RF35-100K)
+	R53 (P-RF35-04K7)
+	R54 (P-RF35-02K2)
+	C82 (P-CP22-0003)
+	C83 (P-CP22-0003)
+	C84 (P-CP22-0003)
+	C85 (P-CP22-10N0)
+
+# Deleted Component
+	R34 (20.750000 , 120.327770 ; 0.000 ; A)
+	SK8 (40.143500 , 61.524090 ; 0.000 ; A)
+	C50 (69.488020 , 111.176790 ; 270.000 ; A)
+	R8 (69.529920 , 116.374290 ; 0.000 ; A)
+	R20 (26.389350 , 116.472140 ; 180.000 ; A)
+	R18 (71.428760 , 108.476790 ; 270.000 ; A)
+	R35 (23.450000 , 120.327770 ; 0.000 ; A)
+	SK9 (8.428700 , 61.630470 ; 0.000 ; A)
+	C49 (10.582800 , 116.376790 ; 270.000 ; A)
+	C55 (40.461850 , 117.445460 ; 180.000 ; A)
+	R5 (61.429920 , 116.366320 ; 0.000 ; A)
+	R29 (66.404050 , 108.476790 ; 90.000 ; A)
+	R36 (26.150000 , 120.327770 ; 0.000 ; A)
+	C52 (75.909700 , 109.985880 ; 90.000 ; A)
+	D2 (36.429340 , 109.676790 ; 180.000 ; A)
+	R33 (18.050000 , 120.327770 ; 0.000 ; A)
+	R13 (74.929920 , 116.346600 ; 180.000 ; A)
+	R7 (53.300700 , 116.389180 ; 0.000 ; A)
+	R17 (80.363210 , 110.426790 ; 90.000 ; A)
+	D3 (31.596360 , 109.676790 ; 180.000 ; A)
+
+# Part-changed Component
+	R30 (P-RF35-36K0 -> P-RF35-03K6)
+	R31 (P-RF35-62K0 -> P-RF35-20K0)
+	R6 (P-RF35-0019 -> P-RF35-120R)
+	R12 (P-RF35-150K -> P-RF35-20K0)
+	R22 (P-RF35-43K0 -> P-RF35-15K0)
+	R27 (P-RF35-012K -> P-RF35-15K0)
+
+# Added Net
+	SIGN00194
+	SIGN00195
+	ENC_A
+	ENC_B
+	MOSI
+	MISO
+	SIGN00220
+	SIGN00221
+	SIGN00222
+	+3V3
+	SIGN00216
+	SIGN00217
+	SIGN00218
+	SIGN00219
+	F_PWM
+	F_SIN
+
+# Deleted Net
+	SIGN00174
+	DIGI_4A
+	SDA
+	FREQ_A
+	SIGN00175
+	DIGI_4B
+	FREQ_B
+	+5V
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Mar  4 15:50:58 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	C12 (P-CP22-22P1)
+	R15 (P-RF35-0019)
+	R16 (P-RF35-0019)
+	R1 (P-RF35-047K)
+	R2 (P-RF35-15K0)
+	C22 (P-CP22-0003)
+	R3 (P-RF35-047K)
+	R4 (P-RF35-15K0)
+	R5 (P-RF35-010K)
+	R6 (P-RF35-010K)
+	C27 (P-CP22-0003)
+	C28 (P-CP22-0003)
+	C30 (P-CP22-0003)
+	IC1 (P-MV11-0014)
+	C31 (P-CP22-0003)
+	C34 (P-CP22-0003)
+	C35 (P-CP22-0003)
+	IC6 (P-ML04-0003)
+	C37 (P-CP22-0003)
+	IC8 (P-ML04-0003)
+	C38 (P-CP22-0003)
+	IC9 (P-ML04-0003)
+	D1 (P-DD08-0040)
+	C41 (P-CP22-0003)
+	D2 (P-DD08-0040)
+	C42 (P-CP22-0003)
+	D4 (P-VT01-0017)
+	C44 (P-CP22-0003)
+	D5 (P-VT01-0017)
+	RV3 (P-RV05-0014)
+	SK1 (P-CN15-0015)
+	SK2 (P-CN15-0015)
+	SK3 (P-CN15-0015)
+
+# Deleted Component
+	R41 (33.550000 , 59.350000 ; 0.000 ; A)
+	RV5 (14.500000 , 111.076790 ; 0.000 ; A)
+	SK7 (24.286100 , 61.524100 ; 0.000 ; A)
+	R42 (36.250000 , 59.350000 ; 0.000 ; A)
+	IC2 (34.669910 , 96.975470 ; 0.000 ; A)
+	IC5 (47.549910 , 96.975470 ; 0.000 ; A)
+	D8 (11.500000 , 60.675000 ; 0.000 ; A)
+	D9 (15.000000 , 60.675000 ; 0.000 ; A)
+	C70 (66.650000 , 119.227770 ; 0.000 ; A)
+	C68 (61.250000 , 119.227770 ; 0.000 ; A)
+	TP9 (17.725000 , 59.775000 ; 0.000 ; A)
+	C71 (69.350000 , 119.227770 ; 0.000 ; A)
+	C69 (63.950000 , 119.227770 ; 0.000 ; A)
+	C65 (53.150000 , 119.227770 ; 0.000 ; A)
+	C72 (72.050000 , 119.227770 ; 0.000 ; A)
+	C66 (55.850000 , 119.227770 ; 0.000 ; A)
+	R43 (38.950000 , 59.350000 ; 0.000 ; A)
+	C67 (58.550000 , 119.227770 ; 0.000 ; A)
+
+# Part-changed Component
+	R10 (P-RF35-010K -> P-RF35-22K0)
+	R29 (P-RF35-03K6 -> P-RF35-36K0)
+	R17 (P-RF35-120R -> P-RF35-0019)
+	R9 (P-RF35-20K0 -> P-RF35-150K)
+	R28 (P-RF35-15K0 -> P-RF35-43K0)
+	IC7 (P-MV11-0014 -> P-ML04-0003)
+	R27 (P-RF35-15K0 -> P-RF35-010K)
+
+# Ref-Des-changed Component
+	C84 -> C6
+	R54 -> R35
+	R50 -> R37
+	R48 -> R10
+	R44 -> R41
+	C80 -> C16
+	C78 -> C54
+	C74 -> C47
+	RV8 -> RV5
+	C64 -> C20
+	C60 -> C36
+	C58 -> C26
+	R38 -> R34
+	SK14 -> SK7
+	C40 -> C39
+	C38 -> C33
+	C30 -> C19
+	C54 -> C11
+	C44 -> C1
+	SK10 -> SK4
+	C48 -> C7
+	TP4 -> TP5
+	R10 -> R12
+	R30 -> R29
+	R28 -> R21
+	R14 -> R13
+	D4 -> D3
+	C85 -> C8
+	R51 -> R36
+	R49 -> R7
+	R45 -> R42
+	C81 -> C21
+	C79 -> C15
+	C75 -> C48
+	RV9 -> RV6
+	C61 -> C29
+	C59 -> C43
+	R39 -> R31
+	C41 -> C40
+	C39 -> C18
+	C35 -> C23
+	C29 -> C17
+	C45 -> C2
+	SK11 -> SK5
+	C51 -> C10
+	TP5 -> TP4
+	R11 -> R8
+	R21 -> R25
+	R25 -> R22
+	R31 -> R30
+	R15 -> R14
+	R9 -> R11
+	D1 -> D6
+	IC1 -> IC2
+	D5 -> D7
+	C82 -> C53
+	R52 -> R26
+	R46 -> R39
+	C76 -> C51
+	C62 -> C49
+	C56 -> C13
+	SK12 -> SK8
+	SK6 -> SK9
+	C42 -> C45
+	C36 -> C24
+	IC6 -> IC5
+	RV6 -> RV1
+	C46 -> C3
+	TP6 -> TP7
+	R6 -> R17
+	R12 -> R9
+	R26 -> R23
+	R22 -> R28
+	R16 -> R18
+	D6 -> D8
+	C83 -> C5
+	R53 -> R19
+	R47 -> R38
+	C77 -> C52
+	C73 -> C46
+	C63 -> C14
+	C57 -> C25
+	R37 -> R33
+	SK13 -> SK6
+	RV3 -> RV2
+	C43 -> C50
+	C37 -> C32
+	C47 -> C4
+	C53 -> C9
+	TP7 -> TP6
+	R23 -> R20
+	D7 -> D9
+
+# Added Net
+	SPARE_SW
+	SIGN00196
+	SIGN00197
+	SIGN00199
+	SIGN001100
+	SIGN001101
+	SIGN001102
+	SIGN001103
+	SIGN001104
+
+# Deleted Net
+	SIGN00218
+	SIGN00194
+	SIGN00184
+	SIGN00219
+	SIGN00195
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar  5 09:12:07 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP9 (SM-TP-RD1m0)
+	TP10 (SM-TP-RD1m0)
+	SK10 (P-NM22-0021)
+	IC10 (P-NM05-0049)
+	D10 (P-VT01-0017)
+	IC11 (P-NM05-0049)
+	IC12 (P-NM05-0048)
+	R43 (P-RF35-0019)
+	R44 (P-RF35-0019)
+	C55 (P-CP14-0296)
+	C56 (P-CP14-0109)
+	C57 (P-CP14-0109)
+	C59 (P-CP14-0296)
+	C61 (P-CP14-0296)
+	C62 (P-CP14-0109)
+	C63 (P-CP14-0296)
+	C64 (P-CP14-0109)
+	C65 (P-CP14-0109)
+	C66 (P-CP14-0296)
+	C67 (P-CP14-0296)
+	C68 (P-CP14-0109)
+
+# Deleted Component
+	SK4 (66.822200 , 78.414500 ; 90.000 ; A)
+	R11 (15.229810 , 116.376790 ; 90.000 ; A)
+	TP5 (22.080820 , 116.001790 ; 0.000 ; B)
+	R12 (66.404050 , 111.176790 ; 90.000 ; A)
+	TP2 (30.664350 , 116.001790 ; 0.000 ; B)
+	D3 (45.954050 , 109.676790 ; 0.000 ; A)
+	TP3 (79.842890 , 108.101790 ; 0.000 ; B)
+
+# Added Net
+	SIGN0031
+	SIGN0032
+	+5V
+	V_IN
+
+# Deleted Net
+	SIGN00190
+	SIGN00189
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar  5 10:03:30 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	IC14 (P-EA03-0083)
+	IC15 (P-EA03-0083)
+	IC16 (P-EA03-0083)
+	C69 (P-CP14-0109)
+	C70 (P-CP14-0296)
+	C71 (P-CP14-0296)
+	C72 (P-CP14-0109)
+	C73 (P-CP14-0296)
+	C74 (P-CP14-0109)
+	C75 (P-CP14-0296)
+	C76 (P-CP14-0109)
+	C77 (P-CP14-0109)
+	C78 (P-CP14-0296)
+	C79 (P-CP14-0296)
+	C80 (P-CP14-0109)
+
+# Deleted Component
+	C68 (73.900000 , 59.700000 ; 0.000 ; A)
+	C64 (67.700000 , 59.700000 ; 0.000 ; A)
+	IC10 (20.060000 , 60.200000 ; 0.000 ; A)
+	C65 (70.800000 , 59.700000 ; 0.000 ; A)
+	C61 (4.550000 , 82.500000 ; 0.000 ; A)
+	C59 (1.850000 , 82.500000 ; 0.000 ; A)
+	C55 (80.700000 , 59.350000 ; 0.000 ; A)
+	IC11 (32.360000 , 60.200000 ; 0.000 ; A)
+	C66 (9.950000 , 82.500000 ; 0.000 ; A)
+	C62 (64.600000 , 59.700000 ; 0.000 ; A)
+	C56 (58.400000 , 59.700000 ; 0.000 ; A)
+	IC12 (89.700000 , 68.825000 ; 0.000 ; A)
+	C67 (12.650000 , 82.500000 ; 0.000 ; A)
+	C63 (7.250000 , 82.500000 ; 0.000 ; A)
+	C57 (61.500000 , 59.700000 ; 0.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar  5 11:32:13 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP2 (P-CD12-2136)
+	TP4 (P-CD12-2136)
+	TP5 (P-CD12-2136)
+	C25 (P-CP22-0003)
+	C26 (P-CP22-0003)
+	R30 (P-RF35-047K)
+	R31 (P-RF35-15K0)
+	R32 (P-RF35-047K)
+	IC2 (P-ML04-0003)
+	R33 (P-RF35-15K0)
+	R34 (P-RF35-010K)
+	R35 (P-RF35-010K)
+	D7 (P-DD08-0040)
+	D8 (P-DD08-0040)
+	D9 (P-VT01-0017)
+	C55 (P-CP22-0003)
+	C56 (P-CP22-0003)
+	C57 (P-CP22-0003)
+	C58 (P-CP22-0003)
+	C59 (P-CP22-0003)
+	C60 (P-CP22-0003)
+	C61 (P-CP22-0003)
+	C62 (P-CP22-0003)
+	C63 (P-CP22-0003)
+	C64 (P-CP22-0003)
+	C65 (P-CP22-0003)
+	C66 (P-CP22-0003)
+
+# Deleted Component
+	C50 (26.150000 , 119.227770 ; 0.000 ; A)
+	C35 (62.480000 , 95.960000 ; 0.000 ; A)
+	C45 (23.450000 , 119.227770 ; 0.000 ; A)
+	C34 (59.780000 , 95.960000 ; 0.000 ; A)
+	R5 (7.250000 , 105.960000 ; 0.000 ; A)
+	D2 (40.480000 , 97.285000 ; 0.000 ; A)
+	R1 (78.680000 , 95.960000 ; 0.000 ; A)
+	C30 (54.380000 , 95.960000 ; 0.000 ; A)
+	C32 (9.950000 , 119.227770 ; 0.000 ; A)
+	C29 (42.350000 , 119.227770 ; 0.000 ; A)
+	C44 (75.980000 , 95.960000 ; 0.000 ; A)
+	C22 (46.280000 , 95.960000 ; 0.000 ; A)
+	R2 (81.380000 , 95.960000 ; 0.000 ; A)
+	R3 (1.850000 , 105.960000 ; 0.000 ; A)
+	C49 (45.050000 , 119.227770 ; 0.000 ; A)
+	C48 (80.150000 , 119.227770 ; 0.000 ; A)
+	IC8 (184.382200 , 94.615000 ; 0.000 ; A)
+	R4 (4.550000 , 105.960000 ; 0.000 ; A)
+	C23 (4.550000 , 119.227770 ; 0.000 ; A)
+	C46 (74.750000 , 119.227770 ; 0.000 ; A)
+	C36 (39.650000 , 119.227770 ; 0.000 ; A)
+	R6 (9.950000 , 105.960000 ; 0.000 ; A)
+	D1 (36.980000 , 97.285000 ; 0.000 ; A)
+	D10 (175.900000 , 95.975000 ; 0.000 ; A)
+	TP10 (202.675000 , 92.650000 ; 0.000 ; A)
+	TP9 (197.225000 , 94.400000 ; 0.000 ; A)
+
+# Part-changed Component
+	TP3 (SM-TP-RD1m0 -> P-CD12-2136)
+	TP8 (SM-TP-RD1m0 -> P-CD12-2136)
+	IC9 (P-ML04-0003 -> P-MV11-0014)
+	IC1 (P-MV11-0014 -> P-ML10-0011)
+	IC5 (P-ML10-0011 -> P-ML04-0003)
+	TP1 (SM-TP-RD1m0 -> P-CD12-2136)
+	TP6 (SM-TP-RD1m0 -> P-CD12-2136)
+	TP7 (SM-TP-RD1m0 -> P-CD12-2136)
+
+# Ref-Des-changed Component
+	C80 -> C50
+	C78 -> C35
+	C74 -> C45
+	C70 -> C34
+	IC14 -> IC10
+	R44 -> R42
+	SK10 -> SK9
+	R20 -> R5
+	C4 -> C2
+	R38 -> R36
+	D8 -> D2
+	R18 -> R1
+	R28 -> R11
+	SK8 -> SK7
+	R14 -> R22
+	R30 -> R12
+	R8 -> R18
+	TP4 -> TP3
+	C10 -> C7
+	C8 -> C5
+	R34 -> R26
+	R10 -> R20
+	R40 -> R38
+	R24 -> R8
+	C79 -> C30
+	C75 -> C32
+	C71 -> C29
+	C69 -> C44
+	IC15 -> IC11
+	D9 -> D3
+	C9 -> C6
+	C25 -> C22
+	R19 -> R2
+	C5 -> C1
+	R9 -> R19
+	SK9 -> SK8
+	R39 -> R37
+	R25 -> R10
+	SK5 -> SK4
+	R31 -> R23
+	R21 -> R3
+	R29 -> R13
+	C1 -> C10
+	C11 -> C8
+	R41 -> R39
+	R35 -> R27
+	C76 -> C49
+	C72 -> C48
+	IC16 -> IC12
+	C12 -> C9
+	SK6 -> SK5
+	R26 -> R7
+	IC2 -> IC8
+	R22 -> R4
+	C2 -> C11
+	R42 -> R40
+	R36 -> R28
+	C26 -> C23
+	C6 -> C3
+	R32 -> R24
+	C77 -> C46
+	C73 -> C36
+	R43 -> R41
+	R33 -> R25
+	R23 -> R6
+	C3 -> C12
+	D7 -> D1
+	R7 -> R14
+	R13 -> R21
+	C7 -> C4
+	SK7 -> SK6
+	R37 -> R29
+	R27 -> R9
+
+# Added Net
+	SIGN0033
+	SIGN0034
+	TRI
+	SIGN00223
+	SIGN00224
+	SIGN00225
+	SIGN00226
+	SIGN00227
+	SIGN00228
+	16-36V
+
+# Deleted Net
+	SIGN001100
+	SIGN0031
+	SIGN001101
+	SIGN00191
+	V_IN
+	SIGN0032
+	SIGN001102
+	SIGN00192
+	SIGN001103
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar  5 12:53:12 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	FIX1 (FIX-M3-3m2HOLE)
+	FIX2 (FIX-M3-3m2HOLE)
+	FIX3 (FIX-M3-3m2HOLE)
+	FIX4 (FIX-M3-3m2HOLE)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar  5 12:56:18 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Deleted Component
+	FIX4 (-24.450000 , 19.800000 ; 0.000 ; A)
+	FIX1 (-46.808010 , -6.967920 ; 0.000 ; A)
+	FIX2 (-38.808010 , -6.967920 ; 0.000 ; A)
+	FIX3 (-30.808010 , -6.967920 ; 0.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar  5 13:36:59 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	D10 (P-DD08-0028)
+
+# Added Net
+	SIGN0035
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar  9 14:16:02 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	C4 (P-CP22-10N0 -> P-CP14-0172)
+	IC4 (P-ML04-0003 -> P-ML01-1073)
+	C1 (P-CP22-0003 -> P-CP14-0130)
+	C5 (P-CP22-10N0 -> P-CP14-0172)
+	R1 (P-RF35-07K5 -> P-RF35-06K8)
+	IC5 (P-ML04-0003 -> P-ML01-1073)
+	IC2 (P-ML04-0003 -> P-ML01-1073)
+	R6 (P-RF35-04K7 -> P-RF35-0007)
+	R2 (P-RF35-04K7 -> P-RF35-0007)
+	C2 (P-CP22-0003 -> P-CP14-0130)
+	IC6 (P-ML04-0003 -> P-ML01-1073)
+	C3 (P-CP22-0003 -> P-CP14-0130)
+	C7 (P-CP22-10N0 -> P-CP14-0172)
+	IC7 (P-ML04-0003 -> P-ML01-1073)
+	IC3 (P-ML04-0003 -> P-ML01-1073)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar  9 14:22:06 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Net
+	SIGN001105
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar  9 14:52:16 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 10:18:23 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP4 (P-CD12-2136)
+	TP5 (P-CD12-2136)
+	R36 (P-RF41-0431)
+	R37 (P-RF41-0431)
+	IC8 (P-ML01-1073)
+	D9 (P-VT01-0017)
+
+# Deleted Component
+	IC7 (100.957360 , 112.990000 ; 0.000 ; A)
+
+# Ref-Des-changed Component
+	TP4 -> TP6
+	R40 -> R42
+	IC8 -> IC7
+	C48 -> C51
+	C44 -> C47
+	C30 -> C32
+	R38 -> R40
+	C34 -> C38
+	C50 -> C53
+	C38 -> C35
+	C40 -> C37
+	TP8 -> TP10
+	D9 -> D11
+	TP5 -> TP7
+	R41 -> R43
+	C49 -> C52
+	R39 -> R41
+	C29 -> C31
+	C45 -> C48
+	C35 -> C39
+	C31 -> C29
+	C51 -> C45
+	C39 -> C36
+	C36 -> C40
+	C46 -> C49
+	C32 -> C33
+	R36 -> R38
+	R42 -> R44
+	TP6 -> TP8
+	C52 -> C46
+	R37 -> R39
+	C37 -> C34
+	TP7 -> TP9
+	C53 -> C50
+	C33 -> C30
+	C47 -> C44
+
+# Added Net
+	DEBUG_1
+	DEBUG_2
+	SIGN00229
+	SIGN00230
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 10:38:47 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	SW1 (P-SW02-0039)
+
+# Added Net
+	SIGN0036
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 10:41:11 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 10:44:11 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 10:46:12 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	SW1 (P-SW02-0039 -> P-SW02-0046)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 10:48:59 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	SW1 (P-SW02-0046 -> P-SW02-0060)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 10:51:29 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	SW1 (P-SW02-0060 -> P-SW02-0062)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 11:01:57 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	SW1 (P-SW02-0062 -> P-NM07-0208)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 11:03:16 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	SW1 (P-NM07-0208 -> P-NM07-0185)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 11:17:13 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Unplaced Component
+	SW1 (-33.150000 , 89.225000 ; 0.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 11:30:41 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Unplaced Component
+	SW1 (95.025000 , 58.075000 ; 90.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 11:33:58 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Unplaced Component
+	SW1 (-53.975000 , 73.550000 ; 0.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 11:36:03 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 14:38:29 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	FIX1 (FIX-M3)
+	FIX2 (FIX-M3)
+	FIX3 (FIX-M3)
+	FIX4 (FIX-M3)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 15:20:29 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 15:38:38 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 10 16:15:43 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Deleted Net
+	SIGN00212
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Mar 11 13:17:36 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	D12 (P-DD08-0040)
+	D13 (P-DD08-0040)
+
+# Deleted Component
+	D1 (57.700000 , 35.100000 ; 90.000 ; A)
+	D2 (6.125000 , 142.760000 ; 90.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Mar 11 15:42:12 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Mar 11 16:04:44 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Deleted Net
+	DIGI_5W
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Mar 11 16:07:11 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Mar 11 16:15:51 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 12 08:22:48 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	SK10 (P-CN47-0122)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 12 08:37:24 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 12 10:32:12 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 12 11:13:08 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 12 13:58:58 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 12 14:01:12 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Ref-Des-changed Component
+	RV2 -> RV6
+	RV6 -> RV2
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 12 14:24:11 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 12 15:12:41 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 16 08:40:52 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 16 09:56:17 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 16 10:02:00 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 16 10:09:04 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 16 14:09:04 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 16 16:38:40 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	MIS3 (WIRE-TERM_1m0)
+	MIS4 (WIRE-TERM_1m0)
+	R45 (P-RF35-010K)
+	R46 (P-RF35-000R)
+	R47 (P-RF35-000R)
+	R48 (P-RF35-000R)
+	C67 (P-CP22-10N0)
+
+# Deleted Component
+	R34 (-18.700000 , 147.700000 ; 0.000 ; A)
+	C14 (58.200000 , 43.800000 ; 0.000 ; A)
+	C65 (56.900000 , 15.400000 ; 180.000 ; A)
+	R35 (75.800000 , 16.800000 ; 180.000 ; A)
+	R31 (-21.700000 , 156.900000 ; 0.000 ; A)
+	IC9 (63.500000 , 12.600000 ; 0.000 ; A)
+	C15 (40.400000 , 43.800000 ; 0.000 ; A)
+	C16 (34.100000 , 43.800000 ; 0.000 ; A)
+	R33 (75.800000 , 15.100000 ; 0.000 ; A)
+	C13 (66.600000 , 43.800000 ; 0.000 ; A)
+
+# Added Net
+	SIGN001110
+	SIGN00231
+	SIGN00232
+	SIGN001107
+	SIGN001108
+	SIGN001109
+
+# Deleted Net
+	SIGN00224
+	SIGN00225
+	SIGN00226
+	SIGN00223
+	SIGN00217
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 19 10:00:29 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Net
+	SIN_CAP_SEL
+	TRI_CAP_SEL
+
+# Deleted Net
+	CAP_SEL
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 19 10:06:32 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 19 10:07:30 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 19 10:16:46 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 19 14:40:19 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	D14 (P-DD08-0040)
+	MIS5 (WIRE-TERM_1m0)
+	MIS6 (WIRE-TERM_1m0)
+	R49 (P-RF35-120R)
+	R50 (P-RF35-120R)
+
+# Deleted Component
+	MIS1 (30.750000 , 143.088660 ; 0.000 ; A)
+	R36 (-4.400000 , 92.350000 ; 0.000 ; A)
+	MIS2 (28.050000 , 142.360000 ; 0.000 ; A)
+	R37 (-1.700000 , 92.350000 ; 0.000 ; A)
+
+# Added Net
+	SIGN0037
+	SIGN00233
+	SIGN00234
+
+# Deleted Net
+	SIGN00230
+	SIGN00229
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 19 16:28:45 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	PL1 (P-CN02-2103)
+
+# Added Net
+	RST
+	RESET
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 23 08:48:05 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP6 (P-CD12-2136)
+	TP7 (P-CD12-2136)
+	TP8 (P-CD12-2136)
+	IC5 (P-ML01-1073)
+	IC7 (P-ML01-1073)
+
+# Deleted Component
+	IC6 (-37.798560 , 185.500000 ; 0.000 ; A)
+	IC8 (-2.300000 , -63.300000 ; 0.000 ; A)
+
+# Ref-Des-changed Component
+	R50 -> R39
+	D14 -> D11
+	R48 -> R20
+	MIS4 -> MIS2
+	TP4 -> TP5
+	C44 -> C41
+	C30 -> C27
+	C50 -> C47
+	C34 -> C31
+	TP8 -> TP13
+	R38 -> R32
+	C40 -> C37
+	C48 -> C45
+	TP10 -> TP12
+	C38 -> C35
+	R40 -> R36
+	C64 -> C61
+	C60 -> C57
+	C58 -> C55
+	D8 -> D7
+	R30 -> R40
+	R24 -> R26
+	R28 -> R30
+	R20 -> R21
+	IC10 -> IC9
+	D4 -> D2
+	C28 -> C25
+	C24 -> C21
+	C18 -> C14
+	C20 -> C16
+	C54 -> C51
+	R49 -> R38
+	MIS5 -> MIS3
+	R45 -> R37
+	D9 -> D5
+	TP5 -> TP4
+	TP9 -> TP11
+	R39 -> R33
+	C49 -> C46
+	C45 -> C42
+	C29 -> C26
+	C39 -> C36
+	C31 -> C28
+	R41 -> R34
+	D11 -> D12
+	C35 -> C32
+	C51 -> C48
+	C61 -> C58
+	C59 -> C56
+	C55 -> C52
+	C25 -> C22
+	R29 -> R31
+	R21 -> R23
+	R25 -> R27
+	IC11 -> IC10
+	D5 -> D3
+	C41 -> C38
+	IC5 -> IC6
+	C21 -> C17
+	C19 -> C15
+	MIS6 -> MIS4
+	R46 -> R24
+	D12 -> D9
+	C46 -> C43
+	C36 -> C33
+	C52 -> C49
+	C32 -> C29
+	R42 -> R35
+	TP6 -> TP9
+	C66 -> C62
+	C62 -> C59
+	C56 -> C53
+	R32 -> R41
+	C26 -> C23
+	IC12 -> IC11
+	C22 -> C18
+	R26 -> R28
+	R22 -> R25
+	C42 -> C39
+	D6 -> D4
+	C67 -> C20
+	R47 -> R22
+	MIS3 -> MIS1
+	D13 -> D8
+	C33 -> C30
+	TP7 -> TP10
+	C37 -> C34
+	C53 -> C50
+	C47 -> C44
+	IC7 -> IC8
+	C63 -> C60
+	C57 -> C54
+	D7 -> D6
+	C23 -> C19
+	R27 -> R42
+	R23 -> R29
+	D3 -> D1
+	C27 -> C24
+	C17 -> C13
+	C43 -> C40
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 23 13:49:06 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	IC12 (P-ML10-0011)
+	IC13 (P-ML10-0011)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 23 13:50:24 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Deleted Component
+	IC12 (-17.850000 , 92.555000 ; 0.000 ; A)
+	IC13 (-7.350000 , 92.555000 ; 0.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 23 15:48:58 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 23 16:19:04 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 23 16:23:11 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Mar 23 16:42:52 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	D13 (P-DD08-0040)
+
+# Added Net
+	SIGN001111
+	SIGN001112
+
+# Deleted Net
+	SIGN00228
+	SIGN00220
+	SIGN00232
+	SIGN00216
+	SIGN00227
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 24 09:10:34 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 24 15:48:43 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 24 15:49:34 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 24 16:10:13 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 24 16:30:12 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Net
+	SIGN00235
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Tue Mar 24 16:48:42 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Mar 25 15:28:17 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Mar 25 16:00:39 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	HL1 (HOLE-3m0-5m0PAD)
+	HL2 (HOLE-3m1-4m8PAD)
+	HL3 (HOLE-3m0-3m8PAD)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Mar 25 16:04:26 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Deleted Component
+	HL1 (3.075000 , 89.975000 ; 0.000 ; A)
+	HL2 (8.150000 , 89.900000 ; 0.000 ; A)
+	HL3 (10.600000 , 85.800000 ; 0.000 ; A)
+
+# Part-changed Component
+	FIX4 (FIX-M3 -> HOLE-3m0-3m8PAD)
+	FIX1 (FIX-M3 -> HOLE-3m0-3m8PAD)
+	FIX2 (FIX-M3 -> HOLE-3m0-3m8PAD)
+	FIX3 (FIX-M3 -> HOLE-3m0-3m8PAD)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 26 08:50:23 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 26 10:25:23 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	D14 (P-DD08-0028)
+	MIS5 (WIRE-TERM_1m0)
+	R45 (P-RF35-010K)
+
+# Deleted Component
+	D11 (122.500000 , 58.600000 ; 90.000 ; A)
+	PL1 (39.700000 , 58.600000 ; 180.000 ; A)
+
+# Part-changed Component
+	R37 (P-RF35-010K -> P-RF35-01K0)
+
+# Added Net
+	SIGN001113
+	DG_RST
+	SIGN001114
+
+# Deleted Net
+	RESET
+	RST
+	SIGN001110
+	SIGN001107
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 26 10:33:29 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 26 10:47:10 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	C63 (P-CP22-0003)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 26 11:37:50 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Net
+	DBUG_1
+	DBUG_2
+
+# Deleted Net
+	DEBUG_1
+	DEBUG_2
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Mar 26 16:35:54 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Ref-Des-changed Component
+	TP8 -> TP6
+	TP4 -> TP8
+	MIS5 -> MIS2
+	TP11 -> TP12
+	TP5 -> TP7
+	TP6 -> TP4
+	TP12 -> TP11
+	MIS2 -> MIS5
+	TP7 -> TP5
+
+# Deleted Net
+	SIGN00235
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Apr  1 08:56:48 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP9 (P-CD12-2136)
+
+# Part-changed Component
+	SW1 (P-NM10-0080 -> P-NM19-0091)
+
+# Ref-Des-changed Component
+	TP10 -> TP11
+	TP11 -> TP12
+	TP9 -> TP10
+	TP12 -> TP13
+	TP13 -> TP14
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Apr  1 10:17:10 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Apr  1 13:36:56 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP9 (P-CD12-2136)
+	TP10 (P-CD12-2136)
+	R46 (P-RF35-010K)
+	R47 (P-RF35-010K)
+
+# Ref-Des-changed Component
+	TP14 -> TP16
+	TP10 -> TP12
+	TP9 -> TP11
+	TP11 -> TP13
+	TP12 -> TP14
+	TP13 -> TP15
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Apr  1 14:56:25 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP10 (P-CD12-2136)
+
+# Ref-Des-changed Component
+	TP10 -> TP5
+	TP14 -> TP15
+	TP4 -> TP7
+	TP8 -> TP12
+	TP9 -> TP4
+	TP15 -> TP16
+	TP11 -> TP6
+	TP5 -> TP8
+	TP12 -> TP13
+	TP16 -> TP17
+	TP6 -> TP9
+	TP13 -> TP14
+	TP7 -> TP11
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Apr  1 15:16:57 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Ref-Des-changed Component
+	TP4 -> TP5
+	TP5 -> TP4
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Apr  8 12:56:08 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	C64 (P-NM16-0200)
+
+# Deleted Component
+	C30 (132.900000 , 34.900000 ; 180.000 ; A)
+	C28 (133.000000 , 46.900000 ; 0.000 ; A)
+	C29 (133.000000 , 61.224960 ; 0.000 ; A)
+
+# Part-changed Component
+	C35 (P-CP14-0296 -> P-CP22-0003)
+	C36 (P-CP14-0296 -> P-CP22-0003)
+	C37 (P-CP14-0296 -> P-CP22-0003)
+
+# Added Net
+	16-24V
+
+# Deleted Net
+	16-36V
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Apr  8 15:51:18 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	SW1 (P-NM19-0091 -> P-NM12-0054)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Wed Apr  8 16:02:33 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Unplaced Component
+	SW1 (117.900000 , 96.900000 ; 270.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Apr  9 08:22:44 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	No net list changes are made on the schematic.
+
+#==================================================
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Apr  9 08:24:33 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	D15 (P-DD01-0314)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Apr  9 08:30:58 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	TP18 (P-CD12-2136)
+
+# Deleted Component
+	D15 (132.800000 , 82.100000 ; 0.000 ; A)
+
+# Part-changed Component
+	D10 (P-DD08-0028 -> P-DD01-0314)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Apr  9 09:59:08 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Unplaced Component
+	SW1 (120.400000 , 70.000000 ; 0.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Apr  9 10:16:18 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Added Component
+	SW2 (P-NM22-0017)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Apr  9 10:22:15 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Deleted Component
+	SW2 (145.300000 , 75.200000 ; 180.000 ; A)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Thu Apr  9 16:08:11 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+
+#**************************************************
+# Date     : Mon Apr 13 14:45:42 2026
+# User     : bb155134
+# Tool     : Forward Annotation
+#++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Part-changed Component
+	C12 (P-CP22-0006 -> P-CP14-0167)
+
+# Information
+	Net list changes have been made on the schematic.
+
+# Information
+	Land status in padstack was normalized.
+
+# Information
+	The design rule list was loaded and the design data was updated.
+
+#==================================================
+

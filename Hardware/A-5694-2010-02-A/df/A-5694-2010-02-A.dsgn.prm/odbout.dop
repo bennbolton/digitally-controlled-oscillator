@@ -1,0 +1,220 @@
+#
+# Parameter File for DFodbout.exe
+# Save Date : 2026/03/26 13:09:07
+# Database File : C:\Projects\5694\A-5694-2010-02-A\df\A-5694-2010-02-A.dsgn
+# encoding:UTF-8
+#
+
+#
+# Comment
+#
+Comment : "DFodbout.exe\ V2025.200\ 25/06/19"
+
+#
+# Error File Name.
+#   ('-' alone as that means stderr.)
+#
+Error : "-"
+
+#
+# Warning File Name.
+#   ('-' alone as that means stderr.)
+#
+Warning : "-"
+
+#
+# Output Directory
+#  ('-' alone as that means Directory where Database is.)
+#
+OutputDir : "C:\\projects\\5694\\A-5694-2010-02-A\\manufacturingDf\\gerbers"
+
+#
+# ODB Job Name
+#  ('-' alone as that means Database Basename.)
+#
+JobName : "-"
+
+#
+# ODB++ Format Version (7.0 or 8.1)
+#
+Version : 7.0
+
+#
+# Merge same attribute layers (Symbol mark, Solder resist and Metal mask)
+#
+MergeSameAttrLayers : OFF
+
+#
+# Output Layer name
+#
+Layer 1 {
+    "RulesByArea:rulesbyarea:ON"
+    "AssySMD-A:assysmd-a:ON"
+    "AssyPTH-A:assypth-a:ON"
+    "MetalMask-A:metalmask-a:ON"
+    "PeelResist-A:peelresist-a:ON"
+    "Resist-A:resist-a:ON"
+    "WIR1:wir1:ON"
+    "WIR2:wir2:ON"
+    "WIR3:wir3:ON"
+    "WIR4:wir4:ON"
+    "Resist-B:resist-b:ON"
+    "PeelResist-B:peelresist-b:ON"
+    "MetalMask-B:metalmask-b:ON"
+    "AssyPTH-B:assypth-b:ON"
+    "AssySMD-B:assysmd-b:ON"
+    "PhotoTool-Title:phototool-title:ON"
+    "Profile_DePanelling_Cutlines:profile_depanelling_cutlines:ON"
+    "Profile_Outline:profile_outline:ON"
+    "Profile_Outline_Vscore:profile_outline_vscore:ON"
+    "Profile_Outline_Rout:profile_outline_rout:ON"
+    "No_Mark_Layer:no_mark_layer:ON"
+    "Layout_Guide_Layer:layout_guide_layer:ON"
+    "READ-ME_NOTES:read-me_notes:ON"
+    "BorderAssyDrg:borderassydrg:ON"
+    "Assydrawing-1:assydrawing-1:ON"
+    "Assydrawing-2:assydrawing-2:ON"
+    "Assydrawing-3:assydrawing-3:ON"
+    "Assydrawing-4:assydrawing-4:ON"
+    "Assydrawing-5:assydrawing-5:ON"
+    "Assydrawing-6:assydrawing-6:ON"
+    "Assydrawing-7:assydrawing-7:ON"
+    "Assydrawing-8:assydrawing-8:ON"
+    "Assydrawing-9:assydrawing-9:ON"
+    "Drilldrawing-1:drilldrawing-1:ON"
+    "BorderDrill1:borderdrill1:ON"
+    "Drilldrawing-2:drilldrawing-2:ON"
+    "BorderDrill2:borderdrill2:ON"
+    "Drilldrawing-3:drilldrawing-3:ON"
+    "BorderDrill3:borderdrill3:ON"
+    "Template_Layer:template_layer:ON"
+    "Template_Layer2:template_layer2:ON"
+    "Template_Layer3:template_layer3:OFF"
+    "Template_Layer4:template_layer4:OFF"
+    "Inhibit\(plc\)-A:inhibit_plc_-a:ON"
+    "Inhibit\(wir\)-A:inhibit_wir_-a:ON"
+    "Inhibit\(plc\)-B:inhibit_plc_-b:ON"
+    "Inhibit\(wir\)-B:inhibit_wir_-b:ON"
+    "Inhibit\(via\)-C:inhibit_via_-c:ON"
+    "Inhibit\(wir\)-C:inhibit_wir_-c:ON"
+    "Inhibit\(plc\)-C:inhibit_plc_-c:ON"
+    "Inhibit\(wir\)-inner:inhibit_wir_-inner:OFF"
+    "SubConductive-1:subconductive-1:ON"
+    "SubConductive-2:subconductive-2:ON"
+    "SubConductive-3:subconductive-3:OFF"
+    "SubConductive-4:subconductive-4:OFF"
+    "Symbol-A:symbol-a:ON"
+    "VisualPlace-A:visualplace-a:ON"
+    "CompArea-A:comparea-a:ON"
+    "CompHeight-A:compheight-a:ON"
+    "HeightLimit-A:heightlimit-a:ON"
+    "Symbol-B:symbol-b:ON"
+    "VisualPlace-B:visualplace-b:ON"
+    "CompArea-B:comparea-b:ON"
+    "CompHeight-B:compheight-b:ON"
+    "HeightLimit-B:heightlimit-b:ON"
+    "Testdrawing-1:testdrawing-1:ON"
+    "Testdrawing-2:testdrawing-2:ON"
+    "hs_trunk_layer:hs_trunk_layer:ON"
+    "Inhibit\(plc\)-All:inhibit_plc_-all:ON"
+    "Inhibit\(via\)-All:inhibit_via_-all:ON"
+    "Inhibit\(wir\)-All:inhibit_wir_-all:ON"
+    "DXF_Layer:dxf_layer:ON"
+    "Other_Outline_1:other_outline_1:ON"
+    "Other_Outline_2:other_outline_2:ON"
+    "Other_Outline_3:other_outline_3:ON"
+    "Other_Outline_4:other_outline_4:ON"
+}
+
+#
+# Output Drill Layer name
+#
+DrillLayer 1 {
+    "WIR1-WIR4:wir1-wir4:OFF"
+}
+
+#
+# Output Layer Type
+# outer_conductor: signal layer (external layer) output settings for ODB++
+# inner_conductor: signal layer (internal layer) output settings for ODB++
+# symbol_mark: silk_screen layer output settings for ODB++
+# solder_resist: solder_mask layer output settings for ODB++
+# metal_mask: solder_paste layer output settings for ODB++
+# hole: drill layer output settings for ODB++
+# others: document layer output settings for ODB++
+# (If '-' is specified, Layer settings are prioritized.)
+#
+LayerType 1 {
+    "outer_conductor:-"
+    "inner_conductor:-"
+    "symbol_mark:-"
+    "solder_resist:-"
+    "metal_mask:-"
+    "hole:-"
+    "others:-"
+}
+#
+# Output layers when LayerType-others=ON is set
+#
+OthersLayerFilter : "*"
+
+#
+# Do not output empty layers when LayerType-others=ON or "-" is set
+#
+DoNotOutputEmptyOtherLayers : OFF
+
+
+#
+# Fileter Information
+# component_logical_net: Component and net output settings for ODB++
+# physicial_net: cadnet information output settings for ODB++
+# rename_net: Net name change settings
+#
+FilterInformation 1 {
+    "component_physicial_net:ON"
+    "logical_net:ON"
+    "rename_net:OFF"
+}
+
+#
+# Specify component outline layers to prioritize
+#
+ComponentArea_A : ""
+ComponentArea_B : ""
+
+#
+# A header when changing net names
+#
+RenameNetSignalHeader : "SIGN"
+#
+# Exclusive nets of changing net names
+#
+RenameExclueNetname : ""
+
+#
+# Outoput user property
+#
+OutputProperty 1 {
+    "comp_part:OFF"
+}
+
+#
+# Outoput comp part user property filter
+#
+CompPartPropFilter:"*"
+
+#
+# OverWrite
+#
+OverWrite : OFF
+
+#
+# Break Via Hole
+#
+BreakViaHole : OFF
+
+#
+# Break Mesh
+#
+BreakMesh : OFF
+

@@ -1,0 +1,60 @@
+< Parts List (CSV) >
+
+  Drawing Number : C-XXXX-XXXX-XX-X
+  circuitName : A-5694-2010-02-A.cir
+  author      : BB155134
+  date        : Fri May  1 12:45:55 2026
+
+**************************** Parts List **********************************
+
+Part Number            ,Description                                                 ,QTY  ,Reference List
+P-CD12-2136            ,Terminal Test Pin Assy 1.32mm Dia Hole                      ,18   ,TP1;TP2;TP3;TP4;TP5;TP6;TP7;TP8;TP9;TP10;TP11;TP12;TP13;TP14;TP15;TP16;TP17;TP18
+P-CN13-0036            ,CON JACK SKT 4W 3.5mm RA PC                                 ,1    ,SK4
+P-CN15-0015            ,Con BNC Skt 50ohm RA                                        ,3    ,SK1;SK2;SK3
+P-CN28-010W            ,Con Rect 10 Skt 2 Row TH                                    ,4    ,SK5;SK6;SK7;SK8
+P-CN47-0122            ,Terminal Block 2W 2.54mm Skt RA PCB                         ,1    ,SK10
+P-CP14-0109            ,Cap X5R 22uF 20% 25V                                        ,6    ,C44;C45;C46;C48;C49;C50
+P-CP14-0130            ,Cap C0G 100nF 5% 50V                                        ,3    ,C1;C2;C3
+P-CP14-0167            ,CAP X7R 1uF 10% 25V                                         ,6    ,C12;C13;C14;C15;C16;C17
+P-CP14-0172            ,CAP C0G 10nF 5% 50V                                         ,3    ,C4;C5;C7
+P-CP14-0174            ,CAP X5R 100uF 20% 6.3V                                      ,1    ,C8
+P-CP22-0003            ,Cap X7R 100nF 10% 50V                                       ,36   ,C10;C11;C21;C22;C23;C24;C25;C26;C27;C31;C32;C33;C34;C35;C36;C37;C38;C39;C40;C41;C42;C43;C47;C51;C52;C53;C54;
+                                                                                           C55;C56;C57;C58;C59;C60;C61;C62;C63
+P-CP22-10N0            ,Cap X7R 10nF 10% 50V                                        ,3    ,C18;C19;C20
+P-CP22-22P1            ,Cap C0G 22pF 5% 50V                                         ,2    ,C6;C9
+P-DD01-0314            ,Diode 1A 600V                                               ,1    ,D10
+P-DD08-0028            ,Diode 5A 40V Schottky                                       ,1    ,D14
+P-DD08-0040            ,DIODE BARRIER 0.2A 30V SCHOTTKY                             ,6    ,D1;D6;D7;D8;D9;D13
+P-EA03-0083            ,IC DC/DC Conv 6-28V I/P 3.3V O/P 0.5A                       ,3    ,IC9;IC10;IC11
+P-ML01-1073            ,IC Amp Op 082                                               ,6    ,IC2;IC3;IC4;IC5;IC6;IC7
+P-ML10-0011            ,IC Switch Analgue Quad SPST                                 ,1    ,IC1
+P-ML10-0059            ,IC Switch Multiplexer 8 Ch 5-34V                            ,1    ,IC8
+P-ML19-0035            ,IC Rotary Encoder Incremental 5V                            ,1    ,TR2
+P-NM16-0200            ,CAP ALU 47uF 63V 20%                                        ,1    ,C64
+P-NM21-0043            ,Res Trim 100K 20% 20V 0.05W                                 ,1    ,RV1
+P-NM22-0021            ,Con Skt DC Power Con 5A 2.5 mm                              ,1    ,SK9
+P-RF35-0007            ,Res 3K9 1% 50V 100ppm 0.1W                                  ,2    ,R2;R6
+P-RF35-000R            ,Res 0R00 1A 50V 0.1W                                        ,4    ,R20;R22;R23;R24
+P-RF35-0019            ,Res 430R 1% 50V 100ppm 0.1W                                 ,5    ,R15;R16;R17;R43;R44
+P-RF35-010K            ,Res 10K0 1% 50V 100ppm 0.1W                                 ,11   ,R3;R9;R14;R32;R33;R34;R35;R36;R45;R46;R47
+P-RF35-01K0            ,Res 1K 1% 50V 100ppm 0.1W                                   ,1    ,R37
+P-RF35-01M0            ,Res 1M00 1% 50V 100ppm 0.1W                                 ,1    ,R10
+P-RF35-02K2            ,Res 2K2 1% 50V 100ppm 0.1W                                  ,6    ,R25;R26;R27;R28;R29;R42
+P-RF35-047K            ,Res 47K0 1% 50V 100ppm 0.1W                                 ,2    ,R40;R41
+P-RF35-04K7            ,Res 4K7 1% 50V 100ppm 0.1W                                  ,1    ,R4
+P-RF35-06K8            ,Res 6K80 1% 50V 100ppm 0.1W                                 ,1    ,R1
+P-RF35-100K            ,Res 100K 1% 50V 100ppm 0.1W                                 ,1    ,R7
+P-RF35-120R            ,Res 120R 1% 50V 100ppm 0.1W                                 ,2    ,R38;R39
+P-RF35-150K            ,Res 150K 1% 50V 100ppm 0.1W                                 ,1    ,R19
+P-RF35-20K0            ,Res 20K0 1% 50V 100ppm 0.1W                                 ,1    ,R12
+P-RF35-22K0            ,Res 22K0 1% 50V 100ppm 0.1W                                 ,4    ,R18;R21;R30;R31
+P-RF35-36K0            ,Res 36K0 1% 50V 100ppm 0.1W                                 ,2    ,R5;R13
+P-RF35-39K0            ,Res 39K0 1% 50V 100ppm 0.1W                                 ,1    ,R8
+P-RF35-43K0            ,Res 43K0 1% 50V 100ppm 0.1W                                 ,1    ,R11
+P-RV05-0008            ,Digital Pot 1024 Psn 20K 7%                                 ,1    ,RV2
+P-RV05-0014            ,Digital Pot 1024 Psn 100K 1%                                ,4    ,RV3;RV4;RV5;RV6
+P-SW02-0054            ,Switch Slide SPDT R/A 120V 3A                               ,1    ,SW1
+P-TR03-1052            ,Trans NJ FET 25V 80mA SST108                                ,1    ,TR1
+P-VT01-0017            ,LED RD/GN 16mcd@20mA 120 Deg Str                            ,5    ,D2;D3;D4;D5;D12
+--------------------------------------------------------------------------------
+                                     Parts Total  169

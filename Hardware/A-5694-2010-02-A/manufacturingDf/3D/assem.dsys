@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<df:dfshared
+	xmlns:df = "http://www.zuken.co.jp/designforce/index.html"
+	xmlns = "http://www.zuken.co.jp/">
+	<df:DsysSystem
+		df:FilePath="C:\projects\5694\A-5694-2010-02-A\manufacturingDf\3D\assem.dsys">
+		<df:DsysEleSystem
+			df:Name="ESystem">
+			<df:DsysEleBoard
+				df:Name="A-5694-2010-02-A"
+				df:Path="C:\projects\5694\A-5694-2010-02-A\df\A-5694-2010-02-A.dsgn"
+				df:Type="1">
+			</df:DsysEleBoard>
+			<df:DsysMapVisibility>
+				<df:DsysVisibility
+					df:Name="A-5694-2010-02-A"
+					df:Visible="1">
+				</df:DsysVisibility>
+			</df:DsysMapVisibility>
+			<df:DsysMapTransform
+				df:ID="Default">
+				<df:DsysTransform
+					df:Name="A-5694-2010-02-A"
+					df:Matrix="1.00000000:0.00000000:0.00000000:0.00000000:1.00000000:0.00000000:0.00000000:0.00000000:1.00000000"
+					df:Vector="-25.00000000:-1.00000000:-19.00000000">
+				</df:DsysTransform>
+			</df:DsysMapTransform>
+			<df:DsysMapTransform
+				df:ID="Expand">
+				<df:DsysTransform
+					df:Name="A-5694-2010-02-A"
+					df:Matrix="1.00000000:0.00000000:0.00000000:0.00000000:1.00000000:0.00000000:0.00000000:0.00000000:1.00000000"
+					df:Vector="0.00000000:0.00000000:0.00000000">
+				</df:DsysTransform>
+			</df:DsysMapTransform>
+		</df:DsysEleSystem>
+		<df:DsysMecSystem
+			df:Name="MSystem">
+			<df:MecStructure
+				df:Name="Part 1"
+				df:NodeName="Part 1"
+				df:OriginalFilePath="C:\Users\bb155134\Downloads\Part Studio 1.step"
+				df:OriginalNodePath=":Part 1"
+				df:Owner="2"
+				df:ItemType="1"
+				df:PCBName=""
+				df:PCBType="1"
+				df:Color="-1"
+				df:Alpha="-1"
+				df:Conductivity="0"
+				df:Material=""
+				df:Comment=""
+				df:IsDeleted="0">
+				<df:MecPart
+					df:Name="Part 1"
+					df:NodeName="Part 1"
+					df:OriginalFilePath=""
+					df:OriginalNodePath=":Part 1:Part 1"
+					df:Owner="2"
+					df:ItemType="1"
+					df:PCBName=""
+					df:PCBType="1"
+					df:Color="-1"
+					df:Alpha="-1"
+					df:Conductivity="0"
+					df:Material=""
+					df:Comment=""
+					df:IsDeleted="0">
+					<df:MecBody
+						df:Name="Part 1"
+						df:NodeName="Part 1"
+						df:OriginalFilePath=""
+						df:OriginalNodePath=":Part 1:Part 1:Part 1"
+						df:Owner="2"
+						df:ItemType="1"
+						df:PCBName=""
+						df:PCBType="1"
+						df:Color="-1"
+						df:Alpha="-1"
+						df:Conductivity="0"
+						df:Material=""
+						df:Comment=""
+						df:IsDeleted="0">
+					</df:MecBody>
+					<df:DsysMapVisibility>
+						<df:DsysVisibility
+							df:Name="Part 1"
+							df:Visible="1">
+						</df:DsysVisibility>
+					</df:DsysMapVisibility>
+					<df:DsysMapTransform
+						df:ID="Default">
+					</df:DsysMapTransform>
+				</df:MecPart>
+				<df:DsysMapVisibility>
+				</df:DsysMapVisibility>
+				<df:DsysMapTransform
+					df:ID="Default">
+				</df:DsysMapTransform>
+			</df:MecStructure>
+			<df:DsysMapVisibility>
+			</df:DsysMapVisibility>
+			<df:DsysMapTransform
+				df:ID="Default">
+				<df:DsysTransform
+					df:Name="Part 1"
+					df:Matrix="1000.00000000:0.00000000:0.00000000:0.00000000:1000.00000000:0.00000000:0.00000000:0.00000000:1000.00000000"
+					df:Vector="0.01000000:0.00200000:0.00000000">
+				</df:DsysTransform>
+			</df:DsysMapTransform>
+		</df:DsysMecSystem>
+	</df:DsysSystem>
+</df:dfshared>

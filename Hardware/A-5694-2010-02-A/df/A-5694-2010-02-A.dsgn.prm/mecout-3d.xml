@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EMD>
+
+  <mecout>
+    <component>
+      <param name="ProfileLayerName" value=""/>
+      <param name="LineToSurface" value="false"/>
+      <param name="OffsetA" value="0.00000"/>
+      <param name="Unplaced" value="false"/>
+      <param name="AccNonbodyExport" value="false"/>
+      <param name="InstName" value="Reference"/>
+      <param name="InstNameForm" value="&lt;FIG>_&lt;REF>"/>
+      <param name="AccWireToFace" value="false"/>
+      <param name="Side" value="Both"/>
+      <param name="ProfileLayer" value="CompAreaOnMountSide"/>
+      <param name="MinimumHeight" value="0.00000"/>
+      <param name="AccurateShape" value="false"/>
+      <param name="Export" value="true"/>
+      <param name="CompositeArea" value="false"/>
+      <param name="ModelName" value="Footprint"/>
+      <param name="OffsetB" value="0.00000"/>
+      <param name="Variation" value=""/>
+    </component>
+    <hole>
+      <param name="DeformIndex" value="0"/>
+      <param name="NoPlating" value="false"/>
+      <param name="Modeling" value="Hole"/>
+      <param name="Export" value="true"/>
+      <param name="Deformation" value="false"/>
+      <param name="ViaStructure" value="Interstitial"/>
+      <param name="MinimumSize" value="0.00000"/>
+      <param name="Type" value="All"/>
+      <param name="BeamHole" value="false"/>
+    </hole>
+    <analysis_plating>
+      <param name="TargetHole" value="All"/>
+      <param name="HoleDiameterIsInnerPlating" value="false"/>
+      <param name="Export" value="false"/>
+      <platingspec/>
+    </analysis_plating>
+    <analysis>
+      <param name="ThresMinuteSegment" value="0.00000"/>
+      <param name="OptMinuteArc" value="false"/>
+      <param name="ThresMinuteArc" value="0.00000"/>
+      <param name="AvoidConflictWithCond" value="false"/>
+      <param name="OptMinuteSegment" value="false"/>
+      <param name="SubtractConductor" value="false"/>
+      <param name="OptLinearIntersect" value="false"/>
+      <param name="ConcatNetName" value="false"/>
+      <param name="ThresLinearIntersect" value="0.00000"/>
+      <param name="ThresLinearArc" value="0.00000"/>
+      <param name="CondMultiBody" value="false"/>
+      <param name="OptLinearArc" value="false"/>
+    </analysis>
+    <board>
+      <param name="PriorBoardThickness" value="false"/>
+      <param name="SliceByCondPlane" value="false"/>
+      <param name="DeformIndex" value="0"/>
+      <param name="Thickness" value="1.00000"/>
+      <param name="Export" value="true"/>
+      <param name="CutoutLayer" value=""/>
+      <param name="EmbeddedCavity" value="false"/>
+      <param name="Deformation" value="false"/>
+      <param name="UseLineContour" value="false"/>
+      <param name="AlignOuterPlane" value="false"/>
+      <param name="BoardConfig" value="true"/>
+      <param name="Cavity" value="false"/>
+      <param name="UserDefined" value="false"/>
+    </board>
+    <package>
+      <param name="BondWireExport" value="false"/>
+      <param name="PolygonEdges" value="8"/>
+      <param name="BumpShape" value="Cylinder"/>
+      <param name="BumpMaterial" value=""/>
+      <param name="Export" value="false"/>
+      <mountspec/>
+    </package>
+    <flexboard>
+      <param name="BendCompShape" value="true"/>
+      <param name="Bending" value="false"/>
+    </flexboard>
+    <outform>
+      <param name="PRCStructure" value="Part"/>
+      <param name="STEPStructure" value="Assembly"/>
+      <param name="ACISVersion" value="26"/>
+      <param name="STEPForm" value="AP214"/>
+      <param name="ParasolidStructure" value="Part"/>
+    </outform>
+    <conductor>
+      <param name="SetAlternate" value="false"/>
+      <param name="SheetPosition" value="Neutral"/>
+      <param name="Export" value="true"/>
+      <param name="Deformation" value="false"/>
+      <param name="MakeHole" value="false"/>
+      <param name="OutputGrid" value="false"/>
+      <param name="NeutralSheet" value="false"/>
+      <param name="Target" value="All"/>
+      <row>
+        <col name="Layer" value="default"/>
+        <col name="ExportLayer" value="false"/>
+        <col name="Thickness" value="0.00000"/>
+        <col name="DeformIndex" value="0"/>
+        <col name="PadDeformIndex" value="0"/>
+        <col name="Alternate" value="false"/>
+        <col name="AlternateLayer" value=""/>
+      </row>
+    </conductor>
+    <component_doublesided>
+      <param name="DoubleSided" value="false"/>
+      <param name="Target" value="All"/>
+      <backside/>
+    </component_doublesided>
+    <deform>
+      <row>
+        <col name="DeformMethod" value="none"/>
+        <col name="Parameter" value=""/>
+        <col name="TessellateSag" value="0.01000"/>
+        <col name="PolygonEdges" value="8"/>
+        <col name="GridSizeX" value="1.00000"/>
+        <col name="GridSizeY" value="1.00000"/>
+        <col name="ResolutionX" value="100"/>
+        <col name="ResolutionY" value="100"/>
+        <col name="TrimSingleCell" value="false"/>
+        <col name="InfillSingleCell" value="false"/>
+        <col name="JointRatio" value="1/2"/>
+        <col name="Judgement" value="center"/>
+        <col name="Occupancy" value="50"/>
+        <col name="NotMergeHole" value="false"/>
+      </row>
+    </deform>
+    <component_target>
+      <param name="OnlyNoneleWithHole" value="false"/>
+      <param name="Nonelectrical" value="true"/>
+      <param name="NoneleMinHeight" value="0.00000"/>
+      <param name="OnlyAccurateShape" value="false"/>
+      <excluded/>
+    </component_target>
+    <otherlayer>
+      <param name="Deformation" value="false"/>
+    </otherlayer>
+    <component_acc>
+      <param name="SpecAccComp" value="false"/>
+      <accspec/>
+    </component_acc>
+  </mecout>
+
+</EMD>

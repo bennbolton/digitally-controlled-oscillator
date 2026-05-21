@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<plot version="4.0">
+
+  <unit type="mm"/>
+
+  <precision value="4"/>
+
+  <basicSettings>
+    <targetFile path="C:\Projects\5694\A-5694-2010-02-A\df\A-5694-2010-02-A.dsgn"/>
+    <outputSettings>
+      <plotLabel name="PDF"/>
+      <output output="on"/>
+      <outputFile path="C:\projects\5694\A-5694-2010-02-A\publish\assem.pdf"/>
+      <outputFolder path=""/>
+      <gatherPage gather="on"/>
+      <pdf>
+        <bookmark output="on">
+          <rootBookmark mode="fullpath" output="on"/>
+          <compBookmark output="on">
+            <categorizeByPrefix categorize="off">
+              <separateByNumber separate="off"/>
+            </categorizeByPrefix>
+          </compBookmark>
+          <pinBookmark output="off">
+            <categorizeByNetType categorize="off">
+              <separateByNumber separate="off"/>
+            </categorizeByNetType>
+          </pinBookmark>
+          <aggregateByCompNet aggregate="off"/>
+        </bookmark>
+        <compAttributePopup output="off"/>
+        <pinAttributePopup output="off"/>
+        <exclusionReference name=""/>
+        <watermark output="off">
+          <text color="#000000" string=""/>
+        </watermark>
+        <pdfLayerList output="off">
+          <layerListOrder order="pdfView"/>
+        </pdfLayerList>
+        <embedFonts embed="off"/>
+        <compressFile compress="on"/>
+      </pdf>
+    </outputSettings>
+    <paperSettings>
+      <paperSize freeSizeX="297.00000" freeSizeY="210.00000" size="A4"/>
+      <orientation type="landscape"/>
+      <margin bottom="0.00000" left="0.00000" right="0.00000" top="0.00000"/>
+    </paperSettings>
+    <coordinateSettings>
+      <clipArea clip="off">
+        <clipAreaStart x="0.00000" y="0.00000"/>
+        <clipAreaEnd x="0.00000" y="0.00000"/>
+      </clipArea>
+      <rotate value="0"/>
+      <scale dims="entire" mode="scale" value="2.10000"/>
+      <layout mode="auto" x="10.00000" y="0.00000"/>
+    </coordinateSettings>
+    <messageSettings>
+      <errorFile output="off" path=""/>
+      <warningFile output="off" path=""/>
+    </messageSettings>
+  </basicSettings>
+
+  <optionalSettings>
+    <penPallet differentColor="on"/>
+    <transparency valid="off"/>
+    <mesh plotMode="punching"/>
+    <lineInPad drawOutlineNowidth="on"/>
+    <language language="sameAsOS"/>
+  </optionalSettings>
+
+  <pageSettings>
+    <page name="Top-SMT+PTH" output="on">
+      <layerAttribute>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="nowidth" name="BOARD" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="LAYOUT" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="RulesByArea" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="nowidth" name="AssySMD-A" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="nowidth" name="AssyPTH-A" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="MetalMask-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="PeelResist-A" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Resist-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="WIR1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="WIR2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Resist-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="PeelResist-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="MetalMask-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="AssyPTH-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="AssySMD-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="PhotoTool-Title" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Profile_DePanelling_Cutlines" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Profile_Outline" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="No_Mark_Layer" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="READ-ME_NOTES" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="nowidth" name="Assydrawing-1" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-4" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-5" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-6" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-7" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-8" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-9" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Drilldrawing-1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Drilldrawing-2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Drilldrawing-3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Template_Layer" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Template_Layer2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(plc)-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(wir)-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(plc)-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(wir)-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(via)-C" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(wir)-C" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(plc)-C" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="SubConductive-1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="SubConductive-2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Symbol-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="VisualPlace-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="CompArea-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="CompHeight-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="HeightLimit-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Symbol-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="VisualPlace-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="CompArea-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="CompHeight-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="HeightLimit-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Testdrawing-1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Testdrawing-2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="BOARD" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="RulesByArea" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="AssySMD-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="AssyPTH-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="MetalMask-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="PeelResist-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Resist-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="WIR1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="WIR2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Resist-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="PeelResist-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="MetalMask-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="AssyPTH-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="AssySMD-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="PhotoTool-Title" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Profile_DePanelling_Cutlines" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Profile_Outline" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="No_Mark_Layer" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="READ-ME_NOTES" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-4" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-5" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-6" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-7" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-8" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Assydrawing-9" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Drilldrawing-1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Drilldrawing-2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Drilldrawing-3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Template_Layer" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Template_Layer2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(plc)-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(wir)-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(plc)-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(wir)-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(via)-C" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(wir)-C" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(plc)-C" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="SubConductive-1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="SubConductive-2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Symbol-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="VisualPlace-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="CompArea-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="CompHeight-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="HeightLimit-A" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Symbol-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="VisualPlace-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="CompArea-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="CompHeight-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="HeightLimit-B" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Testdrawing-1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Testdrawing-2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="WIR3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="WIR4" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Template_Layer3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Template_Layer4" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="SubConductive-3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="SubConductive-4" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="WIR3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="WIR4" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Template_Layer3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Template_Layer4" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="SubConductive-3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="SubConductive-4" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="hs_trunk_layer" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="hs_trunk_layer" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Profile_Outline_Vscore" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Profile_Outline_Rout" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Layout_Guide_Layer" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="nowidth" name="BorderAssyDrg" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="BorderDrill1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="BorderDrill2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="BorderDrill3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(wir)-inner" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(plc)-All" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(via)-All" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(wir)-All" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Profile_Outline_Vscore" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Profile_Outline_Rout" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Layout_Guide_Layer" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="nowidth" name="BorderAssyDrg" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="BorderDrill1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="BorderDrill2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="BorderDrill3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(wir)-inner" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(plc)-All" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(via)-All" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Inhibit(wir)-All" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="DXF_Layer" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="DXF_Layer" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Other_Outline_1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Other_Outline_2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Other_Outline_3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Other_Outline_4" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Other_Outline_1" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Other_Outline_2" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Other_Outline_3" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="Other_Outline_4" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="doc"/>
+        <layer hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mirror="off" mode="width" name="HOLE" output="off" palletColor="#000000" penColor="#000000" penWidth="0.08000" transparency="0" type="data"/>
+      </layerAttribute>
+      <objectAttribute>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="line" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="padstkpad" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="pad" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="areafill" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="meshplane" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="text" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="sym" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="dim" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="label" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="roundhole" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="slothole" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="recthole" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="padstkroundhole" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="padstkslothole" valid="off"/>
+        <object hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="padstkrecthole" valid="off"/>
+      </objectAttribute>
+      <componentAttribute outputAll="on"/>
+      <netAttribute outputAll="on"/>
+      <fromtoAttribute outputAll="on" target="from+to"/>
+      <platingAttribute>
+        <plating hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="plated" valid="off"/>
+        <plating hatchAngle1="0.00000" hatchAngle2="0.00000" hatchPitch="0.00000" mode="width" output="on" palletColor="#000000" penColor="#000000" penWidth="0.08000" type="nonplated" valid="off"/>
+      </platingAttribute>
+      <diameterAttribute outputAll="on" target="full"/>
+      <referenceAttribute output="off" side="A">
+        <mode mode="width"/>
+        <penWidth width="0.08000"/>
+        <stringColor color="#000000"/>
+        <backTone valid="off"/>
+        <backColor color="#000000"/>
+        <transparency value="0"/>
+        <hatchPitch pitch="0.00000"/>
+        <hatchAngle1 angle="0.00000"/>
+        <hatchAngle2 angle="0.00000"/>
+        <stringWidth width="0.00000"/>
+        <stringHeight height="0.00000"/>
+        <stringSpace space="0.00000"/>
+        <stringPenWidth width="0.00000"/>
+        <stringAsciiFontNo no="1"/>
+        <coordinate coordinate="cc"/>
+        <offset x="0.00000" y="0.00000"/>
+        <angle angle="0.00000" mode="settingAngle" useIndividualAngle="off"/>
+        <mirror mode="off"/>
+        <variationComp target="master"/>
+      </referenceAttribute>
+      <pinAttribute output="off" side="A">
+        <targetAttribute attr="pinNo"/>
+        <mode mode="width"/>
+        <penWidth width="0.08000"/>
+        <stringColor color="#000000"/>
+        <backTone valid="off"/>
+        <backColor color="#000000"/>
+        <transparency value="0"/>
+        <hatchPitch pitch="0.00000"/>
+        <hatchAngle1 angle="0.00000"/>
+        <hatchAngle2 angle="0.00000"/>
+        <stringWidth width="0.00000"/>
+        <stringHeight height="0.00000"/>
+        <stringSpace space="0.00000"/>
+        <stringPenWidth width="0.00000"/>
+        <stringAsciiFontNo no="1"/>
+        <generationPosition position="pin"/>
+        <coordinate coordinate="cc"/>
+        <offset x="0.00000" y="0.00000"/>
+        <angle angle="0.00000" mode="settingAngle" useIndividualAngle="off"/>
+        <mirror mode="off"/>
+      </pinAttribute>
+      <compInfoTarget limit="off"/>
+      <ictAttribute output="off" side="A">
+        <referenceSettings>
+          <priorityNetOnly valid="off"/>
+          <interval value="1"/>
+          <intervalIncludePriorityNet valid="off"/>
+          <penWidth width="0.08000"/>
+          <stringColor color="#000000"/>
+          <backTone valid="off"/>
+          <backColor color="#000000"/>
+          <transparency value="0"/>
+          <stringWidth width="0.00000"/>
+          <stringHeight height="0.00000"/>
+          <stringSpace space="0.00000"/>
+          <stringPenWidth width="0.00000"/>
+          <stringAsciiFontNo no="1"/>
+          <coordinate coordinate="rt"/>
+          <mirror mode="off"/>
+        </referenceSettings>
+        <markSettings mark="on">
+          <markWidth width="0.00000"/>
+          <markPenWidth width="0.08000"/>
+          <markColor color="#000000"/>
+        </markSettings>
+        <pathSettings path="on">
+          <crossPath valid="off"/>
+          <pathPenWidth width="0.08000"/>
+          <pathColor color="#000000"/>
+        </pathSettings>
+      </ictAttribute>
+      <uncNetAttribute output="off">
+        <penWidth width="0.08000"/>
+        <penColor color="#000000"/>
+        <mirror mode="off"/>
+      </uncNetAttribute>
+      <bondwireAttribute mirror="off" output="off" outputAll="on" target="onlyPlotPad"/>
+      <watermark plot="common">
+        <text color="#000000" string=""/>
+      </watermark>
+      <outputTarget onlyTerminal="off" target="all"/>
+      <variationAttribute variation=""/>
+    </page>
+  </pageSettings>
+
+</plot>

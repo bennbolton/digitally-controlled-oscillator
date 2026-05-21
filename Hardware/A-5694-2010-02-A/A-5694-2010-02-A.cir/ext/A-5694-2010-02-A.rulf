@@ -1,0 +1,1517 @@
+(Japanese_coding: sjis)
+(design "A-5694-2010-02-A.cir"
+   (header
+       ( boardUnit  MM )
+   )
+   (propertyS parentTool SD)
+   (rule
+       (net "+12V"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "V+")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "EN")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp218"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp227"            "2")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp49"            "1")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp55"            "+VOUT")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp56"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp62"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp81"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp85"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp96"            "VDD")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp97"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp102"            "VDD")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp106"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp394"            "VCC")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp115"            "VDD")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp120"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp123"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp129"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp133"            "VDD")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp135"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp151"            "VDD")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp152"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp156"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp165"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp166"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp181"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp520"            "VCC")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp558"            "VCC")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp546"            "VCC")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp523"            "VCC")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp537"            "VCC")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp531"            "VCC")))
+       (net "+3V3"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"            "2A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"            "2A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"            "2A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp97"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp131"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp167"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp171"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp218"            "2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp219"            "2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp258"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp312"            "K2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp324"            "K2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp331"            "A1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp331"            "A2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp351"            "K2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp354"            "K2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp364"            "2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp420"            "K2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp424"            "2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp427"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp96"            "VLOGIC")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp98"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp102"            "VLOGIC")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp111"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp394"            "VL")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp115"            "VLOGIC")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp121"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp130"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp133"            "VLOGIC")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp150"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp151"            "VLOGIC")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp155"            "A")))
+       (net "+5V"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"            "2A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp182"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp217"            "K")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp219"            "B")))
+       (net "-12V"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "V-")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp292"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp226"            "1")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp40"            "1")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp63"            "GND")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp64"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp70"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp90"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp92"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp96"            "VSS")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp101"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp102"            "VSS")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp394"            "VEE")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp115"            "VSS")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp122"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp124"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp127"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp133"            "VSS")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp140"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp144"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp151"            "VSS")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp153"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp161"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp175"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp176"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp183"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp520"            "VEE")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp558"            "VEE")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp546"            "VEE")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp523"            "VEE")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp537"            "VEE")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp531"            "VEE")))
+       (net "16-24V"
+           (pinList
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp55"            "+VIN")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp60"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp63"            "+VIN")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp65"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp77"            "+VIN")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp180"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp71"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp226"            "+")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp231"            "K")))
+       (net "DBUG_1"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"            "6A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp338"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp372"            "2")))
+       (net "DBUG_2"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"            "4A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp339"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp371"            "2")))
+       (net "DG_RST"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"            "%RESET%")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"            "%RESET%")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"            "%RESET%")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"            "5A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"            "%RESET%")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"            "%RESET%")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp424"            "1")))
+       (net "DIGI_1A"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp510"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"            "A")))
+       (net "DIGI_1W"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp48"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp558"            "O/P")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"            "W")))
+       (net "DIGI_2A"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp441"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"            "A")))
+       (net "DIGI_3A"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp95"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp311"            "K1/A2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp311"            "K2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp359"            "B")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp543"            "O/P")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"            "W")))
+       (net "DIGI_3W"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp73"            "2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"            "W")))
+       (net "DIGI_4W"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp282"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp556"            "+")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"            "W")))
+       (net "DIGI_5A"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp96"            "2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"            "A")))
+       (net "ENC_A"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"            "10A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp117"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp216"            "2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp354"            "K1/A2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp433"            "A")))
+       (net "ENC_B"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"            "8A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp116"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp217"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp420"            "K1/A2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp434"            "A")))
+       (net "ENC_SW"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"            "7A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp351"            "K1/A2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp361"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp362"            "1")))
+       (net "F_PWM"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"            "4A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp312"            "K1/A2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp357"            "2")))
+       (net "F_SIN"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"            "9A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp324"            "K1/A2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp358"            "2")))
+       (net "GND"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp109"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp150"            "S")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp261"            "A2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp261"            "K1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "GND")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "S4")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "S5")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "S6")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "S7")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "S8")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp218"            "B")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp292"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp296"            "CCW")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp298"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp362"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp367"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp439"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp440"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp461"            "A2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp461"            "K1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp466"            "A2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp466"            "K1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp477"            "G1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp480"            "G1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp482"            "G1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp514"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp520"            "+")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp523"            "+")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp537"            "+")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp550"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp557"            "D")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp558"            "-")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp559"            "+")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"            "W")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp84"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp85"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp86"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp92"            "1A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp93"            "1A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"            "1A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"            "1A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"            "SW1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"            "COM1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"            "SHIELD1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"            "SHIELD2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp116"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp117"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp139"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp174"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp312"            "A1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp324"            "A1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp351"            "A1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp354"            "A1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp361"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp420"            "A1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp437"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp438"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp439"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp51"            "C")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp55"            "GND")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp56"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp60"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp62"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp63"            "+VOUT")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp64"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp65"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp70"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp72"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp75"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp77"            "GND")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp81"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp85"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp90"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp92"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp96"            "GND")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp97"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp98"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp101"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp102"            "GND")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp106"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp111"            "B")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp394"            "GND")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp115"            "GND")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp120"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp121"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp122"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp123"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp124"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp127"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp129"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp130"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp133"            "GND")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp135"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp140"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp144"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp150"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp151"            "GND")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp152"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp153"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp155"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp156"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp161"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp165"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp166"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp175"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp176"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp179"            "A2")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp179"            "K1")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp184"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp207"            "1")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp213"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp214"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp215"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp216"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp219"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp71"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp226"            "-")))
+       (net "INPUT_VOLTAGE"
+           (pinList
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp51"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp207"            "2")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp232"            "NO")))
+       (net "MISO"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"            "SDO")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"            "7A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp436"            "A")))
+       (net "MOSI"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"            "8A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"            "DIN")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp413"            "A")))
+       (net "MUX_OUT"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "D")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp296"            "CW")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp375"            "A")))
+       (net "MUX_SEL0"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "A0")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"            "8A")))
+       (net "MUX_SEL1"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "A1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"            "10A")))
+       (net "PWM"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp182"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "S1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp454"            "B")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp480"            "S1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp523"            "O/P")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp536"            "+")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp357"            "1")))
+       (net "PWM_LED"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp457"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp536"            "-")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp536"            "O/P")))
+       (net "RDY"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"            "RDY")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"            "RDY")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"            "RDY")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"            "3A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"            "RDY")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"            "RDY")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp258"            "2")))
+       (net "SCLK"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"            "SCLK")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"            "SCLK")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"            "SCLK")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"            "10A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"            "SCLK")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"            "SCLK")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp414"            "A")))
+       (net "SIGN0014"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp73"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp394"            "D")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp515"            "B")))
+       (net "SIGN0015"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp45"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp395"            "S")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp512"            "B")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp546"            "+")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp556"            "-")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp559"            "O/P")))
+       (net "SIGN0016"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp41"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp95"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp520"            "-")))
+       (net "SIGN0019"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp45"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp48"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp558"            "+")))
+       (net "SIGN0021"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"            "EXT_CAP")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp86"            "B")))
+       (net "SIGN0022"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp84"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"            "EXT_CAP")))
+       (net "SIGN0023"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"            "EXT_CAP")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp85"            "B")))
+       (net "SIGN0026"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"            "DIN")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp97"            "2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"            "SDO")))
+       (net "SIGN0027"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp216"            "1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp218"            "1")))
+       (net "SIGN0028"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp217"            "2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp219"            "1")))
+       (net "SIGN0029"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"            "EXT_CAP")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp139"            "B")))
+       (net "SIGN0033"
+           (pinList
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp49"            "2")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp179"            "A1")))
+       (net "SIGN0034"
+           (pinList
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp40"            "2")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp179"            "K2")))
+       (net "SIGN0035"
+           (pinList
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp231"            "A")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp232"            "COM")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp232"            "NCL")))
+       (net "SIGN0037"
+           (pinList
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp72"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp75"            "B")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp77"            "+VOUT")
+                   (funcTerm        "Z-8ad61b2f-3f5a-419c-ae76-af5bb8c9414f.cmp217"            "A")))
+       (net "SIGN00111"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp108"            "G")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp311"            "A1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp367"            "B")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp440"            "2")))
+       (net "SIGN00139"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp150"            "T")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp150"            "R")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp307"            "B")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp308"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp362"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp385"            "A")))
+       (net "SIGN00144"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp510"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp512"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp518"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp559"            "-")))
+       (net "SIGN00145"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp181"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp282"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp556"            "O/P")))
+       (net "SIGN00146"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp181"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp182"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp454"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp523"            "-")))
+       (net "SIGN00154"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp96"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp108"            "D")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp359"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp543"            "-")))
+       (net "SIGN00160"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp394"            "S")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp517"            "B")))
+       (net "SIGN00162"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp441"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp514"            "B")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp515"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp517"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp519"            "B")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp543"            "+")))
+       (net "SIGN00164"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp395"            "D")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp518"            "B")))
+       (net "SIGN00167"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp108"            "S")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp109"            "2")))
+       (net "SIGN00173"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp261"            "A1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp261"            "K2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp269"            "2")))
+       (net "SIGN00178"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "A2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp439"            "2")))
+       (net "SIGN00182"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp307"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp308"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp438"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp508"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp537"            "O/P")))
+       (net "SIGN00185"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp296"            "W")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp298"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp299"            "1")))
+       (net "SIGN00193"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp519"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp557"            "S")))
+       (net "SIGN00197"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp457"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp461"            "A1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp461"            "K2")))
+       (net "SIGN00199"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp462"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp466"            "A1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp466"            "K2")))
+       (net "SIGN00210"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"            "SDO")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"            "DIN")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp167"            "2")))
+       (net "SIGN00211"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"            "DIN")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"            "SDO")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp171"            "2")))
+       (net "SIGN00213"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"            "EXT_CAP")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp174"            "B")))
+       (net "SIGN00214"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"            "DIN")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"            "SDO")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp131"            "2")))
+       (net "SIGN00221"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"            "A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp227"            "1")))
+       (net "SIGN00222"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"            "B")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp226"            "2")))
+       (net "SIGN00231"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp109"            "SW2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp362"            "2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp364"            "1")))
+       (net "SIGN00233"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp331"            "K1")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp372"            "1")))
+       (net "SIGN00234"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp331"            "K2")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp371"            "1")))
+       (net "SIGN001104"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp299"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp438"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp537"            "-")))
+       (net "SIGN001108"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp535"            "+")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp550"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp566"            "A")))
+       (net "SIGN001109"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp535"            "O/P")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp548"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp553"            "A")))
+       (net "SIGN001111"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp563"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp564"            "S")))
+       (net "SIGN001112"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp562"            "A")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp564"            "D")))
+       (net "SIGN001113"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp549"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp552"            "A")))
+       (net "SIGN001114"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp535"            "-")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp548"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp549"            "2")))
+       (net "SIN"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp41"            "2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "S3")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp477"            "S1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp520"            "O/P")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp547"            "+")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp358"            "1")))
+       (net "SIN_CAP_SEL"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp394"            "IN")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp557"            "IN")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"            "7A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp438"            "2")))
+       (net "SIN_LED"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp269"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp547"            "-")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp547"            "O/P")))
+       (net "SPARE_SW"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp564"            "IN")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"            "6A")))
+       (net "SS"
+           (pinList
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp3"            "%SYNC%")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp5"            "%SYNC%")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp7"            "%SYNC%")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp94"            "9A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp134"            "%SYNC%")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp153"            "%SYNC%")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp412"            "A")))
+       (net "TRI"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp291"            "S2")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp482"            "S1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp531"            "+")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp546"            "-")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp546"            "O/P")))
+       (net "TRI_CAP_SEL"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp395"            "IN")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp95"            "5A")
+                   (funcTerm        "Z-ac5a3d36-18c8-4ea3-b87a-a23df8ee7dce.cmp437"            "2")))
+       (net "TRI_LED"
+           (pinList
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp462"            "1")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp531"            "-")
+                   (funcTerm        "Z-af5e4a44-3cd8-4f7c-9046-8ea7db7b7ec8.cmp531"            "O/P")))
+       (netGroup "Default"
+               (list "+12V" "+3V3" "+5V" "-12V" "16-24V" "DBUG_1" "DBUG_2" "DG_RST" "DIGI_1A" "DIGI_1W" "DIGI_2A" "DIGI_3A" "DIGI_3W" "DIGI_4W" "DIGI_5A" "ENC_A" "ENC_B" "ENC_SW" "F_PWM" "F_SIN" "GND" "INPUT_VOLTAGE" "MISO" "MOSI" "MUX_OUT" "MUX_SEL0" "MUX_SEL1" "PWM" "PWM_LED" "RDY" "SCLK" "SIGN0014" "SIGN0015" "SIGN0016" "SIGN0019" "SIGN0021" "SIGN0022" "SIGN0023" "SIGN0026" "SIGN0027" "SIGN0028" "SIGN0029" "SIGN0033" "SIGN0034" "SIGN0035" "SIGN0037" "SIGN00111" "SIGN00139" "SIGN00144" "SIGN00145" "SIGN00146" "SIGN00154" "SIGN00160" "SIGN00162" "SIGN00164" "SIGN00167" "SIGN00173" "SIGN00178" "SIGN00182" "SIGN00185" "SIGN00193" "SIGN00197" "SIGN00199" "SIGN00210" "SIGN00211" "SIGN00213" "SIGN00214" "SIGN00221" "SIGN00222" "SIGN00231" "SIGN00233" "SIGN00234" "SIGN001104" "SIGN001108" "SIGN001109" "SIGN001111" "SIGN001112" "SIGN001113" "SIGN001114" "SIN" "SIN_CAP_SEL" "SIN_LED" "SPARE_SW" "SS" "TRI" "TRI_CAP_SEL" "TRI_LED"))
+       (electricalNet "+12V"
+               (list "+12V"))
+       (electricalNet "+3V3"
+               (list "+3V3"))
+       (electricalNet "+5V"
+               (list "+5V"))
+       (electricalNet "-12V"
+               (list "-12V"))
+       (electricalNet "16-24V"
+               (list "16-24V" "SIGN0035"))
+       (electricalNet "DBUG_1"
+               (list "DBUG_1" "SIGN00233"))
+       (electricalNet "DBUG_2"
+               (list "DBUG_2" "SIGN00234"))
+       (electricalNet "DG_RST"
+               (list "DG_RST"))
+       (electricalNet "DIGI_1A"
+               (list "DIGI_1A" "DIGI_1W" "SIGN0015" "SIGN0019" "SIGN00144" "SIGN00164"))
+       (electricalNet "DIGI_2A"
+               (list "DIGI_2A" "DIGI_3W" "SIGN0014" "SIGN00160" "SIGN00162" "SIGN00193"))
+       (electricalNet "DIGI_3A"
+               (list "DIGI_3A" "DIGI_5A" "F_SIN" "SIGN0016" "SIGN00154" "SIN"))
+       (electricalNet "DIGI_4W"
+               (list "DIGI_4W" "F_PWM" "PWM" "SIGN00145" "SIGN00146"))
+       (electricalNet "ENC_A"
+               (list "ENC_A" "SIGN0027"))
+       (electricalNet "ENC_B"
+               (list "ENC_B" "SIGN0028"))
+       (electricalNet "ENC_SW"
+               (list "ENC_SW" "SIGN00231"))
+       (electricalNet "GND"
+               (list "GND"))
+       (electricalNet "INPUT_VOLTAGE"
+               (list "INPUT_VOLTAGE"))
+       (electricalNet "MISO"
+               (list "MISO"))
+       (electricalNet "MOSI"
+               (list "MOSI"))
+       (electricalNet "MUX_OUT"
+               (list "MUX_OUT"))
+       (electricalNet "MUX_SEL0"
+               (list "MUX_SEL0"))
+       (electricalNet "MUX_SEL1"
+               (list "MUX_SEL1"))
+       (electricalNet "PWM_LED"
+               (list "PWM_LED" "SIGN00197"))
+       (electricalNet "RDY"
+               (list "RDY"))
+       (electricalNet "SCLK"
+               (list "SCLK"))
+       (electricalNet "SIGN0021"
+               (list "SIGN0021"))
+       (electricalNet "SIGN0022"
+               (list "SIGN0022"))
+       (electricalNet "SIGN0023"
+               (list "SIGN0023"))
+       (electricalNet "SIGN0026"
+               (list "SIGN0026"))
+       (electricalNet "SIGN0029"
+               (list "SIGN0029"))
+       (electricalNet "SIGN0033"
+               (list "SIGN0033"))
+       (electricalNet "SIGN0034"
+               (list "SIGN0034"))
+       (electricalNet "SIGN0037"
+               (list "SIGN0037"))
+       (electricalNet "SIGN00111"
+               (list "SIGN00111"))
+       (electricalNet "SIGN00139"
+               (list "SIGN00139" "SIGN00182" "SIGN00185" "SIGN001104"))
+       (electricalNet "SIGN00167"
+               (list "SIGN00167"))
+       (electricalNet "SIGN00178"
+               (list "SIGN00178"))
+       (electricalNet "SIGN00210"
+               (list "SIGN00210"))
+       (electricalNet "SIGN00211"
+               (list "SIGN00211"))
+       (electricalNet "SIGN00213"
+               (list "SIGN00213"))
+       (electricalNet "SIGN00214"
+               (list "SIGN00214"))
+       (electricalNet "SIGN00221"
+               (list "SIGN00221"))
+       (electricalNet "SIGN00222"
+               (list "SIGN00222"))
+       (electricalNet "SIGN001108"
+               (list "SIGN001108"))
+       (electricalNet "SIGN001109"
+               (list "SIGN001109" "SIGN001113" "SIGN001114"))
+       (electricalNet "SIGN001111"
+               (list "SIGN001111"))
+       (electricalNet "SIGN001112"
+               (list "SIGN001112"))
+       (electricalNet "SIN_CAP_SEL"
+               (list "SIN_CAP_SEL"))
+       (electricalNet "SIN_LED"
+               (list "SIGN00173" "SIN_LED"))
+       (electricalNet "SPARE_SW"
+               (list "SPARE_SW"))
+       (electricalNet "SS"
+               (list "SS"))
+       (electricalNet "TRI"
+               (list "TRI"))
+       (electricalNet "TRI_CAP_SEL"
+               (list "TRI_CAP_SEL"))
+       (electricalNet "TRI_LED"
+               (list "SIGN00199" "TRI_LED"))
+   )
+   (netlistAttribute)
+   (assign
+       (comp    "C1"
+            (assign 
+                (part  "P-CP14-0130"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C2"
+            (assign 
+                (part  "P-CP14-0130"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C3"
+            (assign 
+                (part  "P-CP14-0130"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C4"
+            (assign 
+                (part  "P-CP14-0172"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C5"
+            (assign 
+                (part  "P-CP14-0172"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C6"
+            (assign 
+                (part  "P-CP22-22P1"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C7"
+            (assign 
+                (part  "P-CP14-0172"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C8"
+            (assign 
+                (part  "P-CP14-0174"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C9"
+            (assign 
+                (part  "P-CP22-22P1"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C10"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C11"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C12"
+            (assign 
+                (part  "P-CP14-0167"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C13"
+            (assign 
+                (part  "P-CP14-0167"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C14"
+            (assign 
+                (part  "P-CP14-0167"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C15"
+            (assign 
+                (part  "P-CP14-0167"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C16"
+            (assign 
+                (part  "P-CP14-0167"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C17"
+            (assign 
+                (part  "P-CP14-0167"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C18"
+            (assign 
+                (part  "P-CP22-10N0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C19"
+            (assign 
+                (part  "P-CP22-10N0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C20"
+            (assign 
+                (part  "P-CP22-10N0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C21"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C22"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C23"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C24"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C25"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C26"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C27"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C31"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C32"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C33"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C34"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C35"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C36"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C37"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C38"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C39"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C40"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C41"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C42"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C43"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C44"
+            (assign 
+                (part  "P-CP14-0109"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C45"
+            (assign 
+                (part  "P-CP14-0109"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C46"
+            (assign 
+                (part  "P-CP14-0109"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C47"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C48"
+            (assign 
+                (part  "P-CP14-0109"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C49"
+            (assign 
+                (part  "P-CP14-0109"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C50"
+            (assign 
+                (part  "P-CP14-0109"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C51"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C52"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C53"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C54"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C55"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C56"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C57"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C58"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C59"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C60"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C61"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C62"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C63"
+            (assign 
+                (part  "P-CP22-0003"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "C64"
+            (assign 
+                (part  "P-NM16-0200"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D1"
+            (assign 
+                (part  "P-DD08-0040"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D2"
+            (assign 
+                (part  "P-VT01-0017"))
+            (property compComment "MODEL IN TEAMCENTER")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D3"
+            (assign 
+                (part  "P-VT01-0017"))
+            (property compComment "MODEL IN TEAMCENTER")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D4"
+            (assign 
+                (part  "P-VT01-0017"))
+            (property compComment "MODEL IN TEAMCENTER")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D5"
+            (assign 
+                (part  "P-VT01-0017"))
+            (property compComment "MODEL IN TEAMCENTER")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D6"
+            (assign 
+                (part  "P-DD08-0040"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D7"
+            (assign 
+                (part  "P-DD08-0040"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D8"
+            (assign 
+                (part  "P-DD08-0040"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D9"
+            (assign 
+                (part  "P-DD08-0040"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D10"
+            (assign 
+                (part  "P-DD01-0314"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D12"
+            (assign 
+                (part  "P-VT01-0017"))
+            (property compComment "MODEL IN TEAMCENTER")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D13"
+            (assign 
+                (part  "P-DD08-0040"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "D14"
+            (assign 
+                (part  "P-DD08-0028"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "FIX1"
+            (assign 
+                (part  "HOLE-3m0-3m8PAD"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "FIX2"
+            (assign 
+                (part  "HOLE-3m0-3m8PAD"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "FIX3"
+            (assign 
+                (part  "HOLE-3m0-3m8PAD"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "FIX4"
+            (assign 
+                (part  "HOLE-3m0-3m8PAD"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC1"
+            (assign 
+                (part  "P-ML10-0011"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC2"
+            (assign 
+                (part  "P-ML01-1073"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC3"
+            (assign 
+                (part  "P-ML01-1073"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC4"
+            (assign 
+                (part  "P-ML01-1073"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC5"
+            (assign 
+                (part  "P-ML01-1073"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC6"
+            (assign 
+                (part  "P-ML01-1073"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC7"
+            (assign 
+                (part  "P-ML01-1073"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC8"
+            (assign 
+                (part  "P-ML10-0059"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC9"
+            (assign 
+                (part  "P-EA03-0083"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC10"
+            (assign 
+                (part  "P-EA03-0083"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "IC11"
+            (assign 
+                (part  "P-EA03-0083"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "MIS1"
+            (assign 
+                (part  "WIRE-TERM_1m0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "MIS2"
+            (assign 
+                (part  "WIRE-TERM_1m0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "MIS3"
+            (assign 
+                (part  "WIRE-TERM_1m0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "MIS4"
+            (assign 
+                (part  "WIRE-TERM_1m0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "MIS5"
+            (assign 
+                (part  "WIRE-TERM_1m0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R1"
+            (assign 
+                (part  "P-RF35-06K8"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R2"
+            (assign 
+                (part  "P-RF35-0007"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R3"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R4"
+            (assign 
+                (part  "P-RF35-04K7"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R5"
+            (assign 
+                (part  "P-RF35-36K0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R6"
+            (assign 
+                (part  "P-RF35-0007"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R7"
+            (assign 
+                (part  "P-RF35-100K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R8"
+            (assign 
+                (part  "P-RF35-39K0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R9"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R10"
+            (assign 
+                (part  "P-RF35-01M0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R11"
+            (assign 
+                (part  "P-RF35-43K0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R12"
+            (assign 
+                (part  "P-RF35-20K0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R13"
+            (assign 
+                (part  "P-RF35-36K0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R14"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R15"
+            (assign 
+                (part  "P-RF35-0019"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R16"
+            (assign 
+                (part  "P-RF35-0019"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R17"
+            (assign 
+                (part  "P-RF35-0019"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R18"
+            (assign 
+                (part  "P-RF35-22K0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R19"
+            (assign 
+                (part  "P-RF35-150K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R20"
+            (assign 
+                (part  "P-RF35-000R"))
+            (property compComment "Place 2 Testpoints Each End")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R21"
+            (assign 
+                (part  "P-RF35-22K0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R22"
+            (assign 
+                (part  "P-RF35-000R"))
+            (property compComment "Place 2 Testpoints Each End")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R23"
+            (assign 
+                (part  "P-RF35-000R"))
+            (property compComment "Place 2 Testpoints Each End")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R24"
+            (assign 
+                (part  "P-RF35-000R"))
+            (property compComment "Place 2 Testpoints Each End")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R25"
+            (assign 
+                (part  "P-RF35-02K2"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R26"
+            (assign 
+                (part  "P-RF35-02K2"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R27"
+            (assign 
+                (part  "P-RF35-02K2"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R28"
+            (assign 
+                (part  "P-RF35-02K2"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R29"
+            (assign 
+                (part  "P-RF35-02K2"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R30"
+            (assign 
+                (part  "P-RF35-22K0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R31"
+            (assign 
+                (part  "P-RF35-22K0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R32"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R33"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R34"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R35"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R36"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R37"
+            (assign 
+                (part  "P-RF35-01K0"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R38"
+            (assign 
+                (part  "P-RF35-120R"))
+            (property compComment "Place 2 Testpoints Each End")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R39"
+            (assign 
+                (part  "P-RF35-120R"))
+            (property compComment "Place 2 Testpoints Each End")
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R40"
+            (assign 
+                (part  "P-RF35-047K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R41"
+            (assign 
+                (part  "P-RF35-047K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R42"
+            (assign 
+                (part  "P-RF35-02K2"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R43"
+            (assign 
+                (part  "P-RF35-0019"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R44"
+            (assign 
+                (part  "P-RF35-0019"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R45"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R46"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "R47"
+            (assign 
+                (part  "P-RF35-010K"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "RV1"
+            (assign 
+                (part  "P-NM21-0043"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "RV2"
+            (assign 
+                (part  "P-RV05-0008"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "RV3"
+            (assign 
+                (part  "P-RV05-0014"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "RV4"
+            (assign 
+                (part  "P-RV05-0014"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "RV5"
+            (assign 
+                (part  "P-RV05-0014"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "RV6"
+            (assign 
+                (part  "P-RV05-0014"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SK1"
+            (assign 
+                (part  "P-CN15-0015"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SK2"
+            (assign 
+                (part  "P-CN15-0015"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SK3"
+            (assign 
+                (part  "P-CN15-0015"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SK4"
+            (assign 
+                (part  "P-CN13-0036"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SK5"
+            (assign 
+                (part  "P-CN28-010W"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SK6"
+            (assign 
+                (part  "P-CN28-010W"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SK7"
+            (assign 
+                (part  "P-CN28-010W"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SK8"
+            (assign 
+                (part  "P-CN28-010W"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SK9"
+            (assign 
+                (part  "P-NM22-0021"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SK10"
+            (assign 
+                (part  "P-CN47-0122"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "SW1"
+            (assign 
+                (part  "P-SW02-0054"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP1"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP2"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP3"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP4"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP5"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP6"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP7"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP8"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP9"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP10"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP11"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP12"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP13"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP14"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP15"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP16"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP17"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TP18"
+            (assign 
+                (part  "P-CD12-2136"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TR1"
+            (assign 
+                (part  "P-TR03-1052"))
+                (propertyS ra_lock "UNLOCKED"))
+       (comp    "TR2"
+            (assign 
+                (part  "P-ML19-0035"))
+                (propertyS ra_lock "UNLOCKED")))
+)

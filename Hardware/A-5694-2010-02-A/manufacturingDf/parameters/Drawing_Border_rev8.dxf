@@ -1,0 +1,9618 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1014
+  9
+$ACADMAINTVER
+ 70
+   0
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+0.000000
+ 20
+0.000000
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+340.000000
+ 20
+242.000000
+ 30
+0.0
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$ORTHOMODE
+ 70
+	0
+  9
+$REGENMODE
+ 70
+	1
+  9
+$FILLMODE
+ 70
+	1
+  9
+$QTEXTMODE
+ 70
+	0
+  9
+$MIRRTEXT
+ 70
+	1
+  9
+$DRAGMODE
+ 70
+	2
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$OSMODE
+ 70
+	0
+  9
+$ATTMODE
+ 70
+	1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
+  9
+$TEXTSTYLE
+  7
+STANDARD
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$CECOLOR
+ 62
+	256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DELOBJ
+ 70
+	1
+  9
+$DISPSILH
+ 70
+	0
+  9
+$LUNITS
+ 70
+	2
+  9
+$LUPREC
+ 70
+	6
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0.5
+  9
+$AUNITS
+ 70
+	0
+  9
+$AUPREC
+ 70
+	6
+  9
+$MENU
+  1
+acad
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+	0
+  9
+$BLIPMODE
+ 70
+	0
+  9
+$CHAMFERA
+ 40
+0.5
+  9
+$CHAMFERB
+ 40
+0.5
+  9
+$CHAMFERC
+ 40
+1.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+	0
+  9
+$TDCREATE
+ 40
+0.0
+  9
+$TDUPDATE
+ 40
+0.0
+  9
+$TDINDWG
+ 40
+0.0
+  9
+$TDUSRTIMER
+ 40
+0.0
+  9
+$USRTIMER
+ 70
+	0
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+	0
+  9
+$PDMODE
+ 70
+	0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$COORDS
+ 70
+	1
+  9
+$SPLFRAME
+ 70
+	0
+  9
+$SPLINETYPE
+ 70
+	6
+  9
+$SPLINESEGS
+ 70
+	8
+  9
+$ATTDIA
+ 70
+	0
+  9
+$ATTREQ
+ 70
+	1
+  9
+$HANDLING
+ 70
+   1
+  9
+$HANDSEED
+   5
+             1c8
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+LWPOLYLINE
+  2
+AcDbPolyline
+  3
+"AutoCAD"
+ 90
+0
+280
+0
+281
+1
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+"AutoCAD"
+ 90
+0
+280
+0
+281
+1
+  0
+CLASS
+  1
+HATCH
+  2
+AcDbHatch
+  3
+"ACAD_SEDONA"
+ 90
+0
+280
+0
+281
+1
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+23
+100
+AcDbSymbolTable
+ 70
+2
+  0
+VPORT
+  5
+25
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*ACTIVE
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+170.000000
+ 22
+121.000000
+ 40
+582.000000
+ 41
+1.743697478991596
+ 42
+50
+ 72
+100
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+26
+100
+AcDbSymbolTable
+ 70
+1
+  0
+LTYPE
+  5
+27
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BYBLOCK
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+28
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BYLAYER
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+29
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CONTINUOUS
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2a
+100
+AcDbSymbolTable
+ 70
+2
+  0
+LAYER
+  5
+2b
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+   0
+ 62
+  7
+  6
+CONTINUOUS
+  0
+LAYER
+  5
+2c
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Drawing_Border
+ 70
+   0
+ 62
+  7
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+2d
+100
+AcDbSymbolTable
+ 70
+1
+  0
+STYLE
+  5
+2e
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+STANDARD
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+1.0
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+2f
+100
+AcDbSymbolTable
+ 70
+   0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+30
+100
+AcDbSymbolTable
+ 70
+   0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+31
+100
+AcDbSymbolTable
+ 70
+1
+  0
+APPID
+  5
+32
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+33
+100
+AcDbSymbolTable
+ 70
+1
+  0
+DIMSTYLE
+105
+34
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+STANDARD
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+35
+100
+AcDbSymbolTable
+ 70
+0
+  0
+BLOCK_RECORD
+  5
+36
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*MODEL_SPACE
+  0
+BLOCK_RECORD
+  5
+37
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*PAPER_SPACE
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+38
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*MODEL_SPACE
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*MODEL_SPACE
+  1
+
+  0
+ENDBLK
+  5
+39
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+3a
+100
+AcDbEntity
+ 67
+	1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*PAPER_SPACE
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*PAPER_SPACE
+  1
+
+  0
+ENDBLK
+  5
+3b
+100
+AcDbEntity
+ 67
+	1
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  5
+3c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+340.000000
+ 20
+0.000000
+ 30
+0.0
+ 11
+340.000000
+ 21
+242.000000
+ 31
+0.0
+  0
+LINE
+  5
+3d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+340.000000
+ 20
+242.000000
+ 30
+0.0
+ 11
+0.000000
+ 21
+242.000000
+ 31
+0.0
+  0
+LINE
+  5
+3e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+0.000000
+ 20
+242.000000
+ 30
+0.0
+ 11
+0.000000
+ 21
+0.000000
+ 31
+0.0
+  0
+LINE
+  5
+3f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+0.000000
+ 20
+13.000000
+ 30
+0.0
+ 11
+340.000000
+ 21
+13.000000
+ 31
+0.0
+  0
+LINE
+  5
+40
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+111.000000
+ 20
+0.000000
+ 30
+0.0
+ 11
+111.000000
+ 21
+13.000000
+ 31
+0.0
+  0
+LINE
+  5
+41
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+116.925000
+ 20
+1.450000
+ 30
+0.0
+ 11
+116.925000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+42
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+116.925000
+ 20
+11.500000
+ 30
+0.0
+ 11
+121.950000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+43
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.950000
+ 20
+11.500000
+ 30
+0.0
+ 11
+122.275000
+ 21
+11.450000
+ 31
+0.0
+  0
+LINE
+  5
+44
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+122.275000
+ 20
+11.450000
+ 30
+0.0
+ 11
+122.550000
+ 21
+11.425000
+ 31
+0.0
+  0
+LINE
+  5
+45
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+122.550000
+ 20
+11.425000
+ 30
+0.0
+ 11
+122.875000
+ 21
+11.300000
+ 31
+0.0
+  0
+LINE
+  5
+46
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+122.875000
+ 20
+11.300000
+ 30
+0.0
+ 11
+123.150000
+ 21
+11.175000
+ 31
+0.0
+  0
+LINE
+  5
+47
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+123.150000
+ 20
+11.175000
+ 30
+0.0
+ 11
+123.675000
+ 21
+10.825000
+ 31
+0.0
+  0
+LINE
+  5
+48
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+123.675000
+ 20
+10.825000
+ 30
+0.0
+ 11
+123.925000
+ 21
+10.575000
+ 31
+0.0
+  0
+LINE
+  5
+49
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+123.925000
+ 20
+10.575000
+ 30
+0.0
+ 11
+124.125000
+ 21
+10.350000
+ 31
+0.0
+  0
+LINE
+  5
+4a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.125000
+ 20
+10.350000
+ 30
+0.0
+ 11
+124.325000
+ 21
+10.100000
+ 31
+0.0
+  0
+LINE
+  5
+4b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.325000
+ 20
+10.100000
+ 30
+0.0
+ 11
+124.450000
+ 21
+9.825000
+ 31
+0.0
+  0
+LINE
+  5
+4c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.450000
+ 20
+9.825000
+ 30
+0.0
+ 11
+124.550000
+ 21
+9.550000
+ 31
+0.0
+  0
+LINE
+  5
+4d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.550000
+ 20
+9.550000
+ 30
+0.0
+ 11
+124.600000
+ 21
+9.175000
+ 31
+0.0
+  0
+LINE
+  5
+4e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.600000
+ 20
+9.175000
+ 30
+0.0
+ 11
+124.675000
+ 21
+8.900000
+ 31
+0.0
+  0
+LINE
+  5
+4f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.675000
+ 20
+8.900000
+ 30
+0.0
+ 11
+124.675000
+ 21
+8.575000
+ 31
+0.0
+  0
+LINE
+  5
+50
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.675000
+ 20
+8.575000
+ 30
+0.0
+ 11
+124.650000
+ 21
+8.250000
+ 31
+0.0
+  0
+LINE
+  5
+51
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.650000
+ 20
+8.250000
+ 30
+0.0
+ 11
+124.600000
+ 21
+7.950000
+ 31
+0.0
+  0
+LINE
+  5
+52
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.600000
+ 20
+7.950000
+ 30
+0.0
+ 11
+124.350000
+ 21
+7.350000
+ 31
+0.0
+  0
+LINE
+  5
+53
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.350000
+ 20
+7.350000
+ 30
+0.0
+ 11
+124.200000
+ 21
+7.050000
+ 31
+0.0
+  0
+LINE
+  5
+54
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.200000
+ 20
+7.050000
+ 30
+0.0
+ 11
+124.000000
+ 21
+6.825000
+ 31
+0.0
+  0
+LINE
+  5
+55
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.000000
+ 20
+6.825000
+ 30
+0.0
+ 11
+123.800000
+ 21
+6.575000
+ 31
+0.0
+  0
+LINE
+  5
+56
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+123.800000
+ 20
+6.575000
+ 30
+0.0
+ 11
+123.525000
+ 21
+6.375000
+ 31
+0.0
+  0
+LINE
+  5
+57
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+123.525000
+ 20
+6.375000
+ 30
+0.0
+ 11
+123.275000
+ 21
+6.225000
+ 31
+0.0
+  0
+LINE
+  5
+58
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+123.275000
+ 20
+6.225000
+ 30
+0.0
+ 11
+123.000000
+ 21
+6.100000
+ 31
+0.0
+  0
+LINE
+  5
+59
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+123.000000
+ 20
+6.100000
+ 30
+0.0
+ 11
+122.875000
+ 21
+6.025000
+ 31
+0.0
+  0
+LINE
+  5
+5a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+122.875000
+ 20
+6.025000
+ 30
+0.0
+ 11
+124.675000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+5b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+124.675000
+ 20
+1.450000
+ 30
+0.0
+ 11
+121.950000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+5c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.950000
+ 20
+1.450000
+ 30
+0.0
+ 11
+120.125000
+ 21
+6.025000
+ 31
+0.0
+  0
+LINE
+  5
+5d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+120.125000
+ 20
+6.025000
+ 30
+0.0
+ 11
+120.450000
+ 21
+6.100000
+ 31
+0.0
+  0
+LINE
+  5
+5e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+120.450000
+ 20
+6.100000
+ 30
+0.0
+ 11
+120.750000
+ 21
+6.175000
+ 31
+0.0
+  0
+LINE
+  5
+5f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+120.750000
+ 20
+6.175000
+ 30
+0.0
+ 11
+121.000000
+ 21
+6.300000
+ 31
+0.0
+  0
+LINE
+  5
+60
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.000000
+ 20
+6.300000
+ 30
+0.0
+ 11
+121.325000
+ 21
+6.500000
+ 31
+0.0
+  0
+LINE
+  5
+61
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.325000
+ 20
+6.500000
+ 30
+0.0
+ 11
+121.525000
+ 21
+6.700000
+ 31
+0.0
+  0
+LINE
+  5
+62
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.525000
+ 20
+6.700000
+ 30
+0.0
+ 11
+121.725000
+ 21
+6.950000
+ 31
+0.0
+  0
+LINE
+  5
+63
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.725000
+ 20
+6.950000
+ 30
+0.0
+ 11
+121.875000
+ 21
+7.225000
+ 31
+0.0
+  0
+LINE
+  5
+64
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.875000
+ 20
+7.225000
+ 30
+0.0
+ 11
+121.950000
+ 21
+7.500000
+ 31
+0.0
+  0
+LINE
+  5
+65
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.950000
+ 20
+7.500000
+ 30
+0.0
+ 11
+122.050000
+ 21
+7.825000
+ 31
+0.0
+  0
+LINE
+  5
+66
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+122.050000
+ 20
+7.825000
+ 30
+0.0
+ 11
+122.075000
+ 21
+8.150000
+ 31
+0.0
+  0
+LINE
+  5
+67
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+122.075000
+ 20
+8.150000
+ 30
+0.0
+ 11
+122.050000
+ 21
+8.450000
+ 31
+0.0
+  0
+LINE
+  5
+68
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+122.050000
+ 20
+8.450000
+ 30
+0.0
+ 11
+121.800000
+ 21
+9.050000
+ 31
+0.0
+  0
+LINE
+  5
+69
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.800000
+ 20
+9.050000
+ 30
+0.0
+ 11
+121.650000
+ 21
+9.350000
+ 31
+0.0
+  0
+LINE
+  5
+6a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.650000
+ 20
+9.350000
+ 30
+0.0
+ 11
+121.450000
+ 21
+9.550000
+ 31
+0.0
+  0
+LINE
+  5
+6b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.450000
+ 20
+9.550000
+ 30
+0.0
+ 11
+121.150000
+ 21
+9.775000
+ 31
+0.0
+  0
+LINE
+  5
+6c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+121.150000
+ 20
+9.775000
+ 30
+0.0
+ 11
+120.925000
+ 21
+9.950000
+ 31
+0.0
+  0
+LINE
+  5
+6d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+120.925000
+ 20
+9.950000
+ 30
+0.0
+ 11
+120.600000
+ 21
+10.050000
+ 31
+0.0
+  0
+LINE
+  5
+6e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+120.600000
+ 20
+10.050000
+ 30
+0.0
+ 11
+120.325000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+6f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+120.325000
+ 20
+10.150000
+ 30
+0.0
+ 11
+120.000000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+70
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+120.000000
+ 20
+10.150000
+ 30
+0.0
+ 11
+119.675000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+71
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+119.675000
+ 20
+10.150000
+ 30
+0.0
+ 11
+119.675000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+72
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+119.675000
+ 20
+1.450000
+ 30
+0.0
+ 11
+116.925000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+73
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.050000
+ 20
+2.825000
+ 30
+0.0
+ 11
+126.050000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+74
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.050000
+ 20
+2.825000
+ 30
+0.0
+ 11
+126.075000
+ 21
+2.500000
+ 31
+0.0
+  0
+LINE
+  5
+75
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.075000
+ 20
+2.500000
+ 30
+0.0
+ 11
+126.200000
+ 21
+2.225000
+ 31
+0.0
+  0
+LINE
+  5
+76
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.200000
+ 20
+2.225000
+ 30
+0.0
+ 11
+126.350000
+ 21
+1.950000
+ 31
+0.0
+  0
+LINE
+  5
+77
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.350000
+ 20
+1.950000
+ 30
+0.0
+ 11
+126.600000
+ 21
+1.750000
+ 31
+0.0
+  0
+LINE
+  5
+78
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.600000
+ 20
+1.750000
+ 30
+0.0
+ 11
+126.875000
+ 21
+1.575000
+ 31
+0.0
+  0
+LINE
+  5
+79
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.875000
+ 20
+1.575000
+ 30
+0.0
+ 11
+127.150000
+ 21
+1.500000
+ 31
+0.0
+  0
+LINE
+  5
+7a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+127.150000
+ 20
+1.500000
+ 30
+0.0
+ 11
+127.400000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+7b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+127.400000
+ 20
+11.500000
+ 30
+0.0
+ 11
+127.125000
+ 21
+11.450000
+ 31
+0.0
+  0
+LINE
+  5
+7c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+127.125000
+ 20
+11.450000
+ 30
+0.0
+ 11
+126.800000
+ 21
+11.350000
+ 31
+0.0
+  0
+LINE
+  5
+7d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.800000
+ 20
+11.350000
+ 30
+0.0
+ 11
+126.525000
+ 21
+11.175000
+ 31
+0.0
+  0
+LINE
+  5
+7e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.525000
+ 20
+11.175000
+ 30
+0.0
+ 11
+126.325000
+ 21
+10.950000
+ 31
+0.0
+  0
+LINE
+  5
+7f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.325000
+ 20
+10.950000
+ 30
+0.0
+ 11
+126.150000
+ 21
+10.650000
+ 31
+0.0
+  0
+LINE
+  5
+80
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.150000
+ 20
+10.650000
+ 30
+0.0
+ 11
+126.075000
+ 21
+10.350000
+ 31
+0.0
+  0
+LINE
+  5
+81
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+126.075000
+ 20
+10.350000
+ 30
+0.0
+ 11
+126.050000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+82
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+127.400000
+ 20
+11.500000
+ 30
+0.0
+ 11
+132.450000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+83
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+0.000000
+ 20
+61.000000
+ 30
+0.0
+ 11
+4.000000
+ 21
+61.000000
+ 31
+0.0
+  0
+LINE
+  5
+84
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.000000
+ 20
+13.000000
+ 30
+0.0
+ 11
+149.000000
+ 21
+27.000000
+ 31
+0.0
+  0
+LINE
+  5
+85
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+132.450000
+ 20
+1.450000
+ 30
+0.0
+ 11
+127.400000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+86
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+132.450000
+ 20
+2.825000
+ 30
+0.0
+ 11
+132.450000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+87
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+129.725000
+ 20
+2.825000
+ 30
+0.0
+ 11
+132.450000
+ 21
+2.825000
+ 31
+0.0
+  0
+LINE
+  5
+88
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+128.800000
+ 20
+3.750000
+ 30
+0.0
+ 11
+128.850000
+ 21
+3.425000
+ 31
+0.0
+  0
+LINE
+  5
+89
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+128.850000
+ 20
+3.425000
+ 30
+0.0
+ 11
+129.000000
+ 21
+3.150000
+ 31
+0.0
+  0
+LINE
+  5
+8a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+129.000000
+ 20
+3.150000
+ 30
+0.0
+ 11
+129.250000
+ 21
+2.950000
+ 31
+0.0
+  0
+LINE
+  5
+8b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+129.250000
+ 20
+2.950000
+ 30
+0.0
+ 11
+129.550000
+ 21
+2.825000
+ 31
+0.0
+  0
+LINE
+  5
+8c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+129.550000
+ 20
+2.825000
+ 30
+0.0
+ 11
+129.725000
+ 21
+2.825000
+ 31
+0.0
+  0
+LINE
+  5
+8d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+128.800000
+ 20
+5.775000
+ 30
+0.0
+ 11
+128.800000
+ 21
+3.750000
+ 31
+0.0
+  0
+LINE
+  5
+8e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+132.450000
+ 20
+5.775000
+ 30
+0.0
+ 11
+128.800000
+ 21
+5.775000
+ 31
+0.0
+  0
+LINE
+  5
+8f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+132.450000
+ 20
+7.150000
+ 30
+0.0
+ 11
+132.450000
+ 21
+5.775000
+ 31
+0.0
+  0
+LINE
+  5
+90
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+128.800000
+ 20
+7.150000
+ 30
+0.0
+ 11
+132.450000
+ 21
+7.150000
+ 31
+0.0
+  0
+LINE
+  5
+91
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+128.800000
+ 20
+9.225000
+ 30
+0.0
+ 11
+128.800000
+ 21
+7.150000
+ 31
+0.0
+  0
+LINE
+  5
+92
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+129.725000
+ 20
+10.150000
+ 30
+0.0
+ 11
+129.400000
+ 21
+10.050000
+ 31
+0.0
+  0
+LINE
+  5
+93
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+129.400000
+ 20
+10.050000
+ 30
+0.0
+ 11
+129.125000
+ 21
+9.900000
+ 31
+0.0
+  0
+LINE
+  5
+94
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+129.125000
+ 20
+9.900000
+ 30
+0.0
+ 11
+128.925000
+ 21
+9.700000
+ 31
+0.0
+  0
+LINE
+  5
+95
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+128.925000
+ 20
+9.700000
+ 30
+0.0
+ 11
+128.800000
+ 21
+9.375000
+ 31
+0.0
+  0
+LINE
+  5
+96
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+128.800000
+ 20
+9.375000
+ 30
+0.0
+ 11
+128.800000
+ 21
+9.225000
+ 31
+0.0
+  0
+LINE
+  5
+97
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+132.450000
+ 20
+10.150000
+ 30
+0.0
+ 11
+129.725000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+98
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+132.450000
+ 20
+11.500000
+ 30
+0.0
+ 11
+132.450000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+99
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+133.800000
+ 20
+10.575000
+ 30
+0.0
+ 11
+133.875000
+ 21
+10.900000
+ 31
+0.0
+  0
+LINE
+  5
+9a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+133.875000
+ 20
+10.900000
+ 30
+0.0
+ 11
+134.050000
+ 21
+11.150000
+ 31
+0.0
+  0
+LINE
+  5
+9b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+134.050000
+ 20
+11.150000
+ 30
+0.0
+ 11
+134.275000
+ 21
+11.375000
+ 31
+0.0
+  0
+LINE
+  5
+9c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+134.275000
+ 20
+11.375000
+ 30
+0.0
+ 11
+134.600000
+ 21
+11.450000
+ 31
+0.0
+  0
+LINE
+  5
+9d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+134.600000
+ 20
+11.450000
+ 30
+0.0
+ 11
+134.925000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+9e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+134.925000
+ 20
+11.500000
+ 30
+0.0
+ 11
+135.200000
+ 21
+11.425000
+ 31
+0.0
+  0
+LINE
+  5
+9f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+135.200000
+ 20
+11.425000
+ 30
+0.0
+ 11
+135.475000
+ 21
+11.225000
+ 31
+0.0
+  0
+LINE
+  5
+a0
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+135.475000
+ 20
+11.225000
+ 30
+0.0
+ 11
+135.650000
+ 21
+11.050000
+ 31
+0.0
+  0
+LINE
+  5
+a1
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+142.050000
+ 20
+2.375000
+ 30
+0.0
+ 11
+141.925000
+ 21
+2.050000
+ 31
+0.0
+  0
+LINE
+  5
+a2
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+141.925000
+ 20
+2.050000
+ 30
+0.0
+ 11
+141.750000
+ 21
+1.775000
+ 31
+0.0
+  0
+LINE
+  5
+a3
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+141.750000
+ 20
+1.775000
+ 30
+0.0
+ 11
+141.525000
+ 21
+1.625000
+ 31
+0.0
+  0
+LINE
+  5
+a4
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+141.525000
+ 20
+1.625000
+ 30
+0.0
+ 11
+141.250000
+ 21
+1.500000
+ 31
+0.0
+  0
+LINE
+  5
+a5
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+141.250000
+ 20
+1.500000
+ 30
+0.0
+ 11
+140.875000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+a6
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+140.875000
+ 20
+1.450000
+ 30
+0.0
+ 11
+140.600000
+ 21
+1.550000
+ 31
+0.0
+  0
+LINE
+  5
+a7
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+140.600000
+ 20
+1.550000
+ 30
+0.0
+ 11
+140.325000
+ 21
+1.700000
+ 31
+0.0
+  0
+LINE
+  5
+a8
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+140.325000
+ 20
+1.700000
+ 30
+0.0
+ 11
+140.200000
+ 21
+1.950000
+ 31
+0.0
+  0
+LINE
+  5
+a9
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+135.650000
+ 20
+11.050000
+ 30
+0.0
+ 11
+140.650000
+ 21
+5.575000
+ 31
+0.0
+  0
+LINE
+  5
+aa
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+140.650000
+ 20
+5.575000
+ 30
+0.0
+ 11
+140.650000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+ab
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+140.650000
+ 20
+11.500000
+ 30
+0.0
+ 11
+142.050000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+ac
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+142.050000
+ 20
+11.500000
+ 30
+0.0
+ 11
+142.050000
+ 21
+2.375000
+ 31
+0.0
+  0
+LINE
+  5
+ad
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+140.200000
+ 20
+1.950000
+ 30
+0.0
+ 11
+135.150000
+ 21
+7.375000
+ 31
+0.0
+  0
+LINE
+  5
+ae
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+135.150000
+ 20
+7.375000
+ 30
+0.0
+ 11
+135.150000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+af
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+135.150000
+ 20
+1.450000
+ 30
+0.0
+ 11
+133.800000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+b0
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+133.800000
+ 20
+1.450000
+ 30
+0.0
+ 11
+133.800000
+ 21
+10.575000
+ 31
+0.0
+  0
+LINE
+  5
+b1
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+143.400000
+ 20
+11.500000
+ 30
+0.0
+ 11
+146.125000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+b2
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+146.125000
+ 20
+11.500000
+ 30
+0.0
+ 11
+146.125000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+b3
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+146.125000
+ 20
+1.450000
+ 30
+0.0
+ 11
+143.400000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+b4
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+143.400000
+ 20
+1.450000
+ 30
+0.0
+ 11
+143.400000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+b5
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+151.600000
+ 20
+7.375000
+ 30
+0.0
+ 11
+151.875000
+ 21
+7.300000
+ 31
+0.0
+  0
+LINE
+  5
+b6
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+151.875000
+ 20
+7.300000
+ 30
+0.0
+ 11
+152.150000
+ 21
+7.150000
+ 31
+0.0
+  0
+LINE
+  5
+b7
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+152.150000
+ 20
+7.150000
+ 30
+0.0
+ 11
+152.450000
+ 21
+6.975000
+ 31
+0.0
+  0
+LINE
+  5
+b8
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+152.450000
+ 20
+6.975000
+ 30
+0.0
+ 11
+152.675000
+ 21
+6.825000
+ 31
+0.0
+  0
+LINE
+  5
+b9
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+152.675000
+ 20
+6.825000
+ 30
+0.0
+ 11
+152.925000
+ 21
+6.575000
+ 31
+0.0
+  0
+LINE
+  5
+ba
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+152.925000
+ 20
+6.575000
+ 30
+0.0
+ 11
+153.150000
+ 21
+6.350000
+ 31
+0.0
+  0
+LINE
+  5
+bb
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.150000
+ 20
+6.350000
+ 30
+0.0
+ 11
+153.325000
+ 21
+6.100000
+ 31
+0.0
+  0
+LINE
+  5
+bc
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.325000
+ 20
+6.100000
+ 30
+0.0
+ 11
+153.475000
+ 21
+5.825000
+ 31
+0.0
+  0
+LINE
+  5
+bd
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.475000
+ 20
+5.825000
+ 30
+0.0
+ 11
+153.650000
+ 21
+5.550000
+ 31
+0.0
+  0
+LINE
+  5
+be
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.650000
+ 20
+5.550000
+ 30
+0.0
+ 11
+153.725000
+ 21
+5.225000
+ 31
+0.0
+  0
+LINE
+  5
+bf
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.725000
+ 20
+5.225000
+ 30
+0.0
+ 11
+153.800000
+ 21
+4.950000
+ 31
+0.0
+  0
+LINE
+  5
+c0
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.800000
+ 20
+4.950000
+ 30
+0.0
+ 11
+153.850000
+ 21
+4.625000
+ 31
+0.0
+  0
+LINE
+  5
+c1
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.850000
+ 20
+4.625000
+ 30
+0.0
+ 11
+153.875000
+ 21
+4.300000
+ 31
+0.0
+  0
+LINE
+  5
+c2
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.875000
+ 20
+4.300000
+ 30
+0.0
+ 11
+153.850000
+ 21
+3.975000
+ 31
+0.0
+  0
+LINE
+  5
+c3
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.850000
+ 20
+3.975000
+ 30
+0.0
+ 11
+153.800000
+ 21
+3.650000
+ 31
+0.0
+  0
+LINE
+  5
+c4
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.800000
+ 20
+3.650000
+ 30
+0.0
+ 11
+153.725000
+ 21
+3.375000
+ 31
+0.0
+  0
+LINE
+  5
+c5
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.725000
+ 20
+3.375000
+ 30
+0.0
+ 11
+153.600000
+ 21
+3.050000
+ 31
+0.0
+  0
+LINE
+  5
+c6
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.600000
+ 20
+3.050000
+ 30
+0.0
+ 11
+153.475000
+ 21
+2.775000
+ 31
+0.0
+  0
+LINE
+  5
+c7
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.475000
+ 20
+2.775000
+ 30
+0.0
+ 11
+153.275000
+ 21
+2.500000
+ 31
+0.0
+  0
+LINE
+  5
+c8
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.275000
+ 20
+2.500000
+ 30
+0.0
+ 11
+153.075000
+ 21
+2.250000
+ 31
+0.0
+  0
+LINE
+  5
+c9
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.075000
+ 20
+2.250000
+ 30
+0.0
+ 11
+152.875000
+ 21
+2.025000
+ 31
+0.0
+  0
+LINE
+  5
+ca
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+152.875000
+ 20
+2.025000
+ 30
+0.0
+ 11
+152.600000
+ 21
+1.825000
+ 31
+0.0
+  0
+LINE
+  5
+cb
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+152.600000
+ 20
+1.825000
+ 30
+0.0
+ 11
+152.350000
+ 21
+1.625000
+ 31
+0.0
+  0
+LINE
+  5
+cc
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+152.350000
+ 20
+1.625000
+ 30
+0.0
+ 11
+152.075000
+ 21
+1.500000
+ 31
+0.0
+  0
+LINE
+  5
+cd
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+152.075000
+ 20
+1.500000
+ 30
+0.0
+ 11
+152.050000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+ce
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.750000
+ 20
+5.575000
+ 30
+0.0
+ 11
+149.450000
+ 21
+5.650000
+ 31
+0.0
+  0
+LINE
+  5
+cf
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.450000
+ 20
+5.650000
+ 30
+0.0
+ 11
+149.150000
+ 21
+5.775000
+ 31
+0.0
+  0
+LINE
+  5
+d0
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.150000
+ 20
+5.775000
+ 30
+0.0
+ 11
+148.925000
+ 21
+5.950000
+ 31
+0.0
+  0
+LINE
+  5
+d1
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+148.925000
+ 20
+5.950000
+ 30
+0.0
+ 11
+148.650000
+ 21
+6.175000
+ 31
+0.0
+  0
+LINE
+  5
+d2
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+148.650000
+ 20
+6.175000
+ 30
+0.0
+ 11
+148.400000
+ 21
+6.375000
+ 31
+0.0
+  0
+LINE
+  5
+d3
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+148.400000
+ 20
+6.375000
+ 30
+0.0
+ 11
+148.200000
+ 21
+6.575000
+ 31
+0.0
+  0
+LINE
+  5
+d4
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+148.200000
+ 20
+6.575000
+ 30
+0.0
+ 11
+148.000000
+ 21
+6.850000
+ 31
+0.0
+  0
+LINE
+  5
+d5
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+148.000000
+ 20
+6.850000
+ 30
+0.0
+ 11
+147.850000
+ 21
+7.150000
+ 31
+0.0
+  0
+LINE
+  5
+d6
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.850000
+ 20
+7.150000
+ 30
+0.0
+ 11
+147.725000
+ 21
+7.425000
+ 31
+0.0
+  0
+LINE
+  5
+d7
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.725000
+ 20
+7.425000
+ 30
+0.0
+ 11
+147.600000
+ 21
+7.700000
+ 31
+0.0
+  0
+LINE
+  5
+d8
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.600000
+ 20
+7.700000
+ 30
+0.0
+ 11
+147.525000
+ 21
+8.025000
+ 31
+0.0
+  0
+LINE
+  5
+d9
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.525000
+ 20
+8.025000
+ 30
+0.0
+ 11
+147.475000
+ 21
+8.350000
+ 31
+0.0
+  0
+LINE
+  5
+da
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.475000
+ 20
+8.350000
+ 30
+0.0
+ 11
+147.475000
+ 21
+8.650000
+ 31
+0.0
+  0
+LINE
+  5
+db
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.475000
+ 20
+8.650000
+ 30
+0.0
+ 11
+147.475000
+ 21
+8.975000
+ 31
+0.0
+  0
+LINE
+  5
+dc
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.475000
+ 20
+8.975000
+ 30
+0.0
+ 11
+147.550000
+ 21
+9.300000
+ 31
+0.0
+  0
+LINE
+  5
+dd
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.550000
+ 20
+9.300000
+ 30
+0.0
+ 11
+147.650000
+ 21
+9.625000
+ 31
+0.0
+  0
+LINE
+  5
+de
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.650000
+ 20
+9.625000
+ 30
+0.0
+ 11
+147.725000
+ 21
+9.900000
+ 31
+0.0
+  0
+LINE
+  5
+df
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.725000
+ 20
+9.900000
+ 30
+0.0
+ 11
+147.875000
+ 21
+10.175000
+ 31
+0.0
+  0
+LINE
+  5
+e0
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.875000
+ 20
+10.175000
+ 30
+0.0
+ 11
+148.050000
+ 21
+10.450000
+ 31
+0.0
+  0
+LINE
+  5
+e1
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+148.050000
+ 20
+10.450000
+ 30
+0.0
+ 11
+148.275000
+ 21
+10.700000
+ 31
+0.0
+  0
+LINE
+  5
+e2
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+148.275000
+ 20
+10.700000
+ 30
+0.0
+ 11
+148.475000
+ 21
+10.950000
+ 31
+0.0
+  0
+LINE
+  5
+e3
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+148.475000
+ 20
+10.950000
+ 30
+0.0
+ 11
+148.725000
+ 21
+11.150000
+ 31
+0.0
+  0
+LINE
+  5
+e4
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+148.725000
+ 20
+11.150000
+ 30
+0.0
+ 11
+148.950000
+ 21
+11.300000
+ 31
+0.0
+  0
+LINE
+  5
+e5
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+148.950000
+ 20
+11.300000
+ 30
+0.0
+ 11
+149.250000
+ 21
+11.450000
+ 31
+0.0
+  0
+LINE
+  5
+e6
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.250000
+ 20
+11.450000
+ 30
+0.0
+ 11
+149.325000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+e7
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.325000
+ 20
+11.500000
+ 30
+0.0
+ 11
+153.875000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+e8
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.875000
+ 20
+11.500000
+ 30
+0.0
+ 11
+153.875000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+e9
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+153.875000
+ 20
+10.150000
+ 30
+0.0
+ 11
+150.675000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+ea
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+152.050000
+ 20
+1.450000
+ 30
+0.0
+ 11
+147.475000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+eb
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.475000
+ 20
+1.450000
+ 30
+0.0
+ 11
+147.475000
+ 21
+2.825000
+ 31
+0.0
+  0
+LINE
+  5
+ec
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+147.475000
+ 20
+2.825000
+ 30
+0.0
+ 11
+150.675000
+ 21
+2.825000
+ 31
+0.0
+  0
+LINE
+  5
+ed
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+150.675000
+ 20
+5.150000
+ 30
+0.0
+ 11
+149.750000
+ 21
+5.575000
+ 31
+0.0
+  0
+LINE
+  5
+ee
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+151.600000
+ 20
+7.375000
+ 30
+0.0
+ 11
+150.675000
+ 21
+7.850000
+ 31
+0.0
+  0
+LINE
+  5
+ef
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+155.250000
+ 20
+1.450000
+ 30
+0.0
+ 11
+155.250000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+f0
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+155.250000
+ 20
+11.500000
+ 30
+0.0
+ 11
+157.950000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+f1
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+157.950000
+ 20
+11.500000
+ 30
+0.0
+ 11
+157.950000
+ 21
+7.375000
+ 31
+0.0
+  0
+LINE
+  5
+f2
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+157.950000
+ 20
+7.375000
+ 30
+0.0
+ 11
+160.725000
+ 21
+7.375000
+ 31
+0.0
+  0
+LINE
+  5
+f3
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+160.725000
+ 20
+7.375000
+ 30
+0.0
+ 11
+160.725000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+f4
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+160.725000
+ 20
+11.500000
+ 30
+0.0
+ 11
+163.450000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+f5
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+163.450000
+ 20
+11.500000
+ 30
+0.0
+ 11
+163.450000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+f6
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+163.450000
+ 20
+1.450000
+ 30
+0.0
+ 11
+160.725000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+f7
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+160.725000
+ 20
+1.450000
+ 30
+0.0
+ 11
+160.725000
+ 21
+6.025000
+ 31
+0.0
+  0
+LINE
+  5
+f8
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+160.725000
+ 20
+6.025000
+ 30
+0.0
+ 11
+157.950000
+ 21
+6.025000
+ 31
+0.0
+  0
+LINE
+  5
+f9
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+157.950000
+ 20
+6.025000
+ 30
+0.0
+ 11
+157.950000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+fa
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+157.950000
+ 20
+1.450000
+ 30
+0.0
+ 11
+155.250000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+fb
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+167.050000
+ 20
+4.750000
+ 30
+0.0
+ 11
+169.350000
+ 21
+4.750000
+ 31
+0.0
+  0
+LINE
+  5
+fc
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+169.350000
+ 20
+4.750000
+ 30
+0.0
+ 11
+168.200000
+ 21
+8.225000
+ 31
+0.0
+  0
+LINE
+  5
+fd
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+168.200000
+ 20
+8.225000
+ 30
+0.0
+ 11
+167.050000
+ 21
+4.750000
+ 31
+0.0
+  0
+LINE
+  5
+fe
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+167.150000
+ 20
+10.225000
+ 30
+0.0
+ 11
+167.325000
+ 21
+10.500000
+ 31
+0.0
+  0
+LINE
+  5
+ff
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+167.325000
+ 20
+10.500000
+ 30
+0.0
+ 11
+167.450000
+ 21
+10.775000
+ 31
+0.0
+  0
+LINE
+  5
+100
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+167.450000
+ 20
+10.775000
+ 30
+0.0
+ 11
+167.675000
+ 21
+11.025000
+ 31
+0.0
+  0
+LINE
+  5
+101
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+167.675000
+ 20
+11.025000
+ 30
+0.0
+ 11
+167.925000
+ 21
+11.225000
+ 31
+0.0
+  0
+LINE
+  5
+102
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+167.925000
+ 20
+11.225000
+ 30
+0.0
+ 11
+168.200000
+ 21
+11.375000
+ 31
+0.0
+  0
+LINE
+  5
+103
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+168.200000
+ 20
+11.375000
+ 30
+0.0
+ 11
+168.525000
+ 21
+11.450000
+ 31
+0.0
+  0
+LINE
+  5
+104
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+168.525000
+ 20
+11.450000
+ 30
+0.0
+ 11
+168.850000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+105
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+168.850000
+ 20
+11.500000
+ 30
+0.0
+ 11
+169.150000
+ 21
+11.450000
+ 31
+0.0
+  0
+LINE
+  5
+106
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+169.150000
+ 20
+11.450000
+ 30
+0.0
+ 11
+169.475000
+ 21
+11.425000
+ 31
+0.0
+  0
+LINE
+  5
+107
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+169.475000
+ 20
+11.425000
+ 30
+0.0
+ 11
+169.750000
+ 21
+11.300000
+ 31
+0.0
+  0
+LINE
+  5
+108
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+169.750000
+ 20
+11.300000
+ 30
+0.0
+ 11
+170.000000
+ 21
+11.100000
+ 31
+0.0
+  0
+LINE
+  5
+109
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+170.000000
+ 20
+11.100000
+ 30
+0.0
+ 11
+170.275000
+ 21
+10.900000
+ 31
+0.0
+  0
+LINE
+  5
+10a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+170.275000
+ 20
+10.900000
+ 30
+0.0
+ 11
+170.450000
+ 21
+10.625000
+ 31
+0.0
+  0
+LINE
+  5
+10b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+170.450000
+ 20
+10.625000
+ 30
+0.0
+ 11
+170.600000
+ 21
+10.350000
+ 31
+0.0
+  0
+LINE
+  5
+10c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+170.600000
+ 20
+10.350000
+ 30
+0.0
+ 11
+170.650000
+ 21
+10.225000
+ 31
+0.0
+  0
+LINE
+  5
+10d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+167.150000
+ 20
+10.225000
+ 30
+0.0
+ 11
+164.800000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+10e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+164.800000
+ 20
+1.450000
+ 30
+0.0
+ 11
+166.200000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+10f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+166.200000
+ 20
+1.450000
+ 30
+0.0
+ 11
+166.650000
+ 21
+3.300000
+ 31
+0.0
+  0
+LINE
+  5
+110
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+166.650000
+ 20
+3.300000
+ 30
+0.0
+ 11
+169.850000
+ 21
+3.300000
+ 31
+0.0
+  0
+LINE
+  5
+111
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+169.850000
+ 20
+3.300000
+ 30
+0.0
+ 11
+170.275000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+112
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+170.275000
+ 20
+1.450000
+ 30
+0.0
+ 11
+173.000000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+113
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+173.000000
+ 20
+1.450000
+ 30
+0.0
+ 11
+170.650000
+ 21
+10.300000
+ 31
+0.0
+  0
+LINE
+  5
+114
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+150.675000
+ 20
+7.850000
+ 30
+0.0
+ 11
+150.350000
+ 21
+7.950000
+ 31
+0.0
+  0
+LINE
+  5
+115
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+150.350000
+ 20
+7.950000
+ 30
+0.0
+ 11
+150.125000
+ 21
+8.100000
+ 31
+0.0
+  0
+LINE
+  5
+116
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+150.125000
+ 20
+8.100000
+ 30
+0.0
+ 11
+149.875000
+ 21
+8.375000
+ 31
+0.0
+  0
+LINE
+  5
+117
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.875000
+ 20
+8.375000
+ 30
+0.0
+ 11
+149.800000
+ 21
+8.650000
+ 31
+0.0
+  0
+LINE
+  5
+118
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.800000
+ 20
+8.650000
+ 30
+0.0
+ 11
+149.725000
+ 21
+8.975000
+ 31
+0.0
+  0
+LINE
+  5
+119
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.725000
+ 20
+8.975000
+ 30
+0.0
+ 11
+149.750000
+ 21
+9.300000
+ 31
+0.0
+  0
+LINE
+  5
+11a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.750000
+ 20
+9.300000
+ 30
+0.0
+ 11
+149.875000
+ 21
+9.575000
+ 31
+0.0
+  0
+LINE
+  5
+11b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+149.875000
+ 20
+9.575000
+ 30
+0.0
+ 11
+150.125000
+ 21
+9.825000
+ 31
+0.0
+  0
+LINE
+  5
+11c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+150.125000
+ 20
+9.825000
+ 30
+0.0
+ 11
+150.350000
+ 21
+10.025000
+ 31
+0.0
+  0
+LINE
+  5
+11d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+150.350000
+ 20
+10.025000
+ 30
+0.0
+ 11
+150.650000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+11e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+150.650000
+ 20
+10.150000
+ 30
+0.0
+ 11
+150.675000
+ 21
+10.150000
+ 31
+0.0
+  0
+LINE
+  5
+11f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+150.675000
+ 20
+5.150000
+ 30
+0.0
+ 11
+150.950000
+ 21
+4.975000
+ 31
+0.0
+  0
+LINE
+  5
+120
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+150.950000
+ 20
+4.975000
+ 30
+0.0
+ 11
+151.250000
+ 21
+4.825000
+ 31
+0.0
+  0
+LINE
+  5
+121
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+151.250000
+ 20
+4.825000
+ 30
+0.0
+ 11
+151.450000
+ 21
+4.575000
+ 31
+0.0
+  0
+LINE
+  5
+122
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+151.450000
+ 20
+4.575000
+ 30
+0.0
+ 11
+151.550000
+ 21
+4.300000
+ 31
+0.0
+  0
+LINE
+  5
+123
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+151.550000
+ 20
+4.300000
+ 30
+0.0
+ 11
+151.600000
+ 21
+3.975000
+ 31
+0.0
+  0
+LINE
+  5
+124
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+151.600000
+ 20
+3.975000
+ 30
+0.0
+ 11
+151.550000
+ 21
+3.650000
+ 31
+0.0
+  0
+LINE
+  5
+125
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+151.550000
+ 20
+3.650000
+ 30
+0.0
+ 11
+151.450000
+ 21
+3.375000
+ 31
+0.0
+  0
+LINE
+  5
+126
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+151.450000
+ 20
+3.375000
+ 30
+0.0
+ 11
+151.250000
+ 21
+3.150000
+ 31
+0.0
+  0
+LINE
+  5
+127
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+151.250000
+ 20
+3.150000
+ 30
+0.0
+ 11
+150.950000
+ 21
+2.950000
+ 31
+0.0
+  0
+LINE
+  5
+128
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+150.950000
+ 20
+2.950000
+ 30
+0.0
+ 11
+150.675000
+ 21
+2.825000
+ 31
+0.0
+  0
+LINE
+  5
+129
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+254.000000
+ 20
+0.000000
+ 30
+0.0
+ 11
+254.000000
+ 21
+13.000000
+ 31
+0.0
+  0
+LINE
+  5
+12a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+287.000000
+ 20
+242.000000
+ 30
+0.0
+ 11
+287.000000
+ 21
+238.000000
+ 31
+0.0
+  0
+LINE
+  5
+12b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+336.000000
+ 20
+61.000000
+ 30
+0.0
+ 11
+340.000000
+ 21
+61.000000
+ 31
+0.0
+  0
+LINE
+  5
+12c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+0.000000
+ 20
+122.000000
+ 30
+0.0
+ 11
+4.000000
+ 21
+122.000000
+ 31
+0.0
+  0
+LINE
+  5
+12d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+336.000000
+ 20
+122.000000
+ 30
+0.0
+ 11
+340.000000
+ 21
+122.000000
+ 31
+0.0
+  0
+LINE
+  5
+12e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+0.000000
+ 20
+183.000000
+ 30
+0.0
+ 11
+4.000000
+ 21
+183.000000
+ 31
+0.0
+  0
+LINE
+  5
+12f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+336.000000
+ 20
+183.000000
+ 30
+0.0
+ 11
+340.000000
+ 21
+183.000000
+ 31
+0.0
+  0
+LINE
+  5
+130
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+58.000000
+ 20
+242.000000
+ 30
+0.0
+ 11
+58.000000
+ 21
+238.000000
+ 31
+0.0
+  0
+LINE
+  5
+131
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+115.000000
+ 20
+242.000000
+ 30
+0.0
+ 11
+115.000000
+ 21
+238.000000
+ 31
+0.0
+  0
+LINE
+  5
+132
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+172.000000
+ 20
+242.000000
+ 30
+0.0
+ 11
+172.000000
+ 21
+238.000000
+ 31
+0.0
+  0
+LINE
+  5
+133
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+229.000000
+ 20
+242.000000
+ 30
+0.0
+ 11
+229.000000
+ 21
+238.000000
+ 31
+0.0
+  0
+LINE
+  5
+134
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.600000
+ 20
+2.225000
+ 30
+0.0
+ 11
+185.850000
+ 21
+2.225000
+ 31
+0.0
+  0
+LINE
+  5
+135
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.850000
+ 20
+2.225000
+ 30
+0.0
+ 11
+185.850000
+ 21
+2.975000
+ 31
+0.0
+  0
+LINE
+  5
+136
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.850000
+ 20
+2.975000
+ 30
+0.0
+ 11
+186.750000
+ 21
+2.975000
+ 31
+0.0
+  0
+LINE
+  5
+137
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.750000
+ 20
+2.975000
+ 30
+0.0
+ 11
+186.950000
+ 21
+2.950000
+ 31
+0.0
+  0
+LINE
+  5
+138
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.950000
+ 20
+2.950000
+ 30
+0.0
+ 11
+187.075000
+ 21
+2.850000
+ 31
+0.0
+  0
+LINE
+  5
+139
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.075000
+ 20
+2.850000
+ 30
+0.0
+ 11
+187.125000
+ 21
+2.775000
+ 31
+0.0
+  0
+LINE
+  5
+13a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.125000
+ 20
+2.775000
+ 30
+0.0
+ 11
+187.150000
+ 21
+2.650000
+ 31
+0.0
+  0
+LINE
+  5
+13b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.150000
+ 20
+2.650000
+ 30
+0.0
+ 11
+187.150000
+ 21
+2.500000
+ 31
+0.0
+  0
+LINE
+  5
+13c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.150000
+ 20
+2.500000
+ 30
+0.0
+ 11
+187.125000
+ 21
+2.425000
+ 31
+0.0
+  0
+LINE
+  5
+13d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.125000
+ 20
+2.425000
+ 30
+0.0
+ 11
+187.075000
+ 21
+2.350000
+ 31
+0.0
+  0
+LINE
+  5
+13e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.075000
+ 20
+2.350000
+ 30
+0.0
+ 11
+186.950000
+ 21
+2.250000
+ 31
+0.0
+  0
+LINE
+  5
+13f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.950000
+ 20
+2.250000
+ 30
+0.0
+ 11
+186.750000
+ 21
+2.225000
+ 31
+0.0
+  0
+LINE
+  5
+140
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.750000
+ 20
+2.225000
+ 30
+0.0
+ 11
+186.600000
+ 21
+2.225000
+ 31
+0.0
+  0
+LINE
+  5
+141
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.600000
+ 20
+2.225000
+ 30
+0.0
+ 11
+187.150000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+142
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.850000
+ 20
+1.450000
+ 30
+0.0
+ 11
+185.850000
+ 21
+2.225000
+ 31
+0.0
+  0
+LINE
+  5
+143
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.800000
+ 20
+2.175000
+ 30
+0.0
+ 11
+187.750000
+ 21
+2.500000
+ 31
+0.0
+  0
+LINE
+  5
+144
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.750000
+ 20
+2.500000
+ 30
+0.0
+ 11
+187.650000
+ 21
+2.825000
+ 31
+0.0
+  0
+LINE
+  5
+145
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.650000
+ 20
+2.825000
+ 30
+0.0
+ 11
+187.475000
+ 21
+3.050000
+ 31
+0.0
+  0
+LINE
+  5
+146
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.475000
+ 20
+3.050000
+ 30
+0.0
+ 11
+187.250000
+ 21
+3.300000
+ 31
+0.0
+  0
+LINE
+  5
+147
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.250000
+ 20
+3.300000
+ 30
+0.0
+ 11
+186.950000
+ 21
+3.450000
+ 31
+0.0
+  0
+LINE
+  5
+148
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.950000
+ 20
+3.450000
+ 30
+0.0
+ 11
+186.650000
+ 21
+3.550000
+ 31
+0.0
+  0
+LINE
+  5
+149
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.650000
+ 20
+3.550000
+ 30
+0.0
+ 11
+186.325000
+ 21
+3.550000
+ 31
+0.0
+  0
+LINE
+  5
+14a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.325000
+ 20
+3.550000
+ 30
+0.0
+ 11
+186.000000
+ 21
+3.500000
+ 31
+0.0
+  0
+LINE
+  5
+14b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.000000
+ 20
+3.500000
+ 30
+0.0
+ 11
+185.725000
+ 21
+3.375000
+ 31
+0.0
+  0
+LINE
+  5
+14c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.725000
+ 20
+3.375000
+ 30
+0.0
+ 11
+185.475000
+ 21
+3.175000
+ 31
+0.0
+  0
+LINE
+  5
+14d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.475000
+ 20
+3.175000
+ 30
+0.0
+ 11
+185.275000
+ 21
+2.950000
+ 31
+0.0
+  0
+LINE
+  5
+14e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.275000
+ 20
+2.950000
+ 30
+0.0
+ 11
+185.125000
+ 21
+2.650000
+ 31
+0.0
+  0
+LINE
+  5
+14f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.125000
+ 20
+2.650000
+ 30
+0.0
+ 11
+185.050000
+ 21
+2.350000
+ 31
+0.0
+  0
+LINE
+  5
+150
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.050000
+ 20
+2.350000
+ 30
+0.0
+ 11
+185.050000
+ 21
+2.025000
+ 31
+0.0
+  0
+LINE
+  5
+151
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.050000
+ 20
+2.025000
+ 30
+0.0
+ 11
+185.125000
+ 21
+1.700000
+ 31
+0.0
+  0
+LINE
+  5
+152
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.125000
+ 20
+1.700000
+ 30
+0.0
+ 11
+185.250000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+153
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.250000
+ 20
+1.450000
+ 30
+0.0
+ 11
+185.475000
+ 21
+1.175000
+ 31
+0.0
+  0
+LINE
+  5
+154
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.475000
+ 20
+1.175000
+ 30
+0.0
+ 11
+185.725000
+ 21
+1.025000
+ 31
+0.0
+  0
+LINE
+  5
+155
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.725000
+ 20
+1.025000
+ 30
+0.0
+ 11
+186.000000
+ 21
+0.900000
+ 31
+0.0
+  0
+LINE
+  5
+156
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.000000
+ 20
+0.900000
+ 30
+0.0
+ 11
+186.325000
+ 21
+0.825000
+ 31
+0.0
+  0
+LINE
+  5
+157
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.325000
+ 20
+0.825000
+ 30
+0.0
+ 11
+186.650000
+ 21
+0.850000
+ 31
+0.0
+  0
+LINE
+  5
+158
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.650000
+ 20
+0.850000
+ 30
+0.0
+ 11
+187.250000
+ 21
+1.050000
+ 31
+0.0
+  0
+LINE
+  5
+159
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.250000
+ 20
+1.050000
+ 30
+0.0
+ 11
+187.450000
+ 21
+1.300000
+ 31
+0.0
+  0
+LINE
+  5
+15a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.450000
+ 20
+1.300000
+ 30
+0.0
+ 11
+187.650000
+ 21
+1.575000
+ 31
+0.0
+  0
+LINE
+  5
+15b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.650000
+ 20
+1.575000
+ 30
+0.0
+ 11
+187.750000
+ 21
+1.850000
+ 31
+0.0
+  0
+LINE
+  5
+15c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+187.750000
+ 20
+1.850000
+ 30
+0.0
+ 11
+187.800000
+ 21
+2.175000
+ 31
+0.0
+  0
+LINE
+  5
+15d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+184.125000
+ 20
+2.175000
+ 30
+0.0
+ 11
+184.050000
+ 21
+1.850000
+ 31
+0.0
+  0
+LINE
+  5
+15e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+184.050000
+ 20
+1.850000
+ 30
+0.0
+ 11
+183.850000
+ 21
+1.625000
+ 31
+0.0
+  0
+LINE
+  5
+15f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+183.850000
+ 20
+1.625000
+ 30
+0.0
+ 11
+183.550000
+ 21
+1.500000
+ 31
+0.0
+  0
+LINE
+  5
+160
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+183.550000
+ 20
+1.500000
+ 30
+0.0
+ 11
+183.325000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+161
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+181.050000
+ 20
+2.100000
+ 30
+0.0
+ 11
+181.125000
+ 21
+1.775000
+ 31
+0.0
+  0
+LINE
+  5
+162
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+181.125000
+ 20
+1.775000
+ 30
+0.0
+ 11
+181.325000
+ 21
+1.550000
+ 31
+0.0
+  0
+LINE
+  5
+163
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+181.325000
+ 20
+1.550000
+ 30
+0.0
+ 11
+181.600000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+164
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+181.600000
+ 20
+1.450000
+ 30
+0.0
+ 11
+181.875000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+165
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+177.750000
+ 20
+2.100000
+ 30
+0.0
+ 11
+177.650000
+ 21
+1.825000
+ 31
+0.0
+  0
+LINE
+  5
+166
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+177.650000
+ 20
+1.825000
+ 30
+0.0
+ 11
+177.400000
+ 21
+1.575000
+ 31
+0.0
+  0
+LINE
+  5
+167
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+177.400000
+ 20
+1.575000
+ 30
+0.0
+ 11
+177.075000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+168
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+177.075000
+ 20
+1.450000
+ 30
+0.0
+ 11
+176.925000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+169
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+174.650000
+ 20
+2.100000
+ 30
+0.0
+ 11
+174.750000
+ 21
+1.825000
+ 31
+0.0
+  0
+LINE
+  5
+16a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+174.750000
+ 20
+1.825000
+ 30
+0.0
+ 11
+175.000000
+ 21
+1.575000
+ 31
+0.0
+  0
+LINE
+  5
+16b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+175.000000
+ 20
+1.575000
+ 30
+0.0
+ 11
+175.325000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+16c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+175.325000
+ 20
+1.450000
+ 30
+0.0
+ 11
+175.475000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+16d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+175.400000
+ 20
+1.450000
+ 30
+0.0
+ 11
+177.050000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+16e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+177.750000
+ 20
+2.100000
+ 30
+0.0
+ 11
+179.400000
+ 21
+7.375000
+ 31
+0.0
+  0
+LINE
+  5
+16f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+179.400000
+ 20
+7.375000
+ 30
+0.0
+ 11
+181.050000
+ 21
+2.100000
+ 31
+0.0
+  0
+LINE
+  5
+170
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+181.875000
+ 20
+1.450000
+ 30
+0.0
+ 11
+183.325000
+ 21
+1.450000
+ 31
+0.0
+  0
+LINE
+  5
+171
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+184.125000
+ 20
+2.175000
+ 30
+0.0
+ 11
+186.675000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+172
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+186.675000
+ 20
+11.500000
+ 30
+0.0
+ 11
+185.325000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+173
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+185.325000
+ 20
+11.500000
+ 30
+0.0
+ 11
+183.050000
+ 21
+3.750000
+ 31
+0.0
+  0
+LINE
+  5
+174
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+183.050000
+ 20
+3.750000
+ 30
+0.0
+ 11
+181.250000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+175
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+181.250000
+ 20
+11.500000
+ 30
+0.0
+ 11
+178.475000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+176
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+178.475000
+ 20
+11.500000
+ 30
+0.0
+ 11
+178.675000
+ 21
+10.575000
+ 31
+0.0
+  0
+LINE
+  5
+177
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+178.675000
+ 20
+10.575000
+ 30
+0.0
+ 11
+176.675000
+ 21
+3.850000
+ 31
+0.0
+  0
+LINE
+  5
+178
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+176.675000
+ 20
+3.850000
+ 30
+0.0
+ 11
+174.850000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+179
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+174.850000
+ 20
+11.500000
+ 30
+0.0
+ 11
+172.125000
+ 21
+11.500000
+ 31
+0.0
+  0
+LINE
+  5
+17a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+172.125000
+ 20
+11.500000
+ 30
+0.0
+ 11
+174.650000
+ 21
+2.100000
+ 31
+0.0
+  0
+LINE
+  5
+17b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+4.000000
+ 20
+27.000000
+ 30
+0.0
+ 11
+4.000000
+ 21
+238.000000
+ 31
+0.0
+  0
+LINE
+  5
+17c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+4.000000
+ 20
+238.000000
+ 30
+0.0
+ 11
+336.000000
+ 21
+238.000000
+ 31
+0.0
+  0
+LINE
+  5
+17d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+336.000000
+ 20
+238.000000
+ 30
+0.0
+ 11
+336.000000
+ 21
+27.000000
+ 31
+0.0
+  0
+LINE
+  5
+17e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+0.000000
+ 20
+27.000000
+ 30
+0.0
+ 11
+340.000000
+ 21
+27.000000
+ 31
+0.0
+  0
+LINE
+  5
+17f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+111.000000
+ 20
+27.000000
+ 30
+0.0
+ 11
+111.000000
+ 21
+13.000000
+ 31
+0.0
+  0
+TEXT
+  5
+180
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+3.000000
+ 20
+9.800000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.760870
+ 50
+0.000000
+  1
+THIS DRAWING IS THE PROPERTY OF  RENISHAW PLC
+100
+AcDbText
+  0
+TEXT
+  5
+181
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+3.000000
+ 20
+6.700000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.760870
+ 50
+0.000000
+  1
+AND MAY NOT BE COPIED OR USED FOR ANY PURPOSE
+100
+AcDbText
+  0
+TEXT
+  5
+182
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+3.000000
+ 20
+3.600000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.760870
+ 50
+0.000000
+  1
+OTHER THAN THAT FOR WHICH IT IS SUPPLIED, WITHOUT THE
+100
+AcDbText
+  0
+TEXT
+  5
+183
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+3.000000
+ 20
+0.500000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.760870
+ 50
+0.000000
+  1
+EXPRESS WRITTEN AUTHORITY OF RENISHAW PLC.
+100
+AcDbText
+  0
+TEXT
+  5
+184
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+3.000000
+ 20
+21.700000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.760870
+ 50
+0.000000
+  1
+UNLESS OTHERWISE STATED:
+100
+AcDbText
+  0
+TEXT
+  5
+185
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+3.000000
+ 20
+18.600000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.760870
+ 50
+0.000000
+  1
+ALL DIMENSIONS IN MILLIMETRES TOLERANCE +/-0.25, ANGLES +/-5
+100
+AcDbText
+  0
+TEXT
+  5
+186
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+3.000000
+ 20
+15.500000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.760870
+ 50
+0.000000
+  1
+DRAWING PRACTICE TO IPC-2615
+100
+AcDbText
+  0
+ARC
+  5
+187
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbCircle
+ 10
+59.035280
+ 20
+10.990120
+ 30
+0.0
+ 40
+0.979520
+100
+AcDbArc
+ 50
+-90.000000
+ 51
+90.000000
+  0
+ARC
+  5
+188
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbCircle
+ 10
+59.035280
+ 20
+10.990120
+ 30
+0.0
+ 40
+0.979520
+100
+AcDbArc
+ 50
+90.000000
+ 51
+-90.000000
+  0
+ARC
+  5
+189
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbCircle
+ 10
+108.269480
+ 20
+20.751220
+ 30
+0.0
+ 40
+0.293820
+100
+AcDbArc
+ 50
+-90.000000
+ 51
+90.000000
+  0
+ARC
+  5
+18a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbCircle
+ 10
+108.269480
+ 20
+20.751220
+ 30
+0.0
+ 40
+0.293820
+100
+AcDbArc
+ 50
+90.000000
+ 51
+-90.000000
+  0
+TEXT
+  5
+18b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+1.000000
+ 20
+35.500000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+D
+100
+AcDbText
+  0
+TEXT
+  5
+18c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+1.000000
+ 20
+151.500000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+B
+100
+AcDbText
+  0
+TEXT
+  5
+18d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+28.000000
+ 20
+238.500000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+1
+100
+AcDbText
+  0
+TEXT
+  5
+18e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+87.500000
+ 20
+238.500000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+2
+100
+AcDbText
+  0
+TEXT
+  5
+18f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+144.500000
+ 20
+238.500000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+3
+100
+AcDbText
+  0
+TEXT
+  5
+190
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+200.500000
+ 20
+238.500000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+4
+100
+AcDbText
+  0
+TEXT
+  5
+191
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+257.500000
+ 20
+238.500000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+5
+100
+AcDbText
+  0
+TEXT
+  5
+192
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+313.000000
+ 20
+238.500000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+6
+100
+AcDbText
+  0
+TEXT
+  5
+193
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+337.000000
+ 20
+210.000000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+A
+100
+AcDbText
+  0
+TEXT
+  5
+194
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+337.000000
+ 20
+151.500000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+B
+100
+AcDbText
+  0
+TEXT
+  5
+195
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+337.000000
+ 20
+90.000000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+C
+100
+AcDbText
+  0
+TEXT
+  5
+196
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+337.000000
+ 20
+35.500000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+D
+100
+AcDbText
+  0
+TEXT
+  5
+197
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+1.000000
+ 20
+90.000000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+C
+100
+AcDbText
+  0
+TEXT
+  5
+198
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+1.000000
+ 20
+210.000000
+ 30
+0.0
+ 40
+3.000000
+ 41
+0.666667
+ 50
+0.000000
+  1
+A
+100
+AcDbText
+  0
+LINE
+  5
+199
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+122.000000
+ 20
+24.000000
+ 30
+0.0
+ 11
+122.000000
+ 21
+17.000000
+ 31
+0.0
+  0
+ARC
+  5
+19a
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbCircle
+ 10
+122.000000
+ 20
+20.500000
+ 30
+0.0
+ 40
+1.500000
+100
+AcDbArc
+ 50
+90.000000
+ 51
+-90.000000
+  0
+ARC
+  5
+19b
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbCircle
+ 10
+122.000000
+ 20
+20.500000
+ 30
+0.0
+ 40
+1.500000
+100
+AcDbArc
+ 50
+-90.000000
+ 51
+90.000000
+  0
+LINE
+  5
+19c
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+118.500000
+ 20
+20.500000
+ 30
+0.0
+ 11
+125.500000
+ 21
+20.500000
+ 31
+0.0
+  0
+LINE
+  5
+19d
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+130.500000
+ 20
+22.000000
+ 30
+0.0
+ 11
+130.500000
+ 21
+19.000000
+ 31
+0.0
+  0
+LINE
+  5
+19e
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+130.500000
+ 20
+19.000000
+ 30
+0.0
+ 11
+139.500000
+ 21
+17.500000
+ 31
+0.0
+  0
+LINE
+  5
+19f
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+139.500000
+ 20
+17.500000
+ 30
+0.0
+ 11
+139.500000
+ 21
+23.500000
+ 31
+0.0
+  0
+LINE
+  5
+1a0
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+139.500000
+ 20
+23.500000
+ 30
+0.0
+ 11
+130.500000
+ 21
+22.000000
+ 31
+0.0
+  0
+ARC
+  5
+1a1
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbCircle
+ 10
+122.000000
+ 20
+20.500000
+ 30
+0.0
+ 40
+3.000000
+100
+AcDbArc
+ 50
+90.000000
+ 51
+-90.000000
+  0
+ARC
+  5
+1a2
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbCircle
+ 10
+122.000000
+ 20
+20.500000
+ 30
+0.0
+ 40
+3.000000
+100
+AcDbArc
+ 50
+-90.000000
+ 51
+90.000000
+  0
+LINE
+  5
+1a3
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+129.493210
+ 20
+20.500000
+ 30
+0.0
+ 11
+140.491930
+ 21
+20.500000
+ 31
+0.0
+  0
+LINE
+  5
+1a4
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+237.009180
+ 20
+0.000000
+ 30
+0.0
+ 11
+237.009180
+ 21
+13.000000
+ 31
+0.0
+  0
+TEXT
+  5
+1a5
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+58.493850
+ 20
+10.200790
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.630435
+ 50
+0.000000
+  1
+c
+100
+AcDbText
+  0
+TEXT
+  5
+1a6
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+121.500000
+ 20
+13.500000
+ 30
+0.0
+ 40
+1.750000
+ 41
+0.714286
+ 50
+0.000000
+  1
+DO NOT SCALE
+100
+AcDbText
+  0
+LINE
+  5
+1a7
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+111.015580
+ 20
+16.000000
+ 30
+0.0
+ 11
+148.983000
+ 21
+16.000000
+ 31
+0.0
+  0
+TEXT
+  5
+1a8
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+150.000000
+ 20
+24.500000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.615939
+ 50
+0.000000
+  1
+TITLE:
+100
+AcDbText
+  0
+TEXT
+  5
+1a9
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+202.500000
+ 20
+9.150000
+ 30
+0.0
+ 40
+2.000000
+ 41
+0.750000
+ 50
+0.000000
+  1
+WOTTON-UNDER-EDGE
+100
+AcDbText
+  0
+TEXT
+  5
+1aa
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+202.500000
+ 20
+6.600000
+ 30
+0.0
+ 40
+2.000000
+ 41
+0.750000
+ 50
+0.000000
+  1
+GLOUCESTERSHIRE
+100
+AcDbText
+  0
+TEXT
+  5
+1ab
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+202.500000
+ 20
+4.050000
+ 30
+0.0
+ 40
+2.000000
+ 41
+0.750000
+ 50
+0.000000
+  1
+UNITED KINGDOM
+100
+AcDbText
+  0
+TEXT
+  5
+1ac
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+202.500000
+ 20
+1.500000
+ 30
+0.0
+ 40
+2.000000
+ 41
+0.750000
+ 50
+0.000000
+  1
+GL12 8JR
+100
+AcDbText
+  0
+LINE
+  5
+1ad
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+321.000000
+ 20
+13.000000
+ 30
+0.0
+ 11
+321.000000
+ 21
+27.000000
+ 31
+0.0
+  0
+TEXT
+  5
+1ae
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+325.500000
+ 20
+14.000000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.619565
+ 50
+0.000000
+  1
+XXX 2023
+100
+AcDbText
+  0
+LINE
+  5
+1af
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+291.000000
+ 20
+20.000000
+ 30
+0.0
+ 11
+340.000000
+ 21
+20.000000
+ 31
+0.0
+  0
+LINE
+  5
+1b0
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+291.000000
+ 20
+27.000000
+ 30
+0.0
+ 11
+291.000000
+ 21
+13.000000
+ 31
+0.0
+  0
+TEXT
+  5
+1b1
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+243.500000
+ 20
+4.000000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.601448
+ 50
+0.000000
+  1
+N/A
+100
+AcDbText
+  0
+LINE
+  5
+1b2
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+0.000000
+ 20
+0.000000
+ 30
+0.0
+ 11
+340.000000
+ 21
+0.000000
+ 31
+0.0
+  0
+LINE
+  5
+1b3
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbLine
+ 10
+303.500000
+ 20
+13.000000
+ 30
+0.0
+ 11
+303.500000
+ 21
+20.000000
+ 31
+0.0
+  0
+TEXT
+  5
+1b4
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+293.500000
+ 20
+14.000000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.615939
+ 50
+0.000000
+  1
+X OF X
+100
+AcDbText
+  0
+TEXT
+  5
+1b5
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+294.000000
+ 20
+17.500000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.613043
+ 50
+0.000000
+  1
+SHEET
+100
+AcDbText
+  0
+TEXT
+  5
+1b6
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+297.500000
+ 20
+24.500000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.623187
+ 50
+0.000000
+  1
+ISSUE NUMBER
+100
+AcDbText
+  0
+TEXT
+  5
+1b7
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+305.500000
+ 20
+17.500000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.621739
+ 50
+0.000000
+  1
+CHECKED BY
+100
+AcDbText
+  0
+TEXT
+  5
+1b8
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+323.500000
+ 20
+17.500000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.621739
+ 50
+0.000000
+  1
+DRAWN DATE
+100
+AcDbText
+  0
+TEXT
+  5
+1b9
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+325.000000
+ 20
+24.500000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.619565
+ 50
+0.000000
+  1
+DRAWN BY
+100
+AcDbText
+  0
+TEXT
+  5
+1ba
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+242.000000
+ 20
+10.000000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.613043
+ 50
+0.000000
+  1
+SCALE
+100
+AcDbText
+  0
+TEXT
+  5
+1bb
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+255.500000
+ 20
+10.000000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.622526
+ 50
+0.000000
+  1
+DRAWING No.
+100
+AcDbText
+  0
+TEXT
+  5
+1bc
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+259.500000
+ 20
+2.000000
+ 30
+0.0
+ 40
+6.000000
+ 41
+0.776042
+ 50
+0.000000
+  1
+X-XXXX-XXXX-XX-A
+100
+AcDbText
+  0
+TEXT
+  5
+1bd
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+116.500000
+ 20
+24.500000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.626087
+ 50
+0.000000
+  1
+3rd ANGLE PROJECTION
+100
+AcDbText
+  0
+TEXT
+  5
+1be
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+155.500000
+ 20
+20.500000
+ 30
+0.0
+ 40
+2.500000
+ 41
+0.872000
+ 50
+0.000000
+  1
+BOARD NAME
+100
+AcDbText
+  0
+TEXT
+  5
+1bf
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+155.500000
+ 20
+18.000000
+ 30
+0.0
+ 40
+2.500000
+ 41
+0.874284
+ 50
+0.000000
+  1
+NAME RIGID PCB
+100
+AcDbText
+  0
+TEXT
+  5
+1c0
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+155.500000
+ 20
+15.500000
+ 30
+0.0
+ 40
+2.500000
+ 41
+0.877644
+ 50
+0.000000
+  1
+TOP SIDE ASSEMBLY - SMT & HARDWARE
+100
+AcDbText
+  0
+TEXT
+  5
+1c1
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+325.000000
+ 20
+21.000000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.619565
+ 50
+0.000000
+  1
+XX123456
+100
+AcDbText
+  0
+TEXT
+  5
+1c2
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+307.500000
+ 20
+14.000000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.622526
+ 50
+0.000000
+  1
+SEE PCN
+100
+AcDbText
+  0
+TEXT
+  5
+1c3
+100
+AcDbEntity
+  8
+Drawing_Border
+100
+AcDbText
+ 10
+298.500000
+ 20
+21.000000
+ 30
+0.0
+ 40
+2.300000
+ 41
+0.620770
+ 50
+0.000000
+  1
+PCN-000XXXX
+100
+AcDbText
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+1c4
+100
+AcDbDictionary
+  3
+ACAD_GROUP
+350
+1c5
+  3
+ACAD_MLINESTYLE
+350
+1c6
+  0
+DICTIONARY
+  5
+1c5
+102
+{ACAD_REACTORS
+330
+1c4
+102
+}
+100
+AcDbDictionary
+  0
+DICTIONARY
+  5
+1c6
+102
+{ACAD_REACTORS
+330
+1c4
+102
+}
+100
+AcDbDictionary
+  3
+STANDARD
+350
+1c7
+  0
+MLINESTYLE
+  5
+1c7
+102
+{ACAD_REACTORS
+330
+1c6
+102
+}
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+0
+  3
+
+ 62
+256
+ 51
+90.0
+ 52
+90.0
+ 71
+2
+ 49
+0.5
+ 62
+256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+256
+  6
+BYLAYER
+  0
+ENDSEC
+  0
+EOF
