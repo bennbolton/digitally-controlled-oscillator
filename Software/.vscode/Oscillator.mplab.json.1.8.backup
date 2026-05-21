@@ -1,0 +1,218 @@
+{
+    "importedFrom": "Oscillator\\Oscillator.cproj",
+    "version": "1.8",
+    "configurations": [
+        {
+            "name": "Release",
+            "id": "",
+            "device": "ATxmega256A3BU",
+            "imageType": "application",
+            "imagePath": "./out/Oscillator/Release.elf",
+            "toolProperties": "Release-tool-base",
+            "tool": "Simulator",
+            "packs": [
+                {
+                    "name": "XMEGAA_DFP",
+                    "vendor": "Microchip",
+                    "version": "2.3.165"
+                }
+            ],
+            "fileSet": "Release files",
+            "toolchain": "Release-avr-gcc"
+        },
+        {
+            "name": "Debug",
+            "device": "ATxmega256A3BU",
+            "imageType": "application",
+            "imagePath": "./out/Oscillator/Debug.elf",
+            "packs": [
+                {
+                    "name": "XMEGAA_DFP",
+                    "vendor": "Microchip",
+                    "version": "2.3.165"
+                }
+            ],
+            "fileSet": "Debug files",
+            "toolchain": "Debug-avr-gcc"
+        }
+    ],
+    "propertyGroups": [
+        {
+            "name": "Debug-avr-gcc",
+            "type": "toolchain",
+            "provider": "microchip.toolchains:avr-gcc@7.3.0",
+            "properties": {
+                "global.relax-branches": false,
+                "global.external-ram-check": false,
+                "compiler.call-prologues": false,
+                "compiler.no-interrupts": false,
+                "compiler.default-char-type": true,
+                "compiler.default-bitfield-type": true,
+                "compiler.optimization-level": "-O0",
+                "compiler.garbage-collect-functions": true,
+                "compiler.garbage-collect-data": true,
+                "compiler.pack-struct": true,
+                "compiler.short-enums": true,
+                "compiler.short-calls": false,
+                "compiler.no-system-directories": false,
+                "compiler.additional-warnings": true,
+                "compiler.extra-warnings": false,
+                "compiler.undefined-identifier": false,
+                "compiler.make-warnings-into-errors": false,
+                "compiler.syntax-only": false,
+                "compiler.strict-ansi": false,
+                "compiler.strict-ansi-errors": false,
+                "compiler.inhibit-all": false,
+                "compiler.verbose": false,
+                "compiler.support-ansi": false,
+                "compiler.save-temps": false,
+                "linker.no-startup-files": false,
+                "linker.no-default-libs": false,
+                "linker.exclude-standard-libraries": false,
+                "linker.omit-symbol-information": false,
+                "linker.no-shared-libraries": false,
+                "linker.generate-map-file": true,
+                "linker.v-printf": false,
+                "linker.remove-unused-sections": true,
+                "linker.rodata-writable": false,
+                "assembler.announce-version": false,
+                "compiler++.call-prologues": false,
+                "compiler++.no-interrupts": false,
+                "compiler++.default-char-type": false,
+                "compiler++.default-bitfield-type": false,
+                "compiler++.optimization-level": "-O0",
+                "compiler++.garbage-collect-functions": true,
+                "compiler++.garbage-collect-data": true,
+                "compiler++.pack-struct": false,
+                "compiler++.short-enums": false,
+                "compiler++.short-calls": false,
+                "compiler++.no-system-directories": false,
+                "compiler++.preprocess-only": false,
+                "compiler++.additional-warnings": false,
+                "compiler++.undefined-identifier": false,
+                "compiler++.make-warnings-into-errors": false,
+                "compiler++.syntax-only": false,
+                "compiler++.strict-ansi": false,
+                "compiler++.strict-ansi-errors": false,
+                "compiler++.inhibit-all": false,
+                "compiler++.verbose": false,
+                "compiler++.support-ansi": false,
+                "compiler++.save-temps": false,
+                "linker.input-libraries": "m",
+                "compiler.appendMe": [
+                    "-g2"
+                ],
+                "global.omit-pack-options": "true",
+                "global.user-pack-include": [
+                    "C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/XMEGAA_DFP/1.3.146/include"
+                ],
+                "global.user-pack-device-support": "C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/XMEGAA_DFP/1.3.146/gcc/dev/atxmega256a3bu"
+            }
+        },
+        {
+            "name": "Release-avr-gcc",
+            "type": "toolchain",
+            "provider": "microchip.toolchains:avr-gcc@7.3.0",
+            "properties": {
+                "global.relax-branches": false,
+                "global.external-ram-check": false,
+                "compiler.call-prologues": false,
+                "compiler.no-interrupts": false,
+                "compiler.default-char-type": true,
+                "compiler.default-bitfield-type": true,
+                "compiler.optimization-level": "-Os",
+                "compiler.garbage-collect-functions": true,
+                "compiler.garbage-collect-data": true,
+                "compiler.pack-struct": true,
+                "compiler.short-enums": true,
+                "compiler.short-calls": false,
+                "compiler.no-system-directories": false,
+                "compiler.additional-warnings": true,
+                "compiler.extra-warnings": false,
+                "compiler.undefined-identifier": false,
+                "compiler.make-warnings-into-errors": false,
+                "compiler.syntax-only": false,
+                "compiler.strict-ansi": false,
+                "compiler.strict-ansi-errors": false,
+                "compiler.inhibit-all": false,
+                "compiler.verbose": false,
+                "compiler.support-ansi": false,
+                "compiler.save-temps": false,
+                "linker.no-startup-files": false,
+                "linker.no-default-libs": false,
+                "linker.exclude-standard-libraries": false,
+                "linker.omit-symbol-information": false,
+                "linker.no-shared-libraries": false,
+                "linker.generate-map-file": true,
+                "linker.v-printf": false,
+                "linker.remove-unused-sections": true,
+                "linker.rodata-writable": false,
+                "assembler.announce-version": false,
+                "compiler++.call-prologues": false,
+                "compiler++.no-interrupts": false,
+                "compiler++.default-char-type": false,
+                "compiler++.default-bitfield-type": false,
+                "compiler++.optimization-level": "-O0",
+                "compiler++.garbage-collect-functions": true,
+                "compiler++.garbage-collect-data": true,
+                "compiler++.pack-struct": false,
+                "compiler++.short-enums": false,
+                "compiler++.short-calls": false,
+                "compiler++.no-system-directories": false,
+                "compiler++.preprocess-only": false,
+                "compiler++.additional-warnings": false,
+                "compiler++.undefined-identifier": false,
+                "compiler++.make-warnings-into-errors": false,
+                "compiler++.syntax-only": false,
+                "compiler++.strict-ansi": false,
+                "compiler++.strict-ansi-errors": false,
+                "compiler++.inhibit-all": false,
+                "compiler++.verbose": false,
+                "compiler++.support-ansi": false,
+                "compiler++.save-temps": false,
+                "compiler.preprocessor-macros": "NDEBUG",
+                "linker.input-libraries": "m",
+                "global.omit-pack-options": "true",
+                "global.user-pack-include": [
+                    "C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/XMEGAA_DFP/1.3.146/include"
+                ],
+                "global.user-pack-device-support": "C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/XMEGAA_DFP/1.3.146/gcc/dev/atxmega256a3bu"
+            }
+        },
+        {
+            "name": "Release-tool-base",
+            "type": "tool",
+            "properties": {}
+        }
+    ],
+    "fileSets": [
+        {
+            "name": "Release files",
+            "files": [
+                {
+                    "include": "Oscillator/*.c",
+                    "encoding": "utf-8"
+                },
+                "Oscillator/src/LCD.h"
+            ]
+        },
+        {
+            "name": "Debug files",
+            "files": [
+                {
+                    "include": "Oscillator/*.c",
+                    "encoding": "utf-8"
+                },
+                "Oscillator/src/main.c",
+                "Oscillator/src/LCD.c",
+                "Oscillator/src/util/font.h",
+                "Oscillator/include/lcd.h",
+                "Oscillator/include/ioPin.h",
+                "Oscillator/src/LCD.h",
+                "Oscillator/Debug/Oscillator.elf",
+                "Oscillator/src/control.c",
+                "Oscillator/src/control.h"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/_build/Oscillator/Debug/CMakeFiles/Oscillator_Debug_Debug_avr_gcc_compile.dir
+C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/_build/Oscillator/Debug/CMakeFiles/Oscillator_Debug_image_CdJaN_UP.dir
+C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/_build/Oscillator/Debug/CMakeFiles/edit_cache.dir
+C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/_build/Oscillator/Debug/CMakeFiles/rebuild_cache.dir

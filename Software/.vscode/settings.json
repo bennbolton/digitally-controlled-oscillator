@@ -1,0 +1,10 @@
+{
+    "cmake.sourceDirectory": "C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/cmake/Oscillator/Debug",
+    "C_Cpp.default.compilerPath": "C:/Program Files (x86)/Atmel/Studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/avr-gcc.exe",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "mplab-core-da"
+    ]
+}

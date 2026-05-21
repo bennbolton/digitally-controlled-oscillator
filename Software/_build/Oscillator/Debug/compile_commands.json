@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/_build/Oscillator/Debug",
+  "command": "C:\\Users\\bb155134\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDEBUG -DDebug=Debug -D__ATxmega256A3BU__ -I\"C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/XMEGAA_DFP/1.3.146/include\" -x c -g -gdwarf-2 -mmcu=atxmega256a3bu \"-BC:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/XMEGAA_DFP/1.3.146/gcc/dev/atxmega256a3bu\" -x c -c -funsigned-char -funsigned-bitfields -O0 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Oscillator_Debug_Debug_avr_gcc_compile.dir\\C_\\Users\\bb155134\\OneDrive_-_Renishaw_plc\\Oscillator\\Software\\Oscillator\\Oscillator\\src\\LCD.c.o -c \"C:\\Users\\bb155134\\OneDrive - Renishaw plc\\Oscillator\\Software\\Oscillator\\Oscillator\\src\\LCD.c\"",
+  "file": "C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/Oscillator/src/LCD.c",
+  "output": "C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/_build/Oscillator/Debug/CMakeFiles/Oscillator_Debug_Debug_avr_gcc_compile.dir/C_/Users/bb155134/OneDrive_-_Renishaw_plc/Oscillator/Software/Oscillator/Oscillator/src/LCD.c.o"
+},
+{
+  "directory": "C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/_build/Oscillator/Debug",
+  "command": "C:\\Users\\bb155134\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDEBUG -DDebug=Debug -D__ATxmega256A3BU__ -I\"C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/XMEGAA_DFP/1.3.146/include\" -x c -g -gdwarf-2 -mmcu=atxmega256a3bu \"-BC:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/XMEGAA_DFP/1.3.146/gcc/dev/atxmega256a3bu\" -x c -c -funsigned-char -funsigned-bitfields -O0 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Oscillator_Debug_Debug_avr_gcc_compile.dir\\2635f7fa9e4767dc0ba03a89b7992a1b\\Oscillator\\Software\\Oscillator\\Oscillator\\src\\control.c.o -c \"C:\\Users\\bb155134\\OneDrive - Renishaw plc\\Oscillator\\Software\\Oscillator\\Oscillator\\src\\control.c\"",
+  "file": "C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/Oscillator/src/control.c",
+  "output": "C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/_build/Oscillator/Debug/CMakeFiles/Oscillator_Debug_Debug_avr_gcc_compile.dir/2635f7fa9e4767dc0ba03a89b7992a1b/Oscillator/Software/Oscillator/Oscillator/src/control.c.o"
+},
+{
+  "directory": "C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/_build/Oscillator/Debug",
+  "command": "C:\\Users\\bb155134\\.mplab\\app-finder\\apps\\avr-gcc\\v7.3.0\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe -DDEBUG -DDebug=Debug -D__ATxmega256A3BU__ -I\"C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/XMEGAA_DFP/1.3.146/include\" -x c -g -gdwarf-2 -mmcu=atxmega256a3bu \"-BC:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/XMEGAA_DFP/1.3.146/gcc/dev/atxmega256a3bu\" -x c -c -funsigned-char -funsigned-bitfields -O0 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -Wall -o CMakeFiles\\Oscillator_Debug_Debug_avr_gcc_compile.dir\\C_\\Users\\bb155134\\OneDrive_-_Renishaw_plc\\Oscillator\\Software\\Oscillator\\Oscillator\\src\\main.c.o -c \"C:\\Users\\bb155134\\OneDrive - Renishaw plc\\Oscillator\\Software\\Oscillator\\Oscillator\\src\\main.c\"",
+  "file": "C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/Oscillator/src/main.c",
+  "output": "C:/Users/bb155134/OneDrive - Renishaw plc/Oscillator/Software/Oscillator/_build/Oscillator/Debug/CMakeFiles/Oscillator_Debug_Debug_avr_gcc_compile.dir/C_/Users/bb155134/OneDrive_-_Renishaw_plc/Oscillator/Software/Oscillator/Oscillator/src/main.c.o"
+}
+]
